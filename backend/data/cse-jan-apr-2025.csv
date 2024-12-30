@@ -1,0 +1,89 @@
+ID,Discipline,Course Name,SME Name,Institute 1,Institute 2,Duration,URL
+noc25_cs76,Computer Science,Large Applications Practicum,Prof. Varun Dutt,IIT Mandi,IIT Madras,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs76/preview
+noc25_cs01,Computer Science and Engineering,Advanced Computer Architecture,Prof. Smruti R.Sarangi,IIT Delhi,IIT Delhi,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs01/preview
+noc25_cs02,Computer Science and Engineering,Advanced Computer Networks,"Prof. Neminath Hubballi
+Prof. Sameer Kulkarni","IIT Indore
+ IIT Gandhi Nagar",IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs02/preview
+noc25_cs03,Computer Science and Engineering,Advanced Graph Theory,Prof. Rajiv Misra,IIT Patna,IIT Kanpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs03/preview
+noc25_cs04,Computer Science and Engineering,Affective Computing,"Prof. Jainendra Shukla
+Prof. Abhinav Dhall",IIIT Delhi,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs04/preview
+noc25_cs05,Computer Science and Engineering,AI:Constraint Satisfaction,Prof. Deepak Khemani,IIT Madras,IIT Madras,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs05/preview
+noc25_cs07,Computer Science and Engineering,Artificial Intelligence: Knowledge Representation And Reasoning,Prof. Deepak Khemani,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs07/preview
+noc25_cs08,Computer Science and Engineering,Blockchain and its Applications,"Prof. Sandip Chakraborty
+Prof. Shamik Sural",IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs08/preview
+noc25_cs09,Computer Science and Engineering,Business Intelligence & Analytics,Prof. Saji K Mathew,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs09/preview
+noc25_cs10,Computer Science and Engineering,Circuit Complexity Theory,Prof. Raghunath Tewari,IIT Kanpur,IIT Kanpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs10/preview
+noc25_cs11,Computer Science and Engineering,Cloud Computing,Prof. Soumya Kanti Ghosh,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs11/preview
+noc25_cs12,Computer Science and Engineering,Cloud Computing and Distributed Systems,Prof. Rajiv Misra,IIT Patna,IIT Kanpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs12/preview
+noc25_cs13,Computer Science and Engineering,Compiler Design,Prof. Santanu Chattopadhyay,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs13/preview
+noc25_cs14,Computer Science and Engineering,Computational Number Theory and Algebra,Prof. Nitin Saxena,IIT Kanpur,IIT Kanpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs14/preview
+noc25_cs15,Computer Science and Engineering,Computer Networks And Internet Protocol,"Prof. Soumya Kanti Ghosh
+Prof. Sandip Chakraborty",IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs15/preview
+noc25_cs16,Computer Science and Engineering,Cryptography and Network Security,Prof. Sourav Mukhopadhyay,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs16/preview
+noc25_cs17,Computer Science and Engineering,Data Analytics with Python,Prof. A Ramesh,IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs17/preview
+noc25_cs18,Computer Science and Engineering,Data Base Management System,"Prof. Partha Pratim Das
+Prof. Samiran Chattopadhyay",IIT Kharagpur,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs18/preview
+noc25_cs19,Computer Science and Engineering,Data Mining,Prof. Pabitra Mitra,IIT Kharagpur,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs19/preview
+noc25_cs20,Computer Science and Engineering,Data Science for Engineers,"Prof. Ragunathan Rengasamy
+Prof. Shankar Narasimhan",IIT Madras,IIT Madras,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs20/preview
+noc25_cs21,Computer Science and Engineering,Deep Learning - IIT Ropar,Prof. Sudarshan Iyengar,IIT Ropar,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs21/preview
+noc25_cs23,Computer Science and Engineering,Design and analysis of algorithms,Prof. Madhavan Mukund,CMI,IIT Madras,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs23/preview
+noc25_cs24,Computer Science and Engineering,Design and Engineering of Computer Systems,Prof. Mythili Vutukuru,IIT Bombay,IIT Bombay,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs24/preview
+noc25_cs25,Computer Science and Engineering,Digital Design with Verilog,"Prof. Chandan Karfa, 
+Prof. Aryabartta Sahu",IIT Guwahati,IIT Guwahati,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs25/preview
+noc25_cs26,Computer Science and Engineering,Discrete Mathematics,Prof. Sudarshan Iyengar,IIT Ropar,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs26/preview
+noc25_cs28,Computer Science and Engineering,Edge Computing,Prof. Rajiv Misra,IIT Patna,IIT Kanpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs28/preview
+noc25_cs29,Computer Science and Engineering,Embedded System Design with ARM,"Prof. Indranil Sengupta
+Prof .Kamalika Dutta",IIT Kharagpur,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs29/preview
+noc25_cs30,Computer Science and Engineering,Embedded Systems Design,Prof. Anupam Basu,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs30/preview
+noc25_cs31,Computer Science and Engineering,Foundations of Cryptography,Prof. Ashish Choudhury,IIIT Bangalore,IISc Bangalore,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs31/preview
+noc25_cs32,Computer Science and Engineering,Foundations of Cyber Physical Systems,Prof. Soumyajit Dey,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs32/preview
+noc25_cs33,Computer Science and Engineering,Fundamental Algorithms: Design and Analysis,Prof. Sourav Mukhopadhyay,IIT Kharagpur,IIT Kharagpur,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs33/preview
+noc25_cs34,Computer Science and Engineering,Fundamentals of Object Oriented Programming,Prof. Balasubramanian Raman,IIT Roorkee,IIT Roorkee,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs34/preview
+noc25_cs35,Computer Science and Engineering,Games and Information,Prof. Ankur A. Kulkarni,IIT Bombay,IIT Bombay,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs35/preview
+noc25_cs36,Computer Science and Engineering,Getting Started with Competitive Programming,Prof. Neeldhara Misra,IIT Gandhinagar,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs36/preview
+noc25_cs37,Computer Science and Engineering,GPU Architectures and Programming,Prof. Soumyajit Dey,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs37/preview
+noc25_cs38,Computer Science and Engineering,Human Computer Interaction (In English),Prof. Rajiv Ratn Shah,IIIT Delhi,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs38/preview
+noc25_cs39,Computer Science and Engineering,Information Security - 5 - Secure Systems Engineering,Prof. Chester Robeiro,IIT Madras,IIT Madras,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs39/preview
+noc25_cs40,Computer Science and Engineering,Introduction to Database Systems,Prof. Sreenivasa Kumar,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs40/preview
+noc25_cs41,Computer Science and Engineering,Introduction to Embedded System Design,"Prof. Dhananjay V. Gadre
+Prof. Badri N Subudhi",IIT Delhi,IIT Delhi,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs41/preview
+noc25_cs42,Computer Science and Engineering,Introduction To Haskell Programming,Prof. S. P Suresh,CMI,IIT Madras,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs42/preview
+noc25_cs43,Computer Science and Engineering,Introduction To Industry 4.0 And Industrial Internet Of Things,Prof. Sudip Misra,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs43/preview
+noc25_cs44,Computer Science and Engineering,Introduction To Internet Of Things,Prof. Sudip Misra,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs44/preview
+noc25_cs46,Computer Science and Engineering,Introduction to Machine Learning,Prof. Balaraman Ravindran,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs46/preview
+noc25_cs47,Computer Science and Engineering,Introduction to Machine Learning (Tamil),Prof. Arun Rajkumar,IIT Madras,IIT Madras,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs47/preview
+noc25_cs48,Computer Science and Engineering,Introduction To Soft Computing,Prof. Debasis Samanta,IIT Kharagpur,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs48/preview
+noc25_cs49,Computer Science and Engineering,Machine Learning for Engineering and science applications,"Prof. Balaji Srinivasan
+Prof. Ganapathy Krishnamurthi",IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs49/preview
+noc25_cs50,Computer Science and Engineering,"Machine Learning, ML",Prof. Carl Gustaf Jansson,"KTH Royal Institute of Technology, Sweden",IIT Madras,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs50/preview
+noc25_cs51,Computer Science and Engineering,Natural Language Processing,Prof. Pawan Goyal,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs51/preview
+noc25_cs52,Computer Science and Engineering,"Object Oriented System Development Using UML, Java And Patterns",Prof. Rajib Mall,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs52/preview
+noc25_cs53,Computer Science and Engineering,Optimisation for Machine Learning: Theory and Implementation (Hindi),Prof. Pravesh Biyani,IIIT Delhi,IIT Madras,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs53/preview
+noc25_cs54,Computer Science and Engineering,Parallel Computer Architecture,Prof. Hemangee K. Kapoor,IIT Guwahati,IIT Guwahati,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs54/preview
+noc25_cs56,Computer Science and Engineering,Problem Solving Through Programming In C,Prof. Anupam Basu,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs56/preview
+noc25_cs57,Computer Science and Engineering,Programming In Java,Prof. Debasis Samanta,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs57/preview
+noc25_cs58,Computer Science and Engineering,Programming in Modern C++,Prof. Partha Pratim Das,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs58/preview
+noc25_cs59,Computer Science and Engineering,"Programming, Data Structures And Algorithms Using Python",Prof. Madhavan Mukund,CMI,IIT Madras,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs59/preview
+noc25_cs60,Computer Science and Engineering,Python for Data Science,Prof. Ragunathan Rengasamy,IIT Madras,IIT Madras,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs60/preview
+noc25_cs61,Computer Science and Engineering,Quantum Algorithms and Cryptography,Prof. Shweta Agrawal,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs61/preview
+noc25_cs62,Computer Science and Engineering,Reinforcement Learning,Prof. Balaraman Ravindran,IIT Madras,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs62/preview
+noc25_cs63,Computer Science and Engineering,Secure Computation: Part I,Prof. Ashish Choudhury,IIIT Bangalore,IISc Bangalore,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs63/preview
+noc25_cs64,Computer Science and Engineering,Selected Topics in Algorithms,Prof. Palash Dey,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs64/preview
+noc25_cs65,Computer Science and Engineering,Social Networks,Prof. Sudarshan Iyengar,IIT Ropar,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs65/preview
+noc25_cs66,Computer Science and Engineering,Software Testing,Prof. Rajib Mall,IIT Kharagpur,IIT Kharagpur,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs66/preview
+noc25_cs67,Computer Science and Engineering,Switching Circuits and Logic Design,Prof. Indranil Sengupta,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs67/preview
+noc25_cs68,Computer Science and Engineering,Systems and Usable Security,Prof. Neminath Hubballi,IIT Indore,IIT Madras,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs68/preview
+noc25_cs69,Computer Science and Engineering,The Joy of Computing using Python,Prof. Sudarshan Iyengar,IIT Ropar,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs69/preview
+noc25_cs70,Computer Science and Engineering,Theory of Computation,Prof. Subrahmanyam Kalyanasundaram,IIT Hyderabad,IIT Madras,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs70/preview
+noc25_cs73,Computer Science and Engineering,VLSI Physical Design,Prof. Indranil Sengupta,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs73/preview
+noc25_cs74,Computer Science and Engineering,Wireless Ad Hoc and Sensor Networks,Prof. Sudip Misra,IIT Kharagpur,IIT Kharagpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs74/preview
+noc25_cs75,Computer Science and Engineering,Foundation of Cloud IoT Edge ML,Prof. Rajiv Misra,IIT Patna,IIT Kanpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs75/preview
+noc25_cs77,Computer Science and Engineering,Linear programming and its applications to computer science,Prof. Rajat Mittal,IIT Kanpur,IIT Kanpur,8 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs77/preview
+noc25_cs78,Computer Science and Engineering,Real Time Operating System,Prof. Rajib Mall,IIT Kharagpur,IIT Kharagpur,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_cs78/preview
+noc25_ee16,Computer Science and Engineering,Deep Learning,Prof. Prabir Kumar Biswas,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee16/preview
+noc25_cs79,Computer Science and Engineering,Privacy and Security in Online Social Media,Prof. Ponnurangam Kumaraguru,IIIT Hyderabad,IIT Madras,12 weeks,https://onlinecourses.nptel.ac.in/noc25_cs79/preview
+noc25_ee02,Electrical Engineering,Advance Power Electronics,Prof. Bhim Singh,IIT Delhi,IIT Delhi,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee02/preview
+noc25_ee54,Electrical Engineering,Network Security,Prof. Gaurav S. Kasbekar,IIT Bombay,IIT Bombay,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee54/preview
+noc25_ee66,Electrical Engineering,"Power System Dynamics, Control and Monitoring",Prof. Debapriya Das,IIT Kharagpur,IIT Kharagpur,12 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee66/preview
+noc25_ee89,Electrical Engineering,Intelligent Control of Robotic Systems,Prof. M. Felix Orlando,IIT Roorkee,IIT Roorkee,4 Weeks,https://onlinecourses.nptel.ac.in/noc25_ee89/preview
