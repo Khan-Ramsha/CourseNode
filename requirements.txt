@@ -1,3 +1,6 @@
 nltk
 PyMuPDF
 spacy
+fastapi 
+uvicorn 
+python-multipart
