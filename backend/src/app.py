@@ -4,6 +4,7 @@ from user_syllabus_processing.extract_from_pdf import extract_module_content
 from user_syllabus_processing.syllabus_preprocessing import preprocess_text
 from similarity.matching import computing_similarity
 from similarity.rating import rate_courses
+from similarity.get_course import get_course_info
 import json
 
 file_name = "backend/artifacts/similarity.json"
@@ -33,3 +34,12 @@ with open(file_name, "w") as f:
 print(f"Cleared and wrote new data to {file_name}")
 top_8 = rate_courses(similarity_score)
 print(f"Top 8 relevant courses: {top_8}")
+
+for course in top_8:
+  course_id = course["course_id"]
+  course_info = get_course_info(data, course_id)
+
+  if course_info:
+      print(f"Course Info: {course_info}")
+  else:
+      print(f"No course found with ID: {searched_course_id}")
