@@ -5,6 +5,8 @@ from user_syllabus_processing.syllabus_preprocessing import preprocess_text
 from similarity.matching import computing_similarity
 from similarity.rating import rate_courses
 from similarity.get_course import get_course_info
+from similarity.get_course import load_csv
+import csv
 import json
 
 file_name = "backend/artifacts/similarity.json"
@@ -35,9 +37,11 @@ print(f"Cleared and wrote new data to {file_name}")
 top_8 = rate_courses(similarity_score)
 print(f"Top 8 relevant courses: {top_8}")
 
+course_data = load_csv("backend/data/processed/final_data.csv")
+
 for course in top_8:
   course_id = course["course_id"]
-  course_info = get_course_info(data, course_id)
+  course_info = get_course_info(course_data, course_id)
 
   if course_info:
       print(f"Course Info: {course_info}")
