@@ -36,7 +36,7 @@ def extract_module_content(pdf_path):
         print(f"Error processing PDF: {e}")
         return ""
 
-pdf_path = "backend/artifacts/syllabus.pdf"
-module_content = extract_module_content(pdf_path)
-print("Extracted Module Content:")
-print(module_content) #extracted required data from the user pdf
+# pdf_path = "backend/artifacts/syllabus.pdf"
+# module_content = extract_module_content(pdf_path)
+# print("Extracted Module Content:")
+# print(module_content) #extracted required data from the user pdf
