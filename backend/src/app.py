@@ -3,6 +3,7 @@ from generating_embeddings.course_embedding import course_embedding
 from user_syllabus_processing.extract_from_pdf import extract_module_content
 from user_syllabus_processing.syllabus_preprocessing import preprocess_text
 from similarity.matching import computing_similarity
+from similarity.rating import rate_courses
 import json
 
 file_name = "backend/artifacts/similarity.json"
@@ -30,3 +31,5 @@ with open(file_name, "w") as f:
     json.dump(similarity_score, f, indent=4)  # Write new data with pretty formatting
 
 print(f"Cleared and wrote new data to {file_name}")
+top_8 = rate_courses(similarity_score)
+print(f"Top 8 relevant courses: {top_8}")
