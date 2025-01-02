@@ -5,6 +5,8 @@ from user_syllabus_processing.syllabus_preprocessing import preprocess_text
 from similarity.matching import computing_similarity
 import json
 
+file_name = "backend/artifacts/similarity.json"
+
 pdf_path = "backend/artifacts/syllabus.pdf"
 module_content = extract_module_content(pdf_path)
 content = preprocess_text(module_content)#user pdf syllabus
@@ -21,3 +23,10 @@ print(f" User syllabus Embedding: {content}")
 # computing similarity matching score of "user syllabus" with "all available nptel courses"
 similarity_score = computing_similarity(content, course_syllabus_embedding)
 print(similarity_score)
+with open(file_name, "w") as f:
+    f.write("")  # This clears the file
+
+with open(file_name, "w") as f:
+    json.dump(similarity_score, f, indent=4)  # Write new data with pretty formatting
+
+print(f"Cleared and wrote new data to {file_name}")

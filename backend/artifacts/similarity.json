@@ -1,0 +1,3478 @@
+[
+    {
+        "course_id": "noc25_ae01",
+        "similarity": 0.09999122470617294
+    },
+    {
+        "course_id": "noc25_ae02",
+        "similarity": 0.30275434255599976
+    },
+    {
+        "course_id": "noc25_ae03",
+        "similarity": 0.2257980853319168
+    },
+    {
+        "course_id": "noc25_ae04",
+        "similarity": 0.035010796040296555
+    },
+    {
+        "course_id": "noc25_ae05",
+        "similarity": 0.2531875967979431
+    },
+    {
+        "course_id": "noc25_ae06",
+        "similarity": 0.2918962836265564
+    },
+    {
+        "course_id": "noc25_ae07",
+        "similarity": 0.12191720306873322
+    },
+    {
+        "course_id": "noc25_ae08",
+        "similarity": 0.22760234773159027
+    },
+    {
+        "course_id": "noc25_ae09",
+        "similarity": 0.16202150285243988
+    },
+    {
+        "course_id": "noc25_ae10",
+        "similarity": 0.2791297435760498
+    },
+    {
+        "course_id": "noc25_ae12",
+        "similarity": 0.20106755197048187
+    },
+    {
+        "course_id": "noc25_ae13",
+        "similarity": 0.09548470377922058
+    },
+    {
+        "course_id": "noc25_ae14",
+        "similarity": 0.1052655577659607
+    },
+    {
+        "course_id": "noc25_ae15",
+        "similarity": 0.23820386826992035
+    },
+    {
+        "course_id": "noc25_ae16",
+        "similarity": 0.1520414650440216
+    },
+    {
+        "course_id": "noc25_ag03",
+        "similarity": 0.2692287564277649
+    },
+    {
+        "course_id": "noc25_ag04",
+        "similarity": 0.1407254934310913
+    },
+    {
+        "course_id": "noc25_ag05",
+        "similarity": 0.10872510820627213
+    },
+    {
+        "course_id": "noc25_ag07",
+        "similarity": 0.2789832353591919
+    },
+    {
+        "course_id": "noc25_ag01",
+        "similarity": 0.0909147784113884
+    },
+    {
+        "course_id": "noc25_ag02",
+        "similarity": 0.09324193000793457
+    },
+    {
+        "course_id": "noc25_ag06",
+        "similarity": 0.306327223777771
+    },
+    {
+        "course_id": "noc25_ag08",
+        "similarity": 0.16635818779468536
+    },
+    {
+        "course_id": "noc25_ag09",
+        "similarity": 0.17402394115924835
+    },
+    {
+        "course_id": "noc25_ag10",
+        "similarity": 0.22516605257987976
+    },
+    {
+        "course_id": "noc25_ag11",
+        "similarity": 0.19754604995250702
+    },
+    {
+        "course_id": "noc25_ag12",
+        "similarity": 0.22508111596107483
+    },
+    {
+        "course_id": "noc25_ag13",
+        "similarity": 0.20945614576339722
+    },
+    {
+        "course_id": "noc25_ce48",
+        "similarity": 0.11136806756258011
+    },
+    {
+        "course_id": "noc25_me20",
+        "similarity": 0.22187083959579468
+    },
+    {
+        "course_id": "noc25_cs71",
+        "similarity": 0.21890418231487274
+    },
+    {
+        "course_id": "noc25_ar01",
+        "similarity": 0.24092580378055573
+    },
+    {
+        "course_id": "noc25_ar02",
+        "similarity": 0.27584993839263916
+    },
+    {
+        "course_id": "noc25_ar03",
+        "similarity": 0.1738254576921463
+    },
+    {
+        "course_id": "noc25_ar04",
+        "similarity": 0.17796126008033752
+    },
+    {
+        "course_id": "noc25_ar05",
+        "similarity": 0.3181982934474945
+    },
+    {
+        "course_id": "noc25_ar07",
+        "similarity": 0.23191289603710175
+    },
+    {
+        "course_id": "noc25_ar08",
+        "similarity": 0.22991973161697388
+    },
+    {
+        "course_id": "noc25_ar09",
+        "similarity": 0.29358747601509094
+    },
+    {
+        "course_id": "noc25_ar11",
+        "similarity": 0.1102551519870758
+    },
+    {
+        "course_id": "noc25_ar06",
+        "similarity": 0.21210290491580963
+    },
+    {
+        "course_id": "noc25_ar10",
+        "similarity": 0.2344832718372345
+    },
+    {
+        "course_id": "noc25_de11",
+        "similarity": 0.2745416462421417
+    },
+    {
+        "course_id": "noc25_ge18",
+        "similarity": 0.10481161624193192
+    },
+    {
+        "course_id": "noc25_bt18",
+        "similarity": 0.1881411373615265
+    },
+    {
+        "course_id": "noc25_bt35",
+        "similarity": 0.1712193638086319
+    },
+    {
+        "course_id": "noc25_bt38",
+        "similarity": 0.05120820179581642
+    },
+    {
+        "course_id": "noc25_bt39",
+        "similarity": 0.1408546417951584
+    },
+    {
+        "course_id": "noc25_bt41",
+        "similarity": 0.20817795395851135
+    },
+    {
+        "course_id": "noc25_bt43",
+        "similarity": 0.24895919859409332
+    },
+    {
+        "course_id": "noc25_bt02",
+        "similarity": 0.10515300929546356
+    },
+    {
+        "course_id": "noc25_bt03",
+        "similarity": 0.18206901848316193
+    },
+    {
+        "course_id": "noc25_bt04",
+        "similarity": -0.018793808296322823
+    },
+    {
+        "course_id": "noc25_bt05",
+        "similarity": 0.12996532022953033
+    },
+    {
+        "course_id": "noc25_bt06",
+        "similarity": 0.19415231049060822
+    },
+    {
+        "course_id": "noc25_bt07",
+        "similarity": 0.05033502355217934
+    },
+    {
+        "course_id": "noc25_bt08",
+        "similarity": 0.09265009313821793
+    },
+    {
+        "course_id": "noc25_bt09",
+        "similarity": 0.10933090001344681
+    },
+    {
+        "course_id": "noc25_bt10",
+        "similarity": 0.3502601385116577
+    },
+    {
+        "course_id": "noc25_bt11",
+        "similarity": 0.11046052724123001
+    },
+    {
+        "course_id": "noc25_bt12",
+        "similarity": 0.05477222800254822
+    },
+    {
+        "course_id": "noc25_bt13",
+        "similarity": 0.2625128924846649
+    },
+    {
+        "course_id": "noc25_bt14",
+        "similarity": 0.17550814151763916
+    },
+    {
+        "course_id": "noc25_bt16",
+        "similarity": 0.2506615221500397
+    },
+    {
+        "course_id": "noc25_bt17",
+        "similarity": 0.15534672141075134
+    },
+    {
+        "course_id": "noc25_bt19",
+        "similarity": 0.11970329284667969
+    },
+    {
+        "course_id": "noc25_bt21",
+        "similarity": 0.13361819088459015
+    },
+    {
+        "course_id": "noc25_bt22",
+        "similarity": 0.14280565083026886
+    },
+    {
+        "course_id": "noc25_bt23",
+        "similarity": 0.22239795327186584
+    },
+    {
+        "course_id": "noc25_bt24",
+        "similarity": 0.2206762582063675
+    },
+    {
+        "course_id": "noc25_bt25",
+        "similarity": 0.15664947032928467
+    },
+    {
+        "course_id": "noc25_bt26",
+        "similarity": 0.21504446864128113
+    },
+    {
+        "course_id": "noc25_bt27",
+        "similarity": 0.17417794466018677
+    },
+    {
+        "course_id": "noc25_bt28",
+        "similarity": 0.15635503828525543
+    },
+    {
+        "course_id": "noc25_bt29",
+        "similarity": 0.13935276865959167
+    },
+    {
+        "course_id": "noc25_bt30",
+        "similarity": 0.0922185406088829
+    },
+    {
+        "course_id": "noc25_bt31",
+        "similarity": 0.16217750310897827
+    },
+    {
+        "course_id": "noc25_bt32",
+        "similarity": 0.15678805112838745
+    },
+    {
+        "course_id": "noc25_bt33",
+        "similarity": 0.14443089067935944
+    },
+    {
+        "course_id": "noc25_bt34",
+        "similarity": 0.04925520718097687
+    },
+    {
+        "course_id": "noc25_bt36",
+        "similarity": 0.2244177758693695
+    },
+    {
+        "course_id": "noc25_bt37",
+        "similarity": 0.14295217394828796
+    },
+    {
+        "course_id": "noc25_bt40",
+        "similarity": 0.09439142793416977
+    },
+    {
+        "course_id": "noc25_bt42",
+        "similarity": 0.07552073895931244
+    },
+    {
+        "course_id": "noc25_bt01",
+        "similarity": 0.08470619469881058
+    },
+    {
+        "course_id": "noc25_ch31",
+        "similarity": 0.04045452922582626
+    },
+    {
+        "course_id": "noc25_ch01",
+        "similarity": 0.04427725449204445
+    },
+    {
+        "course_id": "noc25_ch02",
+        "similarity": 0.06207672879099846
+    },
+    {
+        "course_id": "noc25_ch03",
+        "similarity": 0.16812054812908173
+    },
+    {
+        "course_id": "noc25_ch05",
+        "similarity": 0.11931630969047546
+    },
+    {
+        "course_id": "noc25_ch06",
+        "similarity": 0.2675991952419281
+    },
+    {
+        "course_id": "noc25_ch07",
+        "similarity": 0.27248716354370117
+    },
+    {
+        "course_id": "noc25_ch08",
+        "similarity": 0.01225352194160223
+    },
+    {
+        "course_id": "noc25_ch09",
+        "similarity": 0.11401843279600143
+    },
+    {
+        "course_id": "noc25_ch10",
+        "similarity": 0.060034509748220444
+    },
+    {
+        "course_id": "noc25_ch11",
+        "similarity": 0.11771237850189209
+    },
+    {
+        "course_id": "noc25_ch12",
+        "similarity": 0.07699606567621231
+    },
+    {
+        "course_id": "noc25_ch13",
+        "similarity": 0.025187695398926735
+    },
+    {
+        "course_id": "noc25_ch14",
+        "similarity": 0.22432614862918854
+    },
+    {
+        "course_id": "noc25_ch15",
+        "similarity": 0.19866718351840973
+    },
+    {
+        "course_id": "noc25_ch16",
+        "similarity": 0.3134916126728058
+    },
+    {
+        "course_id": "noc25_ch17",
+        "similarity": 0.1293153464794159
+    },
+    {
+        "course_id": "noc25_ch18",
+        "similarity": 0.18935981392860413
+    },
+    {
+        "course_id": "noc25_ch20",
+        "similarity": 0.22821296751499176
+    },
+    {
+        "course_id": "noc25_ch21",
+        "similarity": 0.12199588865041733
+    },
+    {
+        "course_id": "noc25_ch22",
+        "similarity": 0.12169429659843445
+    },
+    {
+        "course_id": "noc25_ch24",
+        "similarity": 0.2209918349981308
+    },
+    {
+        "course_id": "noc25_ch25",
+        "similarity": 0.15809839963912964
+    },
+    {
+        "course_id": "noc25_ch26",
+        "similarity": 0.14744296669960022
+    },
+    {
+        "course_id": "noc25_ch28",
+        "similarity": 0.14627858996391296
+    },
+    {
+        "course_id": "noc25_ch29",
+        "similarity": 0.235700324177742
+    },
+    {
+        "course_id": "noc25_ch30",
+        "similarity": 0.14440880715847015
+    },
+    {
+        "course_id": "noc25_ch32",
+        "similarity": 0.23101642727851868
+    },
+    {
+        "course_id": "noc25_ch34",
+        "similarity": 0.20385076105594635
+    },
+    {
+        "course_id": "noc25_ch35",
+        "similarity": 0.0642283707857132
+    },
+    {
+        "course_id": "noc25_ch36",
+        "similarity": 0.05181637406349182
+    },
+    {
+        "course_id": "noc25_ch37",
+        "similarity": 0.163674995303154
+    },
+    {
+        "course_id": "noc25_ch38",
+        "similarity": 0.19610455632209778
+    },
+    {
+        "course_id": "noc25_ch39",
+        "similarity": 0.3043338656425476
+    },
+    {
+        "course_id": "noc25_ch40",
+        "similarity": 0.10854606330394745
+    },
+    {
+        "course_id": "noc25_ch41",
+        "similarity": 0.10429293662309647
+    },
+    {
+        "course_id": "noc25_ch42",
+        "similarity": 0.07056285440921783
+    },
+    {
+        "course_id": "noc25_ch43",
+        "similarity": 0.19815127551555634
+    },
+    {
+        "course_id": "noc25_ch44",
+        "similarity": 0.03486616536974907
+    },
+    {
+        "course_id": "noc25_ch45",
+        "similarity": 0.17051291465759277
+    },
+    {
+        "course_id": "noc25_ch46",
+        "similarity": 0.08871371299028397
+    },
+    {
+        "course_id": "noc25_ch47",
+        "similarity": 0.2093830555677414
+    },
+    {
+        "course_id": "noc25_ch48",
+        "similarity": 0.1232508048415184
+    },
+    {
+        "course_id": "noc25_ch27",
+        "similarity": 0.1306815892457962
+    },
+    {
+        "course_id": "noc25_ch04",
+        "similarity": 0.12259404361248016
+    },
+    {
+        "course_id": "noc25_cy01",
+        "similarity": 0.056111447513103485
+    },
+    {
+        "course_id": "noc25_cy02",
+        "similarity": 0.031855251640081406
+    },
+    {
+        "course_id": "noc25_cy03",
+        "similarity": 0.12711064517498016
+    },
+    {
+        "course_id": "noc25_cy04",
+        "similarity": 0.1509017050266266
+    },
+    {
+        "course_id": "noc25_cy05",
+        "similarity": 0.22015425562858582
+    },
+    {
+        "course_id": "noc25_cy06",
+        "similarity": -0.0703217014670372
+    },
+    {
+        "course_id": "noc25_cy07",
+        "similarity": 0.07160349935293198
+    },
+    {
+        "course_id": "noc25_cy08",
+        "similarity": 0.12793202698230743
+    },
+    {
+        "course_id": "noc25_cy09",
+        "similarity": 0.21885794401168823
+    },
+    {
+        "course_id": "noc25_cy10",
+        "similarity": 0.2510946989059448
+    },
+    {
+        "course_id": "noc25_cy11",
+        "similarity": 0.17314450442790985
+    },
+    {
+        "course_id": "noc25_cy12",
+        "similarity": 0.058174457401037216
+    },
+    {
+        "course_id": "noc25_cy13",
+        "similarity": 0.014922337606549263
+    },
+    {
+        "course_id": "noc25_cy14",
+        "similarity": 0.07350953668355942
+    },
+    {
+        "course_id": "noc25_cy15",
+        "similarity": 0.09953109174966812
+    },
+    {
+        "course_id": "noc25_cy16",
+        "similarity": 0.1570124328136444
+    },
+    {
+        "course_id": "noc25_cy17",
+        "similarity": 0.07106518000364304
+    },
+    {
+        "course_id": "noc25_cy18",
+        "similarity": 0.14628274738788605
+    },
+    {
+        "course_id": "noc25_cy19",
+        "similarity": 0.1167236715555191
+    },
+    {
+        "course_id": "noc25_cy20",
+        "similarity": 0.05021663010120392
+    },
+    {
+        "course_id": "noc25_cy21",
+        "similarity": 0.24236343801021576
+    },
+    {
+        "course_id": "noc25_cy22",
+        "similarity": 0.08516565710306168
+    },
+    {
+        "course_id": "noc25_cy23",
+        "similarity": 0.052638038992881775
+    },
+    {
+        "course_id": "noc25_cy24",
+        "similarity": 0.17878489196300507
+    },
+    {
+        "course_id": "noc25_cy25",
+        "similarity": 0.16804687678813934
+    },
+    {
+        "course_id": "noc25_cy26",
+        "similarity": 0.1933968961238861
+    },
+    {
+        "course_id": "noc25_cy27",
+        "similarity": 0.09734907001256943
+    },
+    {
+        "course_id": "noc25_cy28",
+        "similarity": 0.08837216347455978
+    },
+    {
+        "course_id": "noc25_cy29",
+        "similarity": 0.15346002578735352
+    },
+    {
+        "course_id": "noc25_cy30",
+        "similarity": 0.05962575599551201
+    },
+    {
+        "course_id": "noc25_cy31",
+        "similarity": 0.24830016493797302
+    },
+    {
+        "course_id": "noc25_cy32",
+        "similarity": 0.16333504021167755
+    },
+    {
+        "course_id": "noc25_cy33",
+        "similarity": 0.1984422653913498
+    },
+    {
+        "course_id": "noc25_cy34",
+        "similarity": 0.09952657669782639
+    },
+    {
+        "course_id": "noc25_cy35",
+        "similarity": 0.15262846648693085
+    },
+    {
+        "course_id": "noc25_cy36",
+        "similarity": 0.17693856358528137
+    },
+    {
+        "course_id": "noc25_cy37",
+        "similarity": 0.008674116805195808
+    },
+    {
+        "course_id": "noc25_ch19",
+        "similarity": 0.22583505511283875
+    },
+    {
+        "course_id": "noc25_ce02",
+        "similarity": 0.0819077119231224
+    },
+    {
+        "course_id": "noc25_ce04",
+        "similarity": 0.22433890402317047
+    },
+    {
+        "course_id": "noc25_ce05",
+        "similarity": 0.1615903675556183
+    },
+    {
+        "course_id": "noc25_ce06",
+        "similarity": 0.26908108592033386
+    },
+    {
+        "course_id": "noc25_ce07",
+        "similarity": 0.2514960467815399
+    },
+    {
+        "course_id": "noc25_ce10",
+        "similarity": 0.132894828915596
+    },
+    {
+        "course_id": "noc25_ce11",
+        "similarity": 0.28076010942459106
+    },
+    {
+        "course_id": "noc25_ce12",
+        "similarity": 0.18646708130836487
+    },
+    {
+        "course_id": "noc25_ce13",
+        "similarity": 0.2884220778942108
+    },
+    {
+        "course_id": "noc25_ce14",
+        "similarity": 0.08585183322429657
+    },
+    {
+        "course_id": "noc25_ce15",
+        "similarity": 0.10749399662017822
+    },
+    {
+        "course_id": "noc25_ce16",
+        "similarity": 0.2692147493362427
+    },
+    {
+        "course_id": "noc25_ce17",
+        "similarity": 0.2520456612110138
+    },
+    {
+        "course_id": "noc25_ce19",
+        "similarity": 0.11328285187482834
+    },
+    {
+        "course_id": "noc25_ce20",
+        "similarity": 0.06585993617773056
+    },
+    {
+        "course_id": "noc25_ce21",
+        "similarity": 0.1919565498828888
+    },
+    {
+        "course_id": "noc25_ce22",
+        "similarity": 0.28580373525619507
+    },
+    {
+        "course_id": "noc25_ce23",
+        "similarity": 0.30165404081344604
+    },
+    {
+        "course_id": "noc25_ce24",
+        "similarity": 0.17432256042957306
+    },
+    {
+        "course_id": "noc25_ce26",
+        "similarity": 0.12376421689987183
+    },
+    {
+        "course_id": "noc25_ce28",
+        "similarity": 0.13353414833545685
+    },
+    {
+        "course_id": "noc25_ce29",
+        "similarity": 0.13015592098236084
+    },
+    {
+        "course_id": "noc25_ce30",
+        "similarity": 0.11543402820825577
+    },
+    {
+        "course_id": "noc25_ce31",
+        "similarity": 0.21023878455162048
+    },
+    {
+        "course_id": "noc25_ce32",
+        "similarity": 0.2298179715871811
+    },
+    {
+        "course_id": "noc25_ce33",
+        "similarity": 0.15371736884117126
+    },
+    {
+        "course_id": "noc25_ce34",
+        "similarity": 0.19177943468093872
+    },
+    {
+        "course_id": "noc25_ce35",
+        "similarity": 0.20317712426185608
+    },
+    {
+        "course_id": "noc25_ce36",
+        "similarity": 0.24671728909015656
+    },
+    {
+        "course_id": "noc25_ce38",
+        "similarity": 0.1079244613647461
+    },
+    {
+        "course_id": "noc25_ce39",
+        "similarity": 0.18621106445789337
+    },
+    {
+        "course_id": "noc25_ce40",
+        "similarity": 0.24996912479400635
+    },
+    {
+        "course_id": "noc25_ce41",
+        "similarity": 0.1386137306690216
+    },
+    {
+        "course_id": "noc25_ce45",
+        "similarity": 0.08881541341543198
+    },
+    {
+        "course_id": "noc25_ce46",
+        "similarity": 0.26244452595710754
+    },
+    {
+        "course_id": "noc25_ce47",
+        "similarity": 0.24263975024223328
+    },
+    {
+        "course_id": "noc25_ce49",
+        "similarity": 0.2137739658355713
+    },
+    {
+        "course_id": "noc25_ce50",
+        "similarity": 0.12435224652290344
+    },
+    {
+        "course_id": "noc25_ce51",
+        "similarity": 0.11986005306243896
+    },
+    {
+        "course_id": "noc25_ce52",
+        "similarity": 0.07363276183605194
+    },
+    {
+        "course_id": "noc25_ce53",
+        "similarity": 0.14863359928131104
+    },
+    {
+        "course_id": "noc25_ce54",
+        "similarity": 0.27139341831207275
+    },
+    {
+        "course_id": "noc25_ce55",
+        "similarity": 0.26913982629776
+    },
+    {
+        "course_id": "noc25_ce56",
+        "similarity": 0.1194211095571518
+    },
+    {
+        "course_id": "noc25_ce57",
+        "similarity": 0.17657552659511566
+    },
+    {
+        "course_id": "noc25_ce58",
+        "similarity": 0.2036043256521225
+    },
+    {
+        "course_id": "noc25_ce60",
+        "similarity": 0.41835150122642517
+    },
+    {
+        "course_id": "noc25_ce61",
+        "similarity": 0.20806530117988586
+    },
+    {
+        "course_id": "noc25_ce62",
+        "similarity": 0.337027907371521
+    },
+    {
+        "course_id": "noc25_ce63",
+        "similarity": 0.19992874562740326
+    },
+    {
+        "course_id": "noc25_ce64",
+        "similarity": 0.13937926292419434
+    },
+    {
+        "course_id": "noc25_ce65",
+        "similarity": 0.31190961599349976
+    },
+    {
+        "course_id": "noc25_ce69",
+        "similarity": 0.12877075374126434
+    },
+    {
+        "course_id": "noc25_ce70",
+        "similarity": 0.17977216839790344
+    },
+    {
+        "course_id": "noc25_ce66",
+        "similarity": -0.018500568345189095
+    },
+    {
+        "course_id": "noc25_ce27",
+        "similarity": 0.23430179059505463
+    },
+    {
+        "course_id": "noc25_cs76",
+        "similarity": 0.22080682218074799
+    },
+    {
+        "course_id": "noc25_cs01",
+        "similarity": 0.3164440989494324
+    },
+    {
+        "course_id": "noc25_cs02",
+        "similarity": 0.6051688194274902
+    },
+    {
+        "course_id": "noc25_cs03",
+        "similarity": 0.2682943642139435
+    },
+    {
+        "course_id": "noc25_cs04",
+        "similarity": 0.19835658371448517
+    },
+    {
+        "course_id": "noc25_cs05",
+        "similarity": 0.3718157410621643
+    },
+    {
+        "course_id": "noc25_cs07",
+        "similarity": 0.19521582126617432
+    },
+    {
+        "course_id": "noc25_cs08",
+        "similarity": 0.2886376678943634
+    },
+    {
+        "course_id": "noc25_cs09",
+        "similarity": 0.2219945192337036
+    },
+    {
+        "course_id": "noc25_cs10",
+        "similarity": 0.23744069039821625
+    },
+    {
+        "course_id": "noc25_cs11",
+        "similarity": 0.3793324828147888
+    },
+    {
+        "course_id": "noc25_cs12",
+        "similarity": 0.42121070623397827
+    },
+    {
+        "course_id": "noc25_cs13",
+        "similarity": 0.26344960927963257
+    },
+    {
+        "course_id": "noc25_cs14",
+        "similarity": 0.13058237731456757
+    },
+    {
+        "course_id": "noc25_cs15",
+        "similarity": 0.6513561010360718
+    },
+    {
+        "course_id": "noc25_cs16",
+        "similarity": 0.2769528329372406
+    },
+    {
+        "course_id": "noc25_cs17",
+        "similarity": 0.16618704795837402
+    },
+    {
+        "course_id": "noc25_cs18",
+        "similarity": 0.28671109676361084
+    },
+    {
+        "course_id": "noc25_cs19",
+        "similarity": 0.2554502487182617
+    },
+    {
+        "course_id": "noc25_cs20",
+        "similarity": 0.20409747958183289
+    },
+    {
+        "course_id": "noc25_cs21",
+        "similarity": 0.17205145955085754
+    },
+    {
+        "course_id": "noc25_cs23",
+        "similarity": 0.3242008090019226
+    },
+    {
+        "course_id": "noc25_cs24",
+        "similarity": 0.5079673528671265
+    },
+    {
+        "course_id": "noc25_cs25",
+        "similarity": 0.3136350214481354
+    },
+    {
+        "course_id": "noc25_cs26",
+        "similarity": 0.21604906022548676
+    },
+    {
+        "course_id": "noc25_cs28",
+        "similarity": 0.3503815531730652
+    },
+    {
+        "course_id": "noc25_cs29",
+        "similarity": 0.319153755903244
+    },
+    {
+        "course_id": "noc25_cs30",
+        "similarity": 0.37346145510673523
+    },
+    {
+        "course_id": "noc25_cs31",
+        "similarity": 0.3589579463005066
+    },
+    {
+        "course_id": "noc25_cs32",
+        "similarity": 0.31097257137298584
+    },
+    {
+        "course_id": "noc25_cs33",
+        "similarity": 0.3267453908920288
+    },
+    {
+        "course_id": "noc25_cs34",
+        "similarity": 0.4331216514110565
+    },
+    {
+        "course_id": "noc25_cs35",
+        "similarity": 0.17924512922763824
+    },
+    {
+        "course_id": "noc25_cs36",
+        "similarity": 0.22702591121196747
+    },
+    {
+        "course_id": "noc25_cs37",
+        "similarity": 0.35791876912117004
+    },
+    {
+        "course_id": "noc25_cs38",
+        "similarity": 0.2979094684123993
+    },
+    {
+        "course_id": "noc25_cs39",
+        "similarity": 0.24536556005477905
+    },
+    {
+        "course_id": "noc25_cs40",
+        "similarity": 0.3400494456291199
+    },
+    {
+        "course_id": "noc25_cs41",
+        "similarity": 0.34442222118377686
+    },
+    {
+        "course_id": "noc25_cs42",
+        "similarity": 0.29421794414520264
+    },
+    {
+        "course_id": "noc25_cs43",
+        "similarity": 0.3726166784763336
+    },
+    {
+        "course_id": "noc25_cs44",
+        "similarity": 0.4553336799144745
+    },
+    {
+        "course_id": "noc25_cs46",
+        "similarity": 0.28743281960487366
+    },
+    {
+        "course_id": "noc25_cs47",
+        "similarity": 0.23495140671730042
+    },
+    {
+        "course_id": "noc25_cs48",
+        "similarity": 0.19631026685237885
+    },
+    {
+        "course_id": "noc25_cs49",
+        "similarity": 0.2929251492023468
+    },
+    {
+        "course_id": "noc25_cs50",
+        "similarity": 0.19502320885658264
+    },
+    {
+        "course_id": "noc25_cs51",
+        "similarity": 0.19166292250156403
+    },
+    {
+        "course_id": "noc25_cs52",
+        "similarity": 0.35757091641426086
+    },
+    {
+        "course_id": "noc25_cs53",
+        "similarity": 0.21030569076538086
+    },
+    {
+        "course_id": "noc25_cs54",
+        "similarity": 0.5230077505111694
+    },
+    {
+        "course_id": "noc25_cs56",
+        "similarity": 0.28980258107185364
+    },
+    {
+        "course_id": "noc25_cs57",
+        "similarity": 0.34145036339759827
+    },
+    {
+        "course_id": "noc25_cs58",
+        "similarity": 0.2406340092420578
+    },
+    {
+        "course_id": "noc25_cs59",
+        "similarity": 0.4003153145313263
+    },
+    {
+        "course_id": "noc25_cs60",
+        "similarity": 0.1949707567691803
+    },
+    {
+        "course_id": "noc25_cs61",
+        "similarity": 0.20996113121509552
+    },
+    {
+        "course_id": "noc25_cs62",
+        "similarity": 0.07276427745819092
+    },
+    {
+        "course_id": "noc25_cs63",
+        "similarity": 0.39170822501182556
+    },
+    {
+        "course_id": "noc25_cs64",
+        "similarity": 0.323009729385376
+    },
+    {
+        "course_id": "noc25_cs65",
+        "similarity": 0.21640783548355103
+    },
+    {
+        "course_id": "noc25_cs66",
+        "similarity": 0.2329038828611374
+    },
+    {
+        "course_id": "noc25_cs67",
+        "similarity": 0.3757954239845276
+    },
+    {
+        "course_id": "noc25_cs68",
+        "similarity": 0.39783304929733276
+    },
+    {
+        "course_id": "noc25_cs69",
+        "similarity": 0.20303700864315033
+    },
+    {
+        "course_id": "noc25_cs70",
+        "similarity": 0.285625159740448
+    },
+    {
+        "course_id": "noc25_cs72",
+        "similarity": 0.31126073002815247
+    },
+    {
+        "course_id": "noc25_cs73",
+        "similarity": 0.4421899616718292
+    },
+    {
+        "course_id": "noc25_cs74",
+        "similarity": 0.4139832556247711
+    },
+    {
+        "course_id": "noc25_cs75",
+        "similarity": 0.4213738441467285
+    },
+    {
+        "course_id": "noc25_cs77",
+        "similarity": 0.17696839570999146
+    },
+    {
+        "course_id": "noc25_cs78",
+        "similarity": 0.3044610619544983
+    },
+    {
+        "course_id": "noc25_ee16",
+        "similarity": 0.2517484128475189
+    },
+    {
+        "course_id": "noc25_cs79",
+        "similarity": 0.1533566266298294
+    },
+    {
+        "course_id": "noc25_cs45",
+        "similarity": 0.24889083206653595
+    },
+    {
+        "course_id": "noc25_cs27",
+        "similarity": 0.1920805126428604
+    },
+    {
+        "course_id": "noc25_cs06",
+        "similarity": 0.2114909589290619
+    },
+    {
+        "course_id": "noc25_ce01",
+        "similarity": 0.06905459612607956
+    },
+    {
+        "course_id": "noc25_de12",
+        "similarity": 0.26820123195648193
+    },
+    {
+        "course_id": "noc25_de09",
+        "similarity": 0.41423317790031433
+    },
+    {
+        "course_id": "noc25_de01",
+        "similarity": 0.22223296761512756
+    },
+    {
+        "course_id": "noc25_de02",
+        "similarity": 0.16447941958904266
+    },
+    {
+        "course_id": "noc25_de03",
+        "similarity": 0.2803533971309662
+    },
+    {
+        "course_id": "noc25_de04",
+        "similarity": 0.19813105463981628
+    },
+    {
+        "course_id": "noc25_de05",
+        "similarity": 0.2579481601715088
+    },
+    {
+        "course_id": "noc25_de06",
+        "similarity": 0.11779540032148361
+    },
+    {
+        "course_id": "noc25_de07",
+        "similarity": 0.16277813911437988
+    },
+    {
+        "course_id": "noc25_de08",
+        "similarity": 0.3004204332828522
+    },
+    {
+        "course_id": "noc25_de10",
+        "similarity": 0.3645172119140625
+    },
+    {
+        "course_id": "noc25_ce25",
+        "similarity": 0.07259539514780045
+    },
+    {
+        "course_id": "noc25_ce42",
+        "similarity": 0.13007688522338867
+    },
+    {
+        "course_id": "noc25_ce59",
+        "similarity": 0.04272746294736862
+    },
+    {
+        "course_id": "noc25_ce67",
+        "similarity": 0.19678477942943573
+    },
+    {
+        "course_id": "noc25_ce43",
+        "similarity": 0.15405601263046265
+    },
+    {
+        "course_id": "noc25_ge14",
+        "similarity": 0.10252413153648376
+    },
+    {
+        "course_id": "noc25_ec01",
+        "similarity": 0.16332638263702393
+    },
+    {
+        "course_id": "noc25_ec02",
+        "similarity": 0.17057733237743378
+    },
+    {
+        "course_id": "noc25_ec03",
+        "similarity": 0.11657609790563583
+    },
+    {
+        "course_id": "noc25_ec04",
+        "similarity": 0.17628617584705353
+    },
+    {
+        "course_id": "noc25_ec05",
+        "similarity": 0.08232838660478592
+    },
+    {
+        "course_id": "noc25_ec06",
+        "similarity": -0.05235868692398071
+    },
+    {
+        "course_id": "noc25_ec07",
+        "similarity": 0.2246217131614685
+    },
+    {
+        "course_id": "noc25_ma58",
+        "similarity": 0.23688799142837524
+    },
+    {
+        "course_id": "noc25_cs22",
+        "similarity": 0.25016850233078003
+    },
+    {
+        "course_id": "noc25_ee01",
+        "similarity": 0.1283963918685913
+    },
+    {
+        "course_id": "noc25_ee03",
+        "similarity": 0.300470232963562
+    },
+    {
+        "course_id": "noc25_ee04",
+        "similarity": 0.05790959298610687
+    },
+    {
+        "course_id": "noc25_ee05",
+        "similarity": 0.010540084913372993
+    },
+    {
+        "course_id": "noc25_ee06",
+        "similarity": 0.04012422263622284
+    },
+    {
+        "course_id": "noc25_ee07",
+        "similarity": 0.28088146448135376
+    },
+    {
+        "course_id": "noc25_ee08",
+        "similarity": 0.11368551105260849
+    },
+    {
+        "course_id": "noc25_ee09",
+        "similarity": 0.15569379925727844
+    },
+    {
+        "course_id": "noc25_ee10",
+        "similarity": 0.2137405425310135
+    },
+    {
+        "course_id": "noc25_ee11",
+        "similarity": 0.30521175265312195
+    },
+    {
+        "course_id": "noc25_ee12",
+        "similarity": 0.5168571472167969
+    },
+    {
+        "course_id": "noc25_ee13",
+        "similarity": 0.18139691650867462
+    },
+    {
+        "course_id": "noc25_ee14",
+        "similarity": 0.2910122573375702
+    },
+    {
+        "course_id": "noc25_ee15",
+        "similarity": 0.1973564326763153
+    },
+    {
+        "course_id": "noc25_ee17",
+        "similarity": 0.1537514477968216
+    },
+    {
+        "course_id": "noc25_ee18",
+        "similarity": 0.23292392492294312
+    },
+    {
+        "course_id": "noc25_ee19",
+        "similarity": 0.31762397289276123
+    },
+    {
+        "course_id": "noc25_ee20",
+        "similarity": 0.31252530217170715
+    },
+    {
+        "course_id": "noc25_ee21",
+        "similarity": 0.1734626144170761
+    },
+    {
+        "course_id": "noc25_ee22",
+        "similarity": 0.2772458791732788
+    },
+    {
+        "course_id": "noc25_ee23",
+        "similarity": 0.28852713108062744
+    },
+    {
+        "course_id": "noc25_ee24",
+        "similarity": 0.3515709936618805
+    },
+    {
+        "course_id": "noc25_ee25",
+        "similarity": 0.33090507984161377
+    },
+    {
+        "course_id": "noc25_ee26",
+        "similarity": 0.3323553800582886
+    },
+    {
+        "course_id": "noc25_ee27",
+        "similarity": 0.128690704703331
+    },
+    {
+        "course_id": "noc25_ee28",
+        "similarity": 0.3571109175682068
+    },
+    {
+        "course_id": "noc25_ee29",
+        "similarity": 0.10171546041965485
+    },
+    {
+        "course_id": "noc25_ee30",
+        "similarity": 0.23532451689243317
+    },
+    {
+        "course_id": "noc25_ee31",
+        "similarity": 0.2361631840467453
+    },
+    {
+        "course_id": "noc25_ee32",
+        "similarity": 0.22929534316062927
+    },
+    {
+        "course_id": "noc25_ee33",
+        "similarity": 0.2429913729429245
+    },
+    {
+        "course_id": "noc25_ee34",
+        "similarity": 0.4213590621948242
+    },
+    {
+        "course_id": "noc25_ee35",
+        "similarity": 0.253814160823822
+    },
+    {
+        "course_id": "noc25_ee36",
+        "similarity": 0.22505025565624237
+    },
+    {
+        "course_id": "noc25_ee37",
+        "similarity": 0.24921897053718567
+    },
+    {
+        "course_id": "noc25_ee38",
+        "similarity": 0.33228039741516113
+    },
+    {
+        "course_id": "noc25_ee39",
+        "similarity": 0.09031655639410019
+    },
+    {
+        "course_id": "noc25_ee40",
+        "similarity": 0.2678983509540558
+    },
+    {
+        "course_id": "noc25_ee42",
+        "similarity": 0.41199401021003723
+    },
+    {
+        "course_id": "noc25_ee43",
+        "similarity": 0.14816121757030487
+    },
+    {
+        "course_id": "noc25_ee44",
+        "similarity": 0.16348272562026978
+    },
+    {
+        "course_id": "noc25_ee45",
+        "similarity": 0.16737401485443115
+    },
+    {
+        "course_id": "noc25_ee46",
+        "similarity": 0.1364283412694931
+    },
+    {
+        "course_id": "noc25_ee47",
+        "similarity": 0.16493062674999237
+    },
+    {
+        "course_id": "noc25_ee48",
+        "similarity": 0.44842779636383057
+    },
+    {
+        "course_id": "noc25_ee49",
+        "similarity": 0.3377027213573456
+    },
+    {
+        "course_id": "noc25_ee50",
+        "similarity": 0.224715456366539
+    },
+    {
+        "course_id": "noc25_ee51",
+        "similarity": 0.27119478583335876
+    },
+    {
+        "course_id": "noc25_ee52",
+        "similarity": 0.22371752560138702
+    },
+    {
+        "course_id": "noc25_ee53",
+        "similarity": 0.1882265955209732
+    },
+    {
+        "course_id": "noc25_ee56",
+        "similarity": 0.12015022337436676
+    },
+    {
+        "course_id": "noc25_ee57",
+        "similarity": 0.3353363275527954
+    },
+    {
+        "course_id": "noc25_ee58",
+        "similarity": 0.25540679693222046
+    },
+    {
+        "course_id": "noc25_ee59",
+        "similarity": 0.40425142645835876
+    },
+    {
+        "course_id": "noc25_ee60",
+        "similarity": 0.2604708969593048
+    },
+    {
+        "course_id": "noc25_ee61",
+        "similarity": 0.21145419776439667
+    },
+    {
+        "course_id": "noc25_ee62",
+        "similarity": 0.034290339797735214
+    },
+    {
+        "course_id": "noc25_ee63",
+        "similarity": 0.07533823698759079
+    },
+    {
+        "course_id": "noc25_ee64",
+        "similarity": 0.2511100471019745
+    },
+    {
+        "course_id": "noc25_ee65",
+        "similarity": 0.22122202813625336
+    },
+    {
+        "course_id": "noc25_ee67",
+        "similarity": 0.250966876745224
+    },
+    {
+        "course_id": "noc25_ee68",
+        "similarity": 0.2963193356990814
+    },
+    {
+        "course_id": "noc25_ee69",
+        "similarity": 0.34395545721054077
+    },
+    {
+        "course_id": "noc25_ee70",
+        "similarity": 0.30912551283836365
+    },
+    {
+        "course_id": "noc25_ee71",
+        "similarity": 0.25856176018714905
+    },
+    {
+        "course_id": "noc25_ee72",
+        "similarity": 0.21554023027420044
+    },
+    {
+        "course_id": "noc25_ee73",
+        "similarity": 0.19756746292114258
+    },
+    {
+        "course_id": "noc25_ee74",
+        "similarity": 0.14701272547245026
+    },
+    {
+        "course_id": "noc25_ee76",
+        "similarity": 0.2383417934179306
+    },
+    {
+        "course_id": "noc25_ee77",
+        "similarity": 0.23845021426677704
+    },
+    {
+        "course_id": "noc25_ee78",
+        "similarity": 0.2557382881641388
+    },
+    {
+        "course_id": "noc25_ee79",
+        "similarity": 0.361152708530426
+    },
+    {
+        "course_id": "noc25_ee81",
+        "similarity": 0.22511577606201172
+    },
+    {
+        "course_id": "noc25_ee82",
+        "similarity": 0.11436305940151215
+    },
+    {
+        "course_id": "noc25_ee83",
+        "similarity": 0.2706916630268097
+    },
+    {
+        "course_id": "noc25_ee84",
+        "similarity": 0.3526954650878906
+    },
+    {
+        "course_id": "noc25_ee85",
+        "similarity": 0.41279321908950806
+    },
+    {
+        "course_id": "noc25_ee87",
+        "similarity": 0.17227071523666382
+    },
+    {
+        "course_id": "noc25_ee88",
+        "similarity": 0.443423867225647
+    },
+    {
+        "course_id": "noc25_ee02",
+        "similarity": 0.1701509654521942
+    },
+    {
+        "course_id": "noc25_ee54",
+        "similarity": 0.5011917352676392
+    },
+    {
+        "course_id": "noc25_ee66",
+        "similarity": 0.20207934081554413
+    },
+    {
+        "course_id": "noc25_ee89",
+        "similarity": 0.08368853479623795
+    },
+    {
+        "course_id": "noc25_ee86",
+        "similarity": 0.08691418170928955
+    },
+    {
+        "course_id": "noc25_ee80",
+        "similarity": 0.451955109834671
+    },
+    {
+        "course_id": "noc25_ee75",
+        "similarity": 0.22714479267597198
+    },
+    {
+        "course_id": "noc25_hs06",
+        "similarity": 0.28985410928726196
+    },
+    {
+        "course_id": "noc25_hs77",
+        "similarity": 0.07164934277534485
+    },
+    {
+        "course_id": "noc25_ce09",
+        "similarity": 0.07775966078042984
+    },
+    {
+        "course_id": "noc25_ce18",
+        "similarity": 0.17019030451774597
+    },
+    {
+        "course_id": "noc25_ag14",
+        "similarity": 0.07941289246082306
+    },
+    {
+        "course_id": "noc25_mm06",
+        "similarity": 0.2042093276977539
+    },
+    {
+        "course_id": "noc25_ma27",
+        "similarity": 0.34703582525253296
+    },
+    {
+        "course_id": "noc25_ce71",
+        "similarity": 0.06723771244287491
+    },
+    {
+        "course_id": "noc25_ce68",
+        "similarity": 0.18969565629959106
+    },
+    {
+        "course_id": "noc25_hs09",
+        "similarity": 0.11161069571971893
+    },
+    {
+        "course_id": "noc25_hs12",
+        "similarity": 0.11201667040586472
+    },
+    {
+        "course_id": "noc25_hs15",
+        "similarity": 0.18777994811534882
+    },
+    {
+        "course_id": "noc25_hs16",
+        "similarity": 0.19614443182945251
+    },
+    {
+        "course_id": "noc25_hs17",
+        "similarity": 0.22106163203716278
+    },
+    {
+        "course_id": "noc25_hs38",
+        "similarity": 0.38443508744239807
+    },
+    {
+        "course_id": "noc25_hs52",
+        "similarity": 0.13163520395755768
+    },
+    {
+        "course_id": "noc25_hs62",
+        "similarity": 0.09361857920885086
+    },
+    {
+        "course_id": "noc25_hs72",
+        "similarity": 0.22699901461601257
+    },
+    {
+        "course_id": "noc25_hs73",
+        "similarity": 0.22275972366333008
+    },
+    {
+        "course_id": "noc25_hs78",
+        "similarity": 0.190464049577713
+    },
+    {
+        "course_id": "noc25_hs82",
+        "similarity": 0.05254175513982773
+    },
+    {
+        "course_id": "noc25_hs101",
+        "similarity": 0.07035371661186218
+    },
+    {
+        "course_id": "noc25_hs01",
+        "similarity": 0.24386247992515564
+    },
+    {
+        "course_id": "noc25_hs02",
+        "similarity": 0.07665784657001495
+    },
+    {
+        "course_id": "noc25_hs03",
+        "similarity": 0.24234488606452942
+    },
+    {
+        "course_id": "noc25_hs04",
+        "similarity": 0.2650551199913025
+    },
+    {
+        "course_id": "noc25_hs05",
+        "similarity": 0.05084778368473053
+    },
+    {
+        "course_id": "noc25_hs07",
+        "similarity": 0.07155739516019821
+    },
+    {
+        "course_id": "noc25_hs08",
+        "similarity": 0.01893850602209568
+    },
+    {
+        "course_id": "noc25_hs11",
+        "similarity": 0.1576371043920517
+    },
+    {
+        "course_id": "noc25_hs13",
+        "similarity": 0.32368797063827515
+    },
+    {
+        "course_id": "noc25_hs14",
+        "similarity": 0.23888708651065826
+    },
+    {
+        "course_id": "noc25_hs18",
+        "similarity": 0.1827927976846695
+    },
+    {
+        "course_id": "noc25_hs19",
+        "similarity": 0.20864495635032654
+    },
+    {
+        "course_id": "noc25_hs21",
+        "similarity": 0.06736353784799576
+    },
+    {
+        "course_id": "noc25_hs23",
+        "similarity": 0.22149188816547394
+    },
+    {
+        "course_id": "noc25_hs24",
+        "similarity": 0.07887312024831772
+    },
+    {
+        "course_id": "noc25_hs25",
+        "similarity": 0.2587510049343109
+    },
+    {
+        "course_id": "noc25_hs26",
+        "similarity": 0.16541975736618042
+    },
+    {
+        "course_id": "noc25_hs27",
+        "similarity": 0.2291950285434723
+    },
+    {
+        "course_id": "noc25_hs28",
+        "similarity": 0.09249867498874664
+    },
+    {
+        "course_id": "noc25_hs29",
+        "similarity": 0.016039198264479637
+    },
+    {
+        "course_id": "noc25_hs30",
+        "similarity": 0.2114706039428711
+    },
+    {
+        "course_id": "noc25_hs31",
+        "similarity": 0.1746739000082016
+    },
+    {
+        "course_id": "noc25_hs32",
+        "similarity": 0.1960143893957138
+    },
+    {
+        "course_id": "noc25_hs33",
+        "similarity": 0.03436709940433502
+    },
+    {
+        "course_id": "noc25_hs35",
+        "similarity": 0.08593561500310898
+    },
+    {
+        "course_id": "noc25_hs36",
+        "similarity": 0.2072509080171585
+    },
+    {
+        "course_id": "noc25_hs37",
+        "similarity": 0.060116104781627655
+    },
+    {
+        "course_id": "noc25_hs39",
+        "similarity": 0.07701291888952255
+    },
+    {
+        "course_id": "noc25_hs40",
+        "similarity": 0.22106018662452698
+    },
+    {
+        "course_id": "noc25_hs41",
+        "similarity": 0.046165406703948975
+    },
+    {
+        "course_id": "noc25_hs42",
+        "similarity": 0.06487718969583511
+    },
+    {
+        "course_id": "noc25_hs43",
+        "similarity": 0.21472306549549103
+    },
+    {
+        "course_id": "noc25_hs44",
+        "similarity": 0.16170808672904968
+    },
+    {
+        "course_id": "noc25_hs45",
+        "similarity": 0.33870556950569153
+    },
+    {
+        "course_id": "noc25_hs46",
+        "similarity": 0.08650931715965271
+    },
+    {
+        "course_id": "noc25_hs47",
+        "similarity": 0.1229526624083519
+    },
+    {
+        "course_id": "noc25_hs48",
+        "similarity": 0.014334377832710743
+    },
+    {
+        "course_id": "noc25_hs49",
+        "similarity": 0.14040693640708923
+    },
+    {
+        "course_id": "noc25_hs50",
+        "similarity": 0.1227722242474556
+    },
+    {
+        "course_id": "noc25_hs51",
+        "similarity": 0.14016380906105042
+    },
+    {
+        "course_id": "noc25_hs54",
+        "similarity": -0.024540813639760017
+    },
+    {
+        "course_id": "noc25_hs55",
+        "similarity": 0.04465247690677643
+    },
+    {
+        "course_id": "noc25_hs56",
+        "similarity": 0.15078367292881012
+    },
+    {
+        "course_id": "noc25_hs57",
+        "similarity": 0.09460604190826416
+    },
+    {
+        "course_id": "noc25_hs58",
+        "similarity": 0.030200263485312462
+    },
+    {
+        "course_id": "noc25_hs59",
+        "similarity": 0.21340136229991913
+    },
+    {
+        "course_id": "noc25_hs60",
+        "similarity": 0.11265879124403
+    },
+    {
+        "course_id": "noc25_hs61",
+        "similarity": 0.2092217206954956
+    },
+    {
+        "course_id": "noc25_hs63",
+        "similarity": 0.1482875645160675
+    },
+    {
+        "course_id": "noc25_hs64",
+        "similarity": 0.13208788633346558
+    },
+    {
+        "course_id": "noc25_hs65",
+        "similarity": 0.22339965403079987
+    },
+    {
+        "course_id": "noc25_hs66",
+        "similarity": 0.11966277658939362
+    },
+    {
+        "course_id": "noc25_hs67",
+        "similarity": 0.2072223424911499
+    },
+    {
+        "course_id": "noc25_hs68",
+        "similarity": 0.14923860132694244
+    },
+    {
+        "course_id": "noc25_hs70",
+        "similarity": 0.1908884048461914
+    },
+    {
+        "course_id": "noc25_hs71",
+        "similarity": 0.08863193541765213
+    },
+    {
+        "course_id": "noc25_hs74",
+        "similarity": 0.11895709484815598
+    },
+    {
+        "course_id": "noc25_hs75",
+        "similarity": 0.14609675109386444
+    },
+    {
+        "course_id": "noc25_hs76",
+        "similarity": 0.004750964231789112
+    },
+    {
+        "course_id": "noc25_hs79",
+        "similarity": 0.09462647885084152
+    },
+    {
+        "course_id": "noc25_hs80",
+        "similarity": 0.10968199372291565
+    },
+    {
+        "course_id": "noc25_hs81",
+        "similarity": 0.18393230438232422
+    },
+    {
+        "course_id": "noc25_hs83",
+        "similarity": 0.22772946953773499
+    },
+    {
+        "course_id": "noc25_hs84",
+        "similarity": 0.203302800655365
+    },
+    {
+        "course_id": "noc25_hs85",
+        "similarity": 0.22072334587574005
+    },
+    {
+        "course_id": "noc25_hs87",
+        "similarity": 0.20578521490097046
+    },
+    {
+        "course_id": "noc25_hs88",
+        "similarity": 0.041723884642124176
+    },
+    {
+        "course_id": "noc25_hs89",
+        "similarity": 0.08058558404445648
+    },
+    {
+        "course_id": "noc25_hs91",
+        "similarity": 0.0753885880112648
+    },
+    {
+        "course_id": "noc25_hs92",
+        "similarity": 0.20235154032707214
+    },
+    {
+        "course_id": "noc25_hs94",
+        "similarity": 0.09241917729377747
+    },
+    {
+        "course_id": "noc25_hs95",
+        "similarity": 0.2822988033294678
+    },
+    {
+        "course_id": "noc25_hs96",
+        "similarity": 0.2684550881385803
+    },
+    {
+        "course_id": "noc25_hs97",
+        "similarity": 0.11105979979038239
+    },
+    {
+        "course_id": "noc25_hs98",
+        "similarity": 0.1695348620414734
+    },
+    {
+        "course_id": "noc25_hs99",
+        "similarity": 0.12338899821043015
+    },
+    {
+        "course_id": "noc25_hs102",
+        "similarity": 0.09302709251642227
+    },
+    {
+        "course_id": "noc25_hs103",
+        "similarity": 0.2027159035205841
+    },
+    {
+        "course_id": "noc25_hs104",
+        "similarity": 0.24406421184539795
+    },
+    {
+        "course_id": "noc25_hs105",
+        "similarity": 0.04743281751871109
+    },
+    {
+        "course_id": "noc25_hs106",
+        "similarity": 0.1782490313053131
+    },
+    {
+        "course_id": "noc25_hs107",
+        "similarity": 0.1915343701839447
+    },
+    {
+        "course_id": "noc25_hs108",
+        "similarity": 0.18510505557060242
+    },
+    {
+        "course_id": "noc25_hs93",
+        "similarity": 0.08573038130998611
+    },
+    {
+        "course_id": "noc25_hs69",
+        "similarity": 0.03379354253411293
+    },
+    {
+        "course_id": "noc25_hs90",
+        "similarity": 0.13910412788391113
+    },
+    {
+        "course_id": "noc25_hs86",
+        "similarity": 0.15660816431045532
+    },
+    {
+        "course_id": "noc25_lw01",
+        "similarity": 0.1914488673210144
+    },
+    {
+        "course_id": "noc25_lw02",
+        "similarity": 0.27390846610069275
+    },
+    {
+        "course_id": "noc25_lw03",
+        "similarity": 0.3195687532424927
+    },
+    {
+        "course_id": "noc25_lw04",
+        "similarity": 0.27520063519477844
+    },
+    {
+        "course_id": "noc25_lw05",
+        "similarity": 0.2814960777759552
+    },
+    {
+        "course_id": "noc25_lw06",
+        "similarity": 0.2128462940454483
+    },
+    {
+        "course_id": "noc25_mg02",
+        "similarity": 0.1345464289188385
+    },
+    {
+        "course_id": "noc25_mg03",
+        "similarity": 0.111031673848629
+    },
+    {
+        "course_id": "noc25_mg04",
+        "similarity": 0.15689224004745483
+    },
+    {
+        "course_id": "noc25_mg05",
+        "similarity": 0.22828729450702667
+    },
+    {
+        "course_id": "noc25_mg06",
+        "similarity": 0.1892697960138321
+    },
+    {
+        "course_id": "noc25_mg07",
+        "similarity": 0.2312953919172287
+    },
+    {
+        "course_id": "noc25_mg08",
+        "similarity": 0.11153854429721832
+    },
+    {
+        "course_id": "noc25_mg09",
+        "similarity": 0.23725999891757965
+    },
+    {
+        "course_id": "noc25_mg10",
+        "similarity": 0.19567830860614777
+    },
+    {
+        "course_id": "noc25_mg11",
+        "similarity": 0.3123657703399658
+    },
+    {
+        "course_id": "noc25_mg12",
+        "similarity": 0.0958142951130867
+    },
+    {
+        "course_id": "noc25_mg14",
+        "similarity": 0.07541021704673767
+    },
+    {
+        "course_id": "noc25_mg15",
+        "similarity": 0.11351761966943741
+    },
+    {
+        "course_id": "noc25_mg16",
+        "similarity": 0.24423542618751526
+    },
+    {
+        "course_id": "noc25_mg17",
+        "similarity": 0.14176447689533234
+    },
+    {
+        "course_id": "noc25_mg18",
+        "similarity": 0.2662856876850128
+    },
+    {
+        "course_id": "noc25_mg19",
+        "similarity": 0.2414318472146988
+    },
+    {
+        "course_id": "noc25_mg20",
+        "similarity": 0.19556237757205963
+    },
+    {
+        "course_id": "noc25_mg21",
+        "similarity": 0.12707844376564026
+    },
+    {
+        "course_id": "noc25_mg22",
+        "similarity": 0.17128510773181915
+    },
+    {
+        "course_id": "noc25_mg23",
+        "similarity": 0.16747741401195526
+    },
+    {
+        "course_id": "noc25_mg24",
+        "similarity": 0.1963059902191162
+    },
+    {
+        "course_id": "noc25_mg25",
+        "similarity": 0.02018117718398571
+    },
+    {
+        "course_id": "noc25_mg26",
+        "similarity": 0.20571637153625488
+    },
+    {
+        "course_id": "noc25_mg27",
+        "similarity": 0.2506576180458069
+    },
+    {
+        "course_id": "noc25_mg28",
+        "similarity": 0.2883319854736328
+    },
+    {
+        "course_id": "noc25_mg29",
+        "similarity": 0.14765647053718567
+    },
+    {
+        "course_id": "noc25_mg30",
+        "similarity": 0.2363232523202896
+    },
+    {
+        "course_id": "noc25_mg31",
+        "similarity": 0.15618674457073212
+    },
+    {
+        "course_id": "noc25_mg32",
+        "similarity": 0.12423250079154968
+    },
+    {
+        "course_id": "noc25_mg34",
+        "similarity": 0.34298187494277954
+    },
+    {
+        "course_id": "noc25_mg35",
+        "similarity": 0.23026978969573975
+    },
+    {
+        "course_id": "noc25_mg36",
+        "similarity": 0.1559339463710785
+    },
+    {
+        "course_id": "noc25_mg37",
+        "similarity": 0.22798937559127808
+    },
+    {
+        "course_id": "noc25_mg38",
+        "similarity": 0.2209731787443161
+    },
+    {
+        "course_id": "noc25_mg39",
+        "similarity": 0.2289830893278122
+    },
+    {
+        "course_id": "noc25_mg40",
+        "similarity": 0.19529087841510773
+    },
+    {
+        "course_id": "noc25_mg41",
+        "similarity": 0.2678801119327545
+    },
+    {
+        "course_id": "noc25_mg42",
+        "similarity": 0.21566006541252136
+    },
+    {
+        "course_id": "noc25_mg43",
+        "similarity": 0.3094590902328491
+    },
+    {
+        "course_id": "noc25_mg44",
+        "similarity": 0.21873588860034943
+    },
+    {
+        "course_id": "noc25_mg45",
+        "similarity": 0.21145671606063843
+    },
+    {
+        "course_id": "noc25_mg46",
+        "similarity": 0.14981579780578613
+    },
+    {
+        "course_id": "noc25_mg47",
+        "similarity": 0.16828657686710358
+    },
+    {
+        "course_id": "noc25_mg48",
+        "similarity": 0.21550427377223969
+    },
+    {
+        "course_id": "noc25_mg49",
+        "similarity": 0.17355605959892273
+    },
+    {
+        "course_id": "noc25_mg50",
+        "similarity": 0.1762537807226181
+    },
+    {
+        "course_id": "noc25_mg51",
+        "similarity": 0.2328314334154129
+    },
+    {
+        "course_id": "noc25_mg52",
+        "similarity": 0.24227024614810944
+    },
+    {
+        "course_id": "noc25_mg53",
+        "similarity": 0.24247978627681732
+    },
+    {
+        "course_id": "noc25_mg54",
+        "similarity": 0.2234472930431366
+    },
+    {
+        "course_id": "noc25_mg55",
+        "similarity": 0.2654731869697571
+    },
+    {
+        "course_id": "noc25_mg56",
+        "similarity": 0.1949337124824524
+    },
+    {
+        "course_id": "noc25_mg57",
+        "similarity": 0.23626336455345154
+    },
+    {
+        "course_id": "noc25_mg58",
+        "similarity": 0.29287657141685486
+    },
+    {
+        "course_id": "noc25_mg59",
+        "similarity": 0.3928966522216797
+    },
+    {
+        "course_id": "noc25_mg60",
+        "similarity": 0.3195861279964447
+    },
+    {
+        "course_id": "noc25_mg61",
+        "similarity": 0.151349276304245
+    },
+    {
+        "course_id": "noc25_mg62",
+        "similarity": 0.3659065365791321
+    },
+    {
+        "course_id": "noc25_mg63",
+        "similarity": 0.38487935066223145
+    },
+    {
+        "course_id": "noc25_mg64",
+        "similarity": 0.20621588826179504
+    },
+    {
+        "course_id": "noc25_mg65",
+        "similarity": 0.2832404673099518
+    },
+    {
+        "course_id": "noc25_mg66",
+        "similarity": 0.1620999127626419
+    },
+    {
+        "course_id": "noc25_mg67",
+        "similarity": 0.17711006104946136
+    },
+    {
+        "course_id": "noc25_mg68",
+        "similarity": 0.24843108654022217
+    },
+    {
+        "course_id": "noc25_mg69",
+        "similarity": 0.10997360199689865
+    },
+    {
+        "course_id": "noc25_mg71",
+        "similarity": 0.2797395884990692
+    },
+    {
+        "course_id": "noc25_mg72",
+        "similarity": 0.33094462752342224
+    },
+    {
+        "course_id": "noc25_mg73",
+        "similarity": 0.16927021741867065
+    },
+    {
+        "course_id": "noc25_mg74",
+        "similarity": 0.3603936433792114
+    },
+    {
+        "course_id": "noc25_mg75",
+        "similarity": 0.10265243798494339
+    },
+    {
+        "course_id": "noc25_mg70",
+        "similarity": 0.18995854258537292
+    },
+    {
+        "course_id": "noc25_mg01",
+        "similarity": 0.1971193104982376
+    },
+    {
+        "course_id": "noc25_mg13",
+        "similarity": 0.3070453107357025
+    },
+    {
+        "course_id": "noc25_mm02",
+        "similarity": 0.22311370074748993
+    },
+    {
+        "course_id": "noc25_me61",
+        "similarity": 0.014013486914336681
+    },
+    {
+        "course_id": "noc25_mm09",
+        "similarity": 0.156023308634758
+    },
+    {
+        "course_id": "noc25_mm20",
+        "similarity": 0.2337328940629959
+    },
+    {
+        "course_id": "noc25_mm25",
+        "similarity": 0.20597878098487854
+    },
+    {
+        "course_id": "noc25_ma25",
+        "similarity": 0.13954710960388184
+    },
+    {
+        "course_id": "noc25_ma03",
+        "similarity": 0.1640826016664505
+    },
+    {
+        "course_id": "noc25_ma04",
+        "similarity": 0.08862829208374023
+    },
+    {
+        "course_id": "noc25_ma05",
+        "similarity": 0.22436122596263885
+    },
+    {
+        "course_id": "noc25_ma07",
+        "similarity": 0.21345224976539612
+    },
+    {
+        "course_id": "noc25_ma08",
+        "similarity": 0.175259530544281
+    },
+    {
+        "course_id": "noc25_ma09",
+        "similarity": 0.10089495778083801
+    },
+    {
+        "course_id": "noc25_ma10",
+        "similarity": 0.21433711051940918
+    },
+    {
+        "course_id": "noc25_ma14",
+        "similarity": 0.19757647812366486
+    },
+    {
+        "course_id": "noc25_ma15",
+        "similarity": 0.12280214577913284
+    },
+    {
+        "course_id": "noc25_ma16",
+        "similarity": 0.17373646795749664
+    },
+    {
+        "course_id": "noc25_ma17",
+        "similarity": 0.19711893796920776
+    },
+    {
+        "course_id": "noc25_ma18",
+        "similarity": 0.10766918957233429
+    },
+    {
+        "course_id": "noc25_ma19",
+        "similarity": 0.11904505640268326
+    },
+    {
+        "course_id": "noc25_ma20",
+        "similarity": 0.24563133716583252
+    },
+    {
+        "course_id": "noc25_ma21",
+        "similarity": 0.20774367451667786
+    },
+    {
+        "course_id": "noc25_ma22",
+        "similarity": 0.15835168957710266
+    },
+    {
+        "course_id": "noc25_ma23",
+        "similarity": 0.16390009224414825
+    },
+    {
+        "course_id": "noc25_ma24",
+        "similarity": 0.09866921603679657
+    },
+    {
+        "course_id": "noc25_ma26",
+        "similarity": 0.2587200701236725
+    },
+    {
+        "course_id": "noc25_ma28",
+        "similarity": 0.24978478252887726
+    },
+    {
+        "course_id": "noc25_ma29",
+        "similarity": 0.13837353885173798
+    },
+    {
+        "course_id": "noc25_ma30",
+        "similarity": 0.2274298369884491
+    },
+    {
+        "course_id": "noc25_ma31",
+        "similarity": 0.13939572870731354
+    },
+    {
+        "course_id": "noc25_ma33",
+        "similarity": 0.1409412920475006
+    },
+    {
+        "course_id": "noc25_ma34",
+        "similarity": 0.30069053173065186
+    },
+    {
+        "course_id": "noc25_ma35",
+        "similarity": 0.22267502546310425
+    },
+    {
+        "course_id": "noc25_ma36",
+        "similarity": 0.20635610818862915
+    },
+    {
+        "course_id": "noc25_ma37",
+        "similarity": 0.22207124531269073
+    },
+    {
+        "course_id": "noc25_ma38",
+        "similarity": 0.10358798503875732
+    },
+    {
+        "course_id": "noc25_ma39",
+        "similarity": 0.21180884540081024
+    },
+    {
+        "course_id": "noc25_ma41",
+        "similarity": 0.16570329666137695
+    },
+    {
+        "course_id": "noc25_ma42",
+        "similarity": 0.23959186673164368
+    },
+    {
+        "course_id": "noc25_ma43",
+        "similarity": 0.1796049177646637
+    },
+    {
+        "course_id": "noc25_ma44",
+        "similarity": 0.1478748917579651
+    },
+    {
+        "course_id": "noc25_ma45",
+        "similarity": 0.15935756266117096
+    },
+    {
+        "course_id": "noc25_ma46",
+        "similarity": 0.10400976240634918
+    },
+    {
+        "course_id": "noc25_ma47",
+        "similarity": 0.18247315287590027
+    },
+    {
+        "course_id": "noc25_ma48",
+        "similarity": 0.16858868300914764
+    },
+    {
+        "course_id": "noc25_ma49",
+        "similarity": 0.2504539489746094
+    },
+    {
+        "course_id": "noc25_ma50",
+        "similarity": 0.2763843536376953
+    },
+    {
+        "course_id": "noc25_ma51",
+        "similarity": 0.026265138760209084
+    },
+    {
+        "course_id": "noc25_ma52",
+        "similarity": 0.0857471153140068
+    },
+    {
+        "course_id": "noc25_ma53",
+        "similarity": 0.1534920483827591
+    },
+    {
+        "course_id": "noc25_ma55",
+        "similarity": 0.13884934782981873
+    },
+    {
+        "course_id": "noc25_ma56",
+        "similarity": 0.21869827806949615
+    },
+    {
+        "course_id": "noc25_ma57",
+        "similarity": -0.05203069746494293
+    },
+    {
+        "course_id": "noc25_ma59",
+        "similarity": 0.1171012669801712
+    },
+    {
+        "course_id": "noc25_ma40",
+        "similarity": 0.23500344157218933
+    },
+    {
+        "course_id": "noc25_ma54",
+        "similarity": 0.22131776809692383
+    },
+    {
+        "course_id": "noc25_ma01",
+        "similarity": 0.15446798503398895
+    },
+    {
+        "course_id": "noc25_ma02",
+        "similarity": 0.08833224326372147
+    },
+    {
+        "course_id": "noc25_ma11",
+        "similarity": 0.28994813561439514
+    },
+    {
+        "course_id": "noc25_ma12",
+        "similarity": 0.049918945878744125
+    },
+    {
+        "course_id": "noc25_me55",
+        "similarity": 0.20554381608963013
+    },
+    {
+        "course_id": "noc25_me01",
+        "similarity": 0.1562652438879013
+    },
+    {
+        "course_id": "noc25_me02",
+        "similarity": 0.15475091338157654
+    },
+    {
+        "course_id": "noc25_me04",
+        "similarity": 0.21095629036426544
+    },
+    {
+        "course_id": "noc25_me05",
+        "similarity": 0.10212656855583191
+    },
+    {
+        "course_id": "noc25_me06",
+        "similarity": 0.18981951475143433
+    },
+    {
+        "course_id": "noc25_me07",
+        "similarity": 0.13609831035137177
+    },
+    {
+        "course_id": "noc25_me08",
+        "similarity": 0.12496670335531235
+    },
+    {
+        "course_id": "noc25_me09",
+        "similarity": 0.386455774307251
+    },
+    {
+        "course_id": "noc25_me10",
+        "similarity": 0.11369161307811737
+    },
+    {
+        "course_id": "noc25_me11",
+        "similarity": 0.26653286814689636
+    },
+    {
+        "course_id": "noc25_me12",
+        "similarity": 0.10170301049947739
+    },
+    {
+        "course_id": "noc25_me13",
+        "similarity": 0.2710731625556946
+    },
+    {
+        "course_id": "noc25_me14",
+        "similarity": 0.2674747407436371
+    },
+    {
+        "course_id": "noc25_me15",
+        "similarity": 0.3015948534011841
+    },
+    {
+        "course_id": "noc25_me16",
+        "similarity": 0.24730603396892548
+    },
+    {
+        "course_id": "noc25_me17",
+        "similarity": 0.20330120623111725
+    },
+    {
+        "course_id": "noc25_me18",
+        "similarity": 0.42465123534202576
+    },
+    {
+        "course_id": "noc25_me19",
+        "similarity": 0.20204345881938934
+    },
+    {
+        "course_id": "noc25_me21",
+        "similarity": 0.14245565235614777
+    },
+    {
+        "course_id": "noc25_me22",
+        "similarity": 0.19696329534053802
+    },
+    {
+        "course_id": "noc25_me23",
+        "similarity": 0.15864212810993195
+    },
+    {
+        "course_id": "noc25_me25",
+        "similarity": 0.2839779555797577
+    },
+    {
+        "course_id": "noc25_me26",
+        "similarity": 0.13057862222194672
+    },
+    {
+        "course_id": "noc25_me27",
+        "similarity": 0.2935577929019928
+    },
+    {
+        "course_id": "noc25_me28",
+        "similarity": 0.278298944234848
+    },
+    {
+        "course_id": "noc25_me29",
+        "similarity": 0.10772242397069931
+    },
+    {
+        "course_id": "noc25_me30",
+        "similarity": 0.16485048830509186
+    },
+    {
+        "course_id": "noc25_me31",
+        "similarity": 0.09969792515039444
+    },
+    {
+        "course_id": "noc25_me32",
+        "similarity": 0.11071867495775223
+    },
+    {
+        "course_id": "noc25_me33",
+        "similarity": 0.19319051504135132
+    },
+    {
+        "course_id": "noc25_me34",
+        "similarity": 0.24876804649829865
+    },
+    {
+        "course_id": "noc25_me35",
+        "similarity": 0.10273824632167816
+    },
+    {
+        "course_id": "noc25_me36",
+        "similarity": 0.1526603251695633
+    },
+    {
+        "course_id": "noc25_me37",
+        "similarity": 0.10184525698423386
+    },
+    {
+        "course_id": "noc25_me38",
+        "similarity": 0.2120843231678009
+    },
+    {
+        "course_id": "noc25_me39",
+        "similarity": 0.2849505841732025
+    },
+    {
+        "course_id": "noc25_me40",
+        "similarity": 0.07375715672969818
+    },
+    {
+        "course_id": "noc25_me41",
+        "similarity": 0.10650277882814407
+    },
+    {
+        "course_id": "noc25_me42",
+        "similarity": 0.15193568170070648
+    },
+    {
+        "course_id": "noc25_me43",
+        "similarity": 0.09585367143154144
+    },
+    {
+        "course_id": "noc25_me44",
+        "similarity": 0.04243643581867218
+    },
+    {
+        "course_id": "noc25_me45",
+        "similarity": 0.20410357415676117
+    },
+    {
+        "course_id": "noc25_me46",
+        "similarity": 0.18651822209358215
+    },
+    {
+        "course_id": "noc25_me47",
+        "similarity": 0.25955426692962646
+    },
+    {
+        "course_id": "noc25_me48",
+        "similarity": 0.15853296220302582
+    },
+    {
+        "course_id": "noc25_me49",
+        "similarity": 0.3044700622558594
+    },
+    {
+        "course_id": "noc25_me50",
+        "similarity": 0.3083497881889343
+    },
+    {
+        "course_id": "noc25_me51",
+        "similarity": 0.18537895381450653
+    },
+    {
+        "course_id": "noc25_me52",
+        "similarity": 0.2867153286933899
+    },
+    {
+        "course_id": "noc25_me53",
+        "similarity": 0.1955632120370865
+    },
+    {
+        "course_id": "noc25_me54",
+        "similarity": 0.29623299837112427
+    },
+    {
+        "course_id": "noc25_me56",
+        "similarity": 0.16601026058197021
+    },
+    {
+        "course_id": "noc25_me57",
+        "similarity": 0.09964396804571152
+    },
+    {
+        "course_id": "noc25_me58",
+        "similarity": 0.2562912106513977
+    },
+    {
+        "course_id": "noc25_me59",
+        "similarity": 0.3355567157268524
+    },
+    {
+        "course_id": "noc25_me60",
+        "similarity": 0.1965210884809494
+    },
+    {
+        "course_id": "noc25_me62",
+        "similarity": 0.10769952833652496
+    },
+    {
+        "course_id": "noc25_me63",
+        "similarity": 0.29934027791023254
+    },
+    {
+        "course_id": "noc25_me64",
+        "similarity": 0.2353956401348114
+    },
+    {
+        "course_id": "noc25_me65",
+        "similarity": 0.2492385357618332
+    },
+    {
+        "course_id": "noc25_me66",
+        "similarity": 0.15208978950977325
+    },
+    {
+        "course_id": "noc25_me67",
+        "similarity": 0.21964597702026367
+    },
+    {
+        "course_id": "noc25_me68",
+        "similarity": 0.29075881838798523
+    },
+    {
+        "course_id": "noc25_me69",
+        "similarity": 0.1338459700345993
+    },
+    {
+        "course_id": "noc25_me70",
+        "similarity": 0.15800389647483826
+    },
+    {
+        "course_id": "noc25_me71",
+        "similarity": 0.10287363827228546
+    },
+    {
+        "course_id": "noc25_me72",
+        "similarity": 0.199132040143013
+    },
+    {
+        "course_id": "noc25_me73",
+        "similarity": 0.21775808930397034
+    },
+    {
+        "course_id": "noc25_me74",
+        "similarity": 0.15759675204753876
+    },
+    {
+        "course_id": "noc25_me75",
+        "similarity": 0.08999769389629364
+    },
+    {
+        "course_id": "noc25_me76",
+        "similarity": 0.15339098870754242
+    },
+    {
+        "course_id": "noc25_me77",
+        "similarity": 0.13163791596889496
+    },
+    {
+        "course_id": "noc25_me78",
+        "similarity": 0.07664110511541367
+    },
+    {
+        "course_id": "noc25_me79",
+        "similarity": 0.11212553083896637
+    },
+    {
+        "course_id": "noc25_me80",
+        "similarity": 0.1838521510362625
+    },
+    {
+        "course_id": "noc25_me81",
+        "similarity": 0.163223534822464
+    },
+    {
+        "course_id": "noc25_me82",
+        "similarity": 0.11542988568544388
+    },
+    {
+        "course_id": "noc25_me83",
+        "similarity": 0.28700941801071167
+    },
+    {
+        "course_id": "noc25_me84",
+        "similarity": 0.08167729526758194
+    },
+    {
+        "course_id": "noc25_me85",
+        "similarity": 0.3255567252635956
+    },
+    {
+        "course_id": "noc25_me86",
+        "similarity": 0.15413284301757812
+    },
+    {
+        "course_id": "noc25_me87",
+        "similarity": 0.18807418644428253
+    },
+    {
+        "course_id": "noc25_me88",
+        "similarity": 0.3267979025840759
+    },
+    {
+        "course_id": "noc25_me90",
+        "similarity": 0.19907782971858978
+    },
+    {
+        "course_id": "noc25_me91",
+        "similarity": 0.27885666489601135
+    },
+    {
+        "course_id": "noc25_me92",
+        "similarity": 0.23733451962471008
+    },
+    {
+        "course_id": "noc25_me93",
+        "similarity": 0.3689590394496918
+    },
+    {
+        "course_id": "noc25_me95",
+        "similarity": 0.14787277579307556
+    },
+    {
+        "course_id": "noc25_me89",
+        "similarity": 0.2520548701286316
+    },
+    {
+        "course_id": "noc25_me03",
+        "similarity": 0.17443904280662537
+    },
+    {
+        "course_id": "noc25_me94",
+        "similarity": 0.28759998083114624
+    },
+    {
+        "course_id": "noc25_mm03",
+        "similarity": 0.17311853170394897
+    },
+    {
+        "course_id": "noc25_mm05",
+        "similarity": 0.19678407907485962
+    },
+    {
+        "course_id": "noc25_mm07",
+        "similarity": 0.09838996827602386
+    },
+    {
+        "course_id": "noc25_mm08",
+        "similarity": 0.22656621038913727
+    },
+    {
+        "course_id": "noc25_mm10",
+        "similarity": 0.16921110451221466
+    },
+    {
+        "course_id": "noc25_mm11",
+        "similarity": 0.11431168019771576
+    },
+    {
+        "course_id": "noc25_mm12",
+        "similarity": 0.13885128498077393
+    },
+    {
+        "course_id": "noc25_mm15",
+        "similarity": 0.26986244320869446
+    },
+    {
+        "course_id": "noc25_mm16",
+        "similarity": 0.08280462771654129
+    },
+    {
+        "course_id": "noc25_mm17",
+        "similarity": 0.08423929661512375
+    },
+    {
+        "course_id": "noc25_mm18",
+        "similarity": 0.04315595701336861
+    },
+    {
+        "course_id": "noc25_mm19",
+        "similarity": 0.15745419263839722
+    },
+    {
+        "course_id": "noc25_mm21",
+        "similarity": 0.10759735852479935
+    },
+    {
+        "course_id": "noc25_mm22",
+        "similarity": 0.3537708520889282
+    },
+    {
+        "course_id": "noc25_mm26",
+        "similarity": 0.18314139544963837
+    },
+    {
+        "course_id": "noc25_mm27",
+        "similarity": 0.3054347336292267
+    },
+    {
+        "course_id": "noc25_mm28",
+        "similarity": 0.2089584320783615
+    },
+    {
+        "course_id": "noc25_mm29",
+        "similarity": 0.20167043805122375
+    },
+    {
+        "course_id": "noc25_mm30",
+        "similarity": 0.17034414410591125
+    },
+    {
+        "course_id": "noc25_mm31",
+        "similarity": 0.21432219445705414
+    },
+    {
+        "course_id": "noc25_mm32",
+        "similarity": 0.2581855058670044
+    },
+    {
+        "course_id": "noc25_mm34",
+        "similarity": 0.148335799574852
+    },
+    {
+        "course_id": "noc25_mm04",
+        "similarity": 0.24511858820915222
+    },
+    {
+        "course_id": "noc25_mm01",
+        "similarity": 0.3410157263278961
+    },
+    {
+        "course_id": "noc25_mm13",
+        "similarity": 0.1985672563314438
+    },
+    {
+        "course_id": "noc25_ce37",
+        "similarity": 0.07311005145311356
+    },
+    {
+        "course_id": "noc25_mm14",
+        "similarity": 0.23146876692771912
+    },
+    {
+        "course_id": "noc25_mm23",
+        "similarity": 0.18386293947696686
+    },
+    {
+        "course_id": "noc25_mm24",
+        "similarity": 0.21193130314350128
+    },
+    {
+        "course_id": "noc25_mm33",
+        "similarity": 0.3437105417251587
+    },
+    {
+        "course_id": "noc25_bt15",
+        "similarity": 0.06437431275844574
+    },
+    {
+        "course_id": "noc25_bt20",
+        "similarity": 0.1331937462091446
+    },
+    {
+        "course_id": "noc25_ee55",
+        "similarity": 0.10377728193998337
+    },
+    {
+        "course_id": "noc25_ge01",
+        "similarity": 0.11802130192518234
+    },
+    {
+        "course_id": "noc25_ge02",
+        "similarity": 0.07836134731769562
+    },
+    {
+        "course_id": "noc25_ge03",
+        "similarity": 0.1301528513431549
+    },
+    {
+        "course_id": "noc25_ge04",
+        "similarity": 0.10727866739034653
+    },
+    {
+        "course_id": "noc25_ge05",
+        "similarity": 0.11126451194286346
+    },
+    {
+        "course_id": "noc25_ge07",
+        "similarity": 0.22799049317836761
+    },
+    {
+        "course_id": "noc25_ge08",
+        "similarity": 0.18259361386299133
+    },
+    {
+        "course_id": "noc25_ge09",
+        "similarity": 0.1897713840007782
+    },
+    {
+        "course_id": "noc25_ge10",
+        "similarity": 0.14982157945632935
+    },
+    {
+        "course_id": "noc25_ge11",
+        "similarity": 0.16227038204669952
+    },
+    {
+        "course_id": "noc25_ge12",
+        "similarity": 0.25273582339286804
+    },
+    {
+        "course_id": "noc25_ge13",
+        "similarity": 0.15470106899738312
+    },
+    {
+        "course_id": "noc25_ge15",
+        "similarity": 0.21583840250968933
+    },
+    {
+        "course_id": "noc25_ge16",
+        "similarity": 0.04454917088150978
+    },
+    {
+        "course_id": "noc25_ge17",
+        "similarity": 0.13692930340766907
+    },
+    {
+        "course_id": "noc25_ge19",
+        "similarity": 0.2345961183309555
+    },
+    {
+        "course_id": "noc25_ge20",
+        "similarity": 0.14380425214767456
+    },
+    {
+        "course_id": "noc25_ge21",
+        "similarity": 0.2246020883321762
+    },
+    {
+        "course_id": "noc25_ge22",
+        "similarity": 0.01569405011832714
+    },
+    {
+        "course_id": "noc25_ge23",
+        "similarity": 0.14673079550266266
+    },
+    {
+        "course_id": "noc25_ge24",
+        "similarity": 0.2036341279745102
+    },
+    {
+        "course_id": "noc25_ge25",
+        "similarity": 0.19358476996421814
+    },
+    {
+        "course_id": "noc25_ge26",
+        "similarity": 0.08908591419458389
+    },
+    {
+        "course_id": "noc25_ge27",
+        "similarity": 0.15763048827648163
+    },
+    {
+        "course_id": "noc25_ge28",
+        "similarity": 0.14322875440120697
+    },
+    {
+        "course_id": "noc25_ge29",
+        "similarity": 0.09612788259983063
+    },
+    {
+        "course_id": "noc25_ge30",
+        "similarity": 0.1591588705778122
+    },
+    {
+        "course_id": "noc25_ge31",
+        "similarity": 0.21207475662231445
+    },
+    {
+        "course_id": "noc25_ge32",
+        "similarity": 0.12852472066879272
+    },
+    {
+        "course_id": "noc25_ge33",
+        "similarity": 0.16659532487392426
+    },
+    {
+        "course_id": "noc25_ge34",
+        "similarity": 0.06144338101148605
+    },
+    {
+        "course_id": "noc25_ge35",
+        "similarity": 0.15918999910354614
+    },
+    {
+        "course_id": "noc25_ge36",
+        "similarity": 0.07699333876371384
+    },
+    {
+        "course_id": "noc25_ge37",
+        "similarity": 0.1335490643978119
+    },
+    {
+        "course_id": "noc25_ge38",
+        "similarity": 0.18486511707305908
+    },
+    {
+        "course_id": "noc25_ge39",
+        "similarity": 0.21969476342201233
+    },
+    {
+        "course_id": "noc25_ge40",
+        "similarity": 0.06534743309020996
+    },
+    {
+        "course_id": "noc25_ge41",
+        "similarity": 0.1535038948059082
+    },
+    {
+        "course_id": "noc25_ge06",
+        "similarity": 0.1427772045135498
+    },
+    {
+        "course_id": "noc25_oe01",
+        "similarity": 0.2661830484867096
+    },
+    {
+        "course_id": "noc25_oe02",
+        "similarity": 0.16910062730312347
+    },
+    {
+        "course_id": "noc25_oe04",
+        "similarity": 0.22764387726783752
+    },
+    {
+        "course_id": "noc25_oe03",
+        "similarity": 0.22489291429519653
+    },
+    {
+        "course_id": "noc25_bt44",
+        "similarity": -0.030312811955809593
+    },
+    {
+        "course_id": "noc25_ph01",
+        "similarity": 0.2328595370054245
+    },
+    {
+        "course_id": "noc25_ph02",
+        "similarity": 0.26308801770210266
+    },
+    {
+        "course_id": "noc25_ph03",
+        "similarity": 0.1906367987394333
+    },
+    {
+        "course_id": "noc25_ph04",
+        "similarity": 0.22687728703022003
+    },
+    {
+        "course_id": "noc25_ph06",
+        "similarity": 0.10307133197784424
+    },
+    {
+        "course_id": "noc25_ph07",
+        "similarity": 0.22512491047382355
+    },
+    {
+        "course_id": "noc25_ph08",
+        "similarity": 0.2501108646392822
+    },
+    {
+        "course_id": "noc25_ph09",
+        "similarity": 0.1839568018913269
+    },
+    {
+        "course_id": "noc25_ph10",
+        "similarity": 0.11450747400522232
+    },
+    {
+        "course_id": "noc25_ph11",
+        "similarity": 0.16490454971790314
+    },
+    {
+        "course_id": "noc25_ph12",
+        "similarity": 0.22533521056175232
+    },
+    {
+        "course_id": "noc25_ph13",
+        "similarity": 0.1888580620288849
+    },
+    {
+        "course_id": "noc25_ph14",
+        "similarity": 0.10072005540132523
+    },
+    {
+        "course_id": "noc25_ph15",
+        "similarity": 0.1637786626815796
+    },
+    {
+        "course_id": "noc25_ph16",
+        "similarity": 0.21076633036136627
+    },
+    {
+        "course_id": "noc25_ph17",
+        "similarity": 0.0919005498290062
+    },
+    {
+        "course_id": "noc25_ph18",
+        "similarity": 0.05322355777025223
+    },
+    {
+        "course_id": "noc25_ph19",
+        "similarity": 0.28509265184402466
+    },
+    {
+        "course_id": "noc25_ph20",
+        "similarity": 0.11243221908807755
+    },
+    {
+        "course_id": "noc25_ph21",
+        "similarity": 0.13615767657756805
+    },
+    {
+        "course_id": "noc25_ph22",
+        "similarity": 0.11332108080387115
+    },
+    {
+        "course_id": "noc25_ph23",
+        "similarity": 0.15724824368953705
+    },
+    {
+        "course_id": "noc25_ph24",
+        "similarity": 0.05120685696601868
+    },
+    {
+        "course_id": "noc25_ph25",
+        "similarity": 0.20688477158546448
+    },
+    {
+        "course_id": "noc25_ph27",
+        "similarity": 0.1043878048658371
+    },
+    {
+        "course_id": "noc25_ph28",
+        "similarity": 0.1835131198167801
+    },
+    {
+        "course_id": "noc25_ph29",
+        "similarity": 0.2114025503396988
+    },
+    {
+        "course_id": "noc25_ph26",
+        "similarity": 0.15940958261489868
+    },
+    {
+        "course_id": "noc25_cs55",
+        "similarity": 0.37525543570518494
+    },
+    {
+        "course_id": "noc25_hs53",
+        "similarity": 0.20408350229263306
+    },
+    {
+        "course_id": "noc25_hs22",
+        "similarity": 0.21493381261825562
+    },
+    {
+        "course_id": "noc25_te01",
+        "similarity": 0.11485067754983902
+    },
+    {
+        "course_id": "noc25_te02",
+        "similarity": 0.22410914301872253
+    },
+    {
+        "course_id": "noc25_te04",
+        "similarity": 0.23951077461242676
+    },
+    {
+        "course_id": "noc25_te05",
+        "similarity": 0.26853641867637634
+    },
+    {
+        "course_id": "noc25_te06",
+        "similarity": 0.1904650330543518
+    },
+    {
+        "course_id": "noc25_te07",
+        "similarity": 0.2129526436328888
+    },
+    {
+        "course_id": "noc25_te03",
+        "similarity": 0.37549296021461487
+    }
+]
