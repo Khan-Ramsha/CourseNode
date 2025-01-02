@@ -1,4 +1,4 @@
-from extract_from_pdf import extract_module_content
+# from extract_from_pdf import extract_module_content
 import spacy
 nlp = spacy.load("en_core_web_sm")
 pdf_path = "backend/artifacts/syllabus.pdf"
@@ -12,6 +12,6 @@ def preprocess_text(text):
 
     return " ".join(unique_tokens)
 
-module_content = extract_module_content(pdf_path)
-content = preprocess_text(module_content)
-print(content)
+# module_content = extract_module_content(pdf_path)
+# content = preprocess_text(module_content)
+# print(content)
