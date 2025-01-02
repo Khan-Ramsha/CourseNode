@@ -74,7 +74,7 @@ async def compute_similarity():
         # Get the top 8 relevant courses based on similarity scores
         top_8_courses = rate_courses(similarity_scores)
 
-        # Load course metadata and retrieve info for the top courses
+        # Load course metadata and retrieve inf:qo for the top courses
         course_data_path = "backend/data/processed/final_data.csv"
         course_data = load_csv(course_data_path)
         course_info_list = []
