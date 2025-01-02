@@ -2,6 +2,7 @@ from generating_embeddings.user_embedding import user_syllabus_embedding
 from generating_embeddings.course_embedding import course_embedding
 from user_syllabus_processing.extract_from_pdf import extract_module_content
 from user_syllabus_processing.syllabus_preprocessing import preprocess_text
+from similarity.matching import computing_similarity
 import json
 
 pdf_path = "backend/artifacts/syllabus.pdf"
@@ -17,4 +18,6 @@ course_syllabus_embedding = course_embedding(data)
 print(f" Course syllabus Embedding: {course_syllabus_embedding}")
 print(f" User syllabus Embedding: {content}")
 
-
+# computing similarity matching score of "user syllabus" with "all available nptel courses"
+similarity_score = computing_similarity(content, course_syllabus_embedding)
+print(similarity_score)
