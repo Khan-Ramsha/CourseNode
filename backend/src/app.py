@@ -10,9 +10,17 @@ from generating_embeddings.course_embedding import course_embedding
 from similarity.matching import computing_similarity
 from similarity.rating import rate_courses
 from similarity.get_course import get_course_info, load_csv
+from fastapi.middleware.cors import CORSMiddleware
+
 
 app = FastAPI()
-
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # You can specify domains here
+    allow_credentials=True,
+    allow_methods=["*"],  # Allows all HTTP methods
+    allow_headers=["*"],  # Allows all headers
+)
 # Directory to save uploaded PDFs
 UPLOAD_FOLDER = "artifacts"
 os.makedirs(UPLOAD_FOLDER, exist_ok=True)
@@ -41,7 +49,6 @@ async def upload_pdf(file: UploadFile = File(...)):
     
     except Exception as e:
         return JSONResponse(status_code=500, content={"error": str(e)})
-
 @app.post("/get_courses")
 async def compute_similarity():
     if not uploaded_file_path:
@@ -74,17 +81,28 @@ async def compute_similarity():
         # Get the top 8 relevant courses based on similarity scores
         top_8_courses = rate_courses(similarity_scores)
 
-        # Load course metadata and retrieve inf:qo for the top courses
+        # Load course metadata and retrieve info for the top courses
         course_data_path = "backend/data/processed/final_data.csv"
         course_data = load_csv(course_data_path)
-        course_info_list = []
+
+        # Merge course info with similarity scores
+        formatted_courses = []
         for course in top_8_courses:
             course_id = course.get("course_id")
+            course_similarity = course.get("similarity")
             course_info = get_course_info(course_data, course_id)
             if course_info:
-                course_info_list.append(course_info)
-        
-        return course_info_list
+                formatted_course = {
+                    "id": course_info["id"],  # Course ID
+                    "title": course_info["course name"],  # Course name
+                    "instructors": course_info["sme name"],  # Instructors
+                    "duration": course_info["duration"],  # Duration
+                    "url": course_info["url"],  # Course URL
+                    "similarity": course_similarity,  # Similarity score
+                }
+                formatted_courses.append(formatted_course)
+
+        return formatted_courses
 
     except Exception as e:
         return JSONResponse(status_code=500, content={"error": str(e)})
