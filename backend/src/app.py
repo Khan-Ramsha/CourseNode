@@ -1,8 +1,5 @@
 from fastapi import FastAPI, File, UploadFile
 from fastapi.responses import JSONResponse
-import os
-import json
-import shutil  # For better file handling
 from user_syllabus_processing.extract_from_pdf import extract_module_content
 from user_syllabus_processing.syllabus_preprocessing import preprocess_text
 from generating_embeddings.user_embedding import user_syllabus_embedding
@@ -11,6 +8,13 @@ from similarity.matching import computing_similarity
 from similarity.rating import rate_courses
 from similarity.get_course import get_course_info, load_csv
 from fastapi.middleware.cors import CORSMiddleware
+from getResources.extract import extract_keywords
+from getResources.search import search_courses_on_google
+from getResources.ranking import rank_search_results
+import os
+import json
+import shutil  # For better file handling
+import uvicorn
 
 
 app = FastAPI()
@@ -106,7 +110,46 @@ async def compute_similarity():
 
     except Exception as e:
         return JSONResponse(status_code=500, content={"error": str(e)})
+        
+@app.post("/get_resources")
+async def get_resource():
+    if not uploaded_file_path:
+        return JSONResponse(status_code=400, content={"error": "No file uploaded."})
+
+    try:
+        # Extract module content from the uploaded PDF
+        module_content = extract_module_content(uploaded_file_path)
+
+        # Preprocess the text and extract keywords for the search query
+        processed_content = preprocess_text(module_content)  # User PDF syllabus
+        keywords = extract_keywords(processed_content)
+        query = " ".join(keywords)  # Create a more concise query from the keywords
+        print("Query being searched:", query)
+
+        # Search for resources on Google
+        resources = search_courses_on_google(query)
+        if not resources:
+            return JSONResponse(status_code=404, content={"error": "No resources found."})
+
+        # Rank the search results using cosine similarity
+        ranked_results = rank_search_results(processed_content, resources)
+
+        # Format the ranked results for the response
+        formatted_results = [
+            {
+                "title": result["title"],
+                "link": result["link"],
+                "snippet": result["snippet"],
+                "relevance_score": score,
+            }
+            for score, result in ranked_results
+        ]
+
+        return {"resources": formatted_results}
+
+    except Exception as e:
+        return JSONResponse(status_code=500, content={"error": str(e)})
+
 
 if __name__ == "__main__":
-    import uvicorn
     uvicorn.run(app, host="127.0.0.1", port=8000)
