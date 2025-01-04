@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react';
 import tailwindcss from 'tailwindcss';
 
 export default defineConfig({
-  root: 'frontend', // Set the root to the 'frontend' folder
+  root: './frontend', // Set the root to the 'frontend' folder
   plugins: [react()],
   css: {
     postcss: {
