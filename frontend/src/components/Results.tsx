@@ -1,15 +1,7 @@
 import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { FaClock, FaChalkboardTeacher, FaExternalLinkAlt, FaChartBar, FaSearch } from 'react-icons/fa';
-
-interface Course {
-  id: string;
-  title: string;
-  similarity: number;
-  duration: string;
-  instructors: string;
-  url: string;
-}
+import { Course } from '../types';
 
 interface ResultsProps {
   courses: Course[];
@@ -84,14 +76,14 @@ const Results: React.FC<ResultsProps> = ({ courses }) => {
                   </div>
                   <div className="text-right">
                     <span className="text-xs font-semibold inline-block text-teal-600">
-                      {isNaN(course.similarity) ? "N/A" : `${(course.similarity * 100).toFixed(0)}%`}
+                      {(course.similarity * 100).toFixed(0)}%
                     </span>
                   </div>
                 </div>
                 <div className="overflow-hidden h-2 mb-4 text-xs flex rounded bg-teal-200">
                   <motion.div
                     initial={{ width: 0 }}
-                    animate={{ width: `${isNaN(course.similarity) ? 0 : course.similarity * 100}%` }}
+                    animate={{ width: `${course.similarity * 100}%` }}
                     transition={{ duration: 0.5, ease: "easeInOut" }}
                     className="shadow-none flex flex-col text-center whitespace-nowrap text-white justify-center bg-teal-500"
                   ></motion.div>
@@ -108,7 +100,7 @@ const Results: React.FC<ResultsProps> = ({ courses }) => {
                   className="relative px-6 pb-6"
                 >
                   <p className="text-gray-600 mb-4">
-                    This course is {isNaN(course.similarity) ? "not relevant" : `${(course.similarity * 100).toFixed(0)}% relevant`} to your syllabus.
+                    This course is {(course.similarity * 100).toFixed(0)}% relevant to your syllabus.
                   </p>
                   <a
                     href={course.url}

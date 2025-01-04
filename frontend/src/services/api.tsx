@@ -1,6 +1,7 @@
 import axios from 'axios';
+import { Resource } from '../types';
 
-const API_URL = 'http://localhost:8000';  // Your FastAPI backend URL
+const API_URL = 'http://localhost:8000'; // Your FastAPI backend URL
 
 const api = axios.create({
   baseURL: API_URL,
@@ -12,7 +13,7 @@ const api = axios.create({
 export const uploadPDF = async (file: File) => {
   const formData = new FormData();
   formData.append('file', file);
-  
+
   const response = await api.post('/upload', formData, {
     headers: {
       'Content-Type': 'multipart/form-data',
@@ -25,3 +26,9 @@ export const getCourses = async () => {
   const response = await api.post('/get_courses');
   return response.data;
 };
+
+export const getResources = async (): Promise<Resource[]> => {
+  const response = await api.post('/get_resources');
+  return response.data.resources;
+};
+
