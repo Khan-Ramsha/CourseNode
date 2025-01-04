@@ -1,3 +1,4 @@
+# this file is responsible for preprocessing the user syllabus
 # from extract_from_pdf import extract_module_content
 import spacy
 nlp = spacy.load("en_core_web_sm")
