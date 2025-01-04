@@ -11,6 +11,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from getResources.extract import extract_keywords
 from getResources.search import search_courses_on_google
 from getResources.ranking import rank_search_results
+from utils.logger import Logger
 import os
 import json
 import shutil  # For better file handling
@@ -18,6 +19,8 @@ import uvicorn
 
 
 app = FastAPI()
+logger = Logger.get_logger()
+
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],  # You can specify domains here
@@ -61,11 +64,13 @@ async def compute_similarity():
     try:
         # Extract module content from the uploaded PDF
         module_content = extract_module_content(uploaded_file_path)
-
+        logger.info(f"Extracted Content: {module_content}")
         # Preprocess the text and compute embeddings for the user's syllabus
         processed_content = preprocess_text(module_content)  # User PDF syllabus
-        user_embedding = user_syllabus_embedding(processed_content)
+        logger.info(f"After preprocessing: {processed_content}")
 
+        user_embedding = user_syllabus_embedding(processed_content)
+      
         # Load NPTEL course data
         json_file_path = "backend/data_scrape/cleaned_scraped.json"
         with open(json_file_path, 'r') as file:
@@ -73,9 +78,13 @@ async def compute_similarity():
 
         # Compute embeddings for NPTEL courses
         course_embeddings = course_embedding(nptel_data)
+        
+        logger.info("Emebeddings Created!")
 
         # Compute similarity score of "user syllabus" with "all available NPTEL courses"
         similarity_scores = computing_similarity(user_embedding, course_embeddings)
+        
+        logger.info("Similarity Computed!")
 
         # Write similarity scores to the output JSON file
         output_file_path = "backend/artifacts/similarity_scores.json"
@@ -105,6 +114,8 @@ async def compute_similarity():
                     "similarity": course_similarity,  # Similarity score
                 }
                 formatted_courses.append(formatted_course)
+        logger.info("Courses are ready to display!")
+        logger.info(f"Courses: {formatted_courses}")
 
         return formatted_courses
 
@@ -119,12 +130,17 @@ async def get_resource():
     try:
         # Extract module content from the uploaded PDF
         module_content = extract_module_content(uploaded_file_path)
+        
+        logger.info(f"Extracted Content: {module_content}")
 
         # Preprocess the text and extract keywords for the search query
         processed_content = preprocess_text(module_content)  # User PDF syllabus
+        logger.info(f"After preprocessing: {processed_content}")
+
         keywords = extract_keywords(processed_content)
         query = " ".join(keywords)  # Create a more concise query from the keywords
         print("Query being searched:", query)
+        logger.info(f"Query being searched: {query}")
 
         # Search for resources on Google
         resources = search_courses_on_google(query)
@@ -144,6 +160,9 @@ async def get_resource():
             }
             for score, result in ranked_results
         ]
+        logger.info("Results are ready!")
+        
+        logger.info(f"Results: {formatted_results}")
 
         return {"resources": formatted_results}
 
