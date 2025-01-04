@@ -1,0 +1,475 @@
+2025-01-04 22:42:29,660 - INFO - Extracted Content: Module  
+Content 
+Hrs 
+1 
+Data Warehousing Fundamentals 
+8 
+ 
+Introduction   to Data Warehouse, Data warehouse architecture, Data warehouse 
+versus Data Marts, E-R Modeling versus Dimensional Modeling, Information 
+Package Diagram, Data Warehouse Schemas; Star Schema, Snowflake Schema, 
+Factless Fact Table, Fact Constellation Schema. Update to the dimension tables. 
+Major steps in ETL process, OLTP versus OLAP, OLAP operations: Slice, Dice, 
+Rollup, Drilldown and Pivot.  
+ 
+2 
+Introduction to Data Mining, Data Exploration and Data Pre-processing 
+8 
+ 
+Data Mining Task Primitives, Architecture, KDD process, Issues in Data Mining, 
+Applications of Data Mining, Data Exploration: Types of Attributes, Statistical 
+Description of Data, Data Visualization, Data Preprocessing: Descriptive data 
+summarization, Cleaning, Integration & transformation, Data reduction, Data 
+Discretization and Concept hierarchy generation. 
+ 
+3 
+Classification  
+6 
+ 
+Basic Concepts, Decision Tree Induction, Na�ve Bayesian Classification, 
+Accuracy and Error measures, Evaluating the Accuracy of a Classifier: Holdout 
+& Random Subsampling, Cross Validation, Bootstrap. 
+ 
+4 
+Clustering 
+6 
+ 
+Types of data in Cluster analysis, Partitioning Methods (k-Means, k-Medoids), 
+Hierarchical Methods (Agglomerative, Divisive). 
+ 
+5 
+Mining frequent patterns and associations 
+6 
+ 
+Market Basket Analysis, Frequent Item sets, Closed Item sets, and Association 
+Rule, Frequent Pattern Mining, Apriori Algorithm, Association Rule Generation, 
+Improving the Efficiency of Apriori, Mining Frequent Itemsets without candidate 
+generation, Introduction to Mining Multilevel Association Rules and Mining 
+Multidimensional Association Rules. 
+ 
+ 
+6 
+Web Mining 
+5 
+ 
+Introduction, Web Content Mining: Crawlers, Harvest System, Virtual Web View, 
+Personalization, Web Structure Mining: Page Rank, Clever, Web Usage Mining.
+2025-01-04 22:42:29,733 - INFO - After preprocessing: module content hrs datum warehousing fundamental introduction warehouse architecture versus mart e r modeling dimensional information package diagram schemas star schema snowflake factless fact table constellation update dimension major step etl process oltp olap operation slice dice rollup drilldown pivot mining exploration pre processing task primitive kdd issue application type attribute statistical description visualization preprocessing descriptive summarization cleaning integration transformation data reduction discretization concept hierarchy generation classification basic decision tree induction na�ve bayesian accuracy error measure evaluate classifier holdout random subsampling cross validation bootstrap cluster analysis partition method k mean medoid hierarchical agglomerative divisive frequent pattern association market basket item set closed rule apriori algorithm improve efficiency mine itemset candidate multilevel multidimensional web crawler harvest system virtual view personalization structure page rank clever usage
+2025-01-04 22:42:29,738 - INFO - Query being searched: web warehousing warehouse visualization virtual view versus validation usage update
+2025-01-04 22:42:30,478 - INFO - Results are ready!
+2025-01-04 22:42:30,479 - INFO - Results: [{'title': 'What is ETL (Extract, Transform, Load)? | IBM', 'link': 'https://www.ibm.com/think/topics/etl', 'snippet': '... storage in a data warehouse, data lake or other target system. ETL data ... Data virtualization functions enable an organization to create virtual data warehouses\xa0...', 'relevance_score': np.float64(0.07493843072346937)}, {'title': 'Snowflake - Tableau', 'link': 'https://help.tableau.com/current/pro/desktop/en-us/examples_snowflake.htm', 'snippet': 'For more information, see Default virtual warehouses in Snowflake. From the Database drop-down a database or use the text box to search for a database by name.', 'relevance_score': np.float64(0.035585283265467324)}, {'title': 'Failed to update data source credentials - Microsoft Fabric Community', 'link': 'https://community.powerbi.com/t5/Desktop/Failed-to-update-data-source-credentials/td-p/3123193', 'snippet': 'Hi Community, facing the following issue on the Power BI service when using Web connector. The credentials are validated and able to fetch data on.', 'relevance_score': np.float64(0.030246154695415712)}, {'title': 'Azure Network Watcher overview | Microsoft Learn', 'link': 'https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-overview', 'snippet': "Sep 26, 2024 ... Network Watcher isn't designed or intended for PaaS monitoring or Web analytics. ... When you create or update a virtual network in your\xa0...", 'relevance_score': np.float64(0.029985218328236522)}, {'title': 'Why can I not understand what DataBricks is? Can someone explain ...', 'link': 'https://www.reddit.com/r/dataengineering/comments/13qg3t1/why_can_i_not_understand_what_databricks_is_can/', 'snippet': 'May 24, 2023 ... On this, they also built a virtual data warehouse interface, so now ... You can use Scala, R, Python, or SQL, but it gets a little complicated\xa0...', 'relevance_score': np.float64(0.023254878665001696)}, {'title': 'Data Lake vs Data Warehouse: 6 Key Differences | Qlik', 'link': 'https://www.qlik.com/us/data-lake/data-lake-vs-data-warehouse', 'snippet': 'The large majority of organizations primarily use data warehouses and the clear trend is toward cloud data warehouses. Data lakes are typically used by data\xa0...', 'relevance_score': np.float64(0.01682539527505657)}, {'title': 'Manage hosted feature layers�ArcGIS Online Help | Documentation', 'link': 'https://doc.arcgis.com/en/arcgis-online/manage-data/manage-hosted-feature-layers.htm', 'snippet': 'When you enable the options Enable Sync (required for offline use and collaboration) or Keep track of changes to the data (add, update, delete features) on your\xa0...', 'relevance_score': np.float64(0.015681102372720905)}, {'title': 'Please Stop Using Local Storage - DEV Community', 'link': 'https://dev.to/rdegges/please-stop-using-local-storage-1i04', 'snippet': "Jan 29, 2018 ... Local storage shouldn't be used to store sensitive data. It's unsafe!. Tagged with programming, security, javascript.", 'relevance_score': np.float64(0.0048599125290646715)}, {'title': 'For those of you who use SQL. How do you use it with PowerBI? : r ...', 'link': 'https://www.reddit.com/r/PowerBI/comments/17gxljv/for_those_of_you_who_use_sql_how_do_you_use_it/', 'snippet': 'Oct 26, 2023 ... I use sql to clean the data and build out the tables I need for a specific project externally to power bi and store them in my teams database.', 'relevance_score': np.float64(0.004177205043438946)}, {'title': 'sql - When to use a View instead of a Table? - Stack Overflow', 'link': 'https://stackoverflow.com/questions/4378068/when-to-use-a-view-instead-of-a-table', 'snippet': 'Dec 7, 2010 ... Views can hide database-specific stuff from you. E.g. if you need to do some checks using Oracles SYS_CONTEXT function or many other things; You\xa0...', 'relevance_score': np.float64(0.0)}]
+2025-01-04 22:42:59,847 - INFO - Extracted Content: Module  
+Content 
+Hrs 
+1 
+Data Warehousing Fundamentals 
+8 
+ 
+Introduction   to Data Warehouse, Data warehouse architecture, Data warehouse 
+versus Data Marts, E-R Modeling versus Dimensional Modeling, Information 
+Package Diagram, Data Warehouse Schemas; Star Schema, Snowflake Schema, 
+Factless Fact Table, Fact Constellation Schema. Update to the dimension tables. 
+Major steps in ETL process, OLTP versus OLAP, OLAP operations: Slice, Dice, 
+Rollup, Drilldown and Pivot.  
+ 
+2 
+Introduction to Data Mining, Data Exploration and Data Pre-processing 
+8 
+ 
+Data Mining Task Primitives, Architecture, KDD process, Issues in Data Mining, 
+Applications of Data Mining, Data Exploration: Types of Attributes, Statistical 
+Description of Data, Data Visualization, Data Preprocessing: Descriptive data 
+summarization, Cleaning, Integration & transformation, Data reduction, Data 
+Discretization and Concept hierarchy generation. 
+ 
+3 
+Classification  
+6 
+ 
+Basic Concepts, Decision Tree Induction, Na�ve Bayesian Classification, 
+Accuracy and Error measures, Evaluating the Accuracy of a Classifier: Holdout 
+& Random Subsampling, Cross Validation, Bootstrap. 
+ 
+4 
+Clustering 
+6 
+ 
+Types of data in Cluster analysis, Partitioning Methods (k-Means, k-Medoids), 
+Hierarchical Methods (Agglomerative, Divisive). 
+ 
+5 
+Mining frequent patterns and associations 
+6 
+ 
+Market Basket Analysis, Frequent Item sets, Closed Item sets, and Association 
+Rule, Frequent Pattern Mining, Apriori Algorithm, Association Rule Generation, 
+Improving the Efficiency of Apriori, Mining Frequent Itemsets without candidate 
+generation, Introduction to Mining Multilevel Association Rules and Mining 
+Multidimensional Association Rules. 
+ 
+ 
+6 
+Web Mining 
+5 
+ 
+Introduction, Web Content Mining: Crawlers, Harvest System, Virtual Web View, 
+Personalization, Web Structure Mining: Page Rank, Clever, Web Usage Mining.
+2025-01-04 22:42:59,910 - INFO - After preprocessing: module content hrs datum warehousing fundamental introduction warehouse architecture versus mart e r modeling dimensional information package diagram schemas star schema snowflake factless fact table constellation update dimension major step etl process oltp olap operation slice dice rollup drilldown pivot mining exploration pre processing task primitive kdd issue application type attribute statistical description visualization preprocessing descriptive summarization cleaning integration transformation data reduction discretization concept hierarchy generation classification basic decision tree induction na�ve bayesian accuracy error measure evaluate classifier holdout random subsampling cross validation bootstrap cluster analysis partition method k mean medoid hierarchical agglomerative divisive frequent pattern association market basket item set closed rule apriori algorithm improve efficiency mine itemset candidate multilevel multidimensional web crawler harvest system virtual view personalization structure page rank clever usage
+2025-01-04 22:44:04,541 - INFO - Emebeddings Created!
+2025-01-04 22:44:04,593 - INFO - Similarity Computed!
+2025-01-04 22:44:04,619 - INFO - Courses are ready to display!
+2025-01-04 22:44:04,619 - INFO - Courses: [{'id': 'noc25_de09', 'title': 'Augmenting Design Thinking with Human-Computer Interaction', 'instructors': 'Prof. Sonal Atreya', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_de09/preview', 'similarity': 0.613208532333374}, {'id': 'noc25_ar05', 'title': 'Research Methodology for Planning and Architectural Studies', 'instructors': 'Prof. Shubhajit Sadhukhan', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_ar05/preview', 'similarity': 0.5985488295555115}, {'id': 'noc25_hs06', 'title': 'Computer Aided Decision Systems - Industrial practices using Big Analytics', 'instructors': 'Prof. Deepu Philip\nProf. Amandeep Singh Oberoi', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_hs06/preview', 'similarity': 0.5812875032424927}, {'id': 'noc25_mg63', 'title': 'Systems Engineering: Theory & Practice', 'instructors': 'Prof. Deepu Philip', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg63/preview', 'similarity': 0.5269402861595154}, {'id': 'noc25_mg72', 'title': 'Quality Control and Improvement with MINITAB', 'instructors': 'Prof. Indrajit Mukherjee', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg72/preview', 'similarity': 0.5257935523986816}, {'id': 'noc25_mg52', 'title': 'Principles of Management', 'instructors': 'Prof. Usha Lenka', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg52/preview', 'similarity': 0.5234407782554626}, {'id': 'noc25_mg09', 'title': 'Business analytics and data mining Modeling using R', 'instructors': 'Prof. Gaurav Dixit', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg09/preview', 'similarity': 0.5194566249847412}, {'id': 'noc25_mg62', 'title': 'Supply Chain Digitization', 'instructors': 'Prof. Priyanka Verma\nProf. Sushmita Narayana\nProf. Debabrata Das', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg62/preview', 'similarity': 0.5192033648490906}]
+2025-01-04 22:45:07,229 - INFO - Extracted Content: Module 
+ 
+Content 
+Hrs
+1 
+ 
+Introduction to Networking 
+4 
+ 
+1.1 Introduction  to   computer   network,   network  application,   network 
+software and hardware components (Interconnection networking devices), 
+Network topology, protocol hierarchies, design issues for the layers, 
+connection oriented and connectionless  services 
+ 
+ 
+1.2 Reference models:  Layer details of OSI, TCP/IP models. Communication 
+between layers. 
+ 
+2 
+ 
+Physical Layer 
+3 
+ 
+2.1 Introduction to Communication Electromagnetic Spectrum 
+ 
+ 
+2.2 Guided Transmission Media: Twisted pair, Coaxial, Fiber optics.  
+ 
+3 
+ 
+Data Link Layer 
+8 
+ 
+3.1 DLL Design Issues (Services, Framing, Error Control, Flow Control),
+Error Detection and Correction(Hamming Code, CRC, Checksum) , 
+Elementary Data Link protocols , Stop and Wait, Sliding Window(Go
+Back N, Selective Repeat) 
+ 
+ 
+ 
+3.2
+Medium Access Control sublayer 
+Channel Allocation problem, Multiple access Protocol( Aloha, Carrier
+Sense Multiple Access (CSMA/CD) 
+ 
+4 
+ 
+Network layer 
+12 
+ 
+4.1 Network Layer design issues, Communication Primitives: Unicast,
+Multicast, 
+Broadcast. 
+IPv4 
+Addressing 
+(classfull 
+and 
+classless),
+Subnetting, Supernetting design problems ,IPv4 Protocol, Network
+Address Translation (NAT), IPv6 
+ 
+ 
+ 
+4.2
+Routing algorithms : Shortest Path 
+ Link state routing, 
+Distance Vector Routing 
+ 
+ 
+4.3 Protocols - ARP,RARP, ICMP, IGMP 
+ 
+ 
+4.4 Congestion control algorithms: Open loop congestion control, Closed
+loop congestion control, QoS parameters, Token & Leaky bucket algorithms
+5 
+ 
+Transport Layer 
+6 
+ 
+5.1 The Transport Service: Transport service primitives, Berkeley Sockets,
+Connection management (Handshake), UDP, TCP, TCP state transition,
+TCP timers 
+ 
+ 
+5.2 TCP Flow control (sliding Window), TCP Congestion Control: Slow Start
+ 
+6 
+ 
+Application Layer 
+6 
+ 
+6.1 DNS: Name Space, Resource Record and Types of Name Server.  HTTP,
+SMTP, Telnet, FTP, DHCP
+2025-01-04 22:45:07,354 - INFO - After preprocessing: module content hrs introduction network computer application software hardware component interconnection device topology protocol hierarchy design issue layer connection orient connectionless service reference model detail osi tcp ip communication physical electromagnetic spectrum guide transmission medium twisted pair coaxial fiber optic datum link dll framing error control flow detection code crc checksum elementary data stop wait slide n selective repeat access sublayer channel allocation problem multiple aloha carrier sense csma cd primitive unicast multicast broadcast addressing classfull classless subnetting supernette address translation nat routing algorithm short path state distance vector route arp rarp icmp igmp congestion open loop closed qos parameter token leaky bucket transport berkeley socket management handshake udp transition timer window slow start dns space resource record type server http smtp telnet ftp dhcp
+2025-01-04 22:46:05,517 - INFO - Emebeddings Created!
+2025-01-04 22:46:05,592 - INFO - Similarity Computed!
+2025-01-04 22:46:05,607 - INFO - Courses are ready to display!
+2025-01-04 22:46:05,607 - INFO - Courses: [{'id': 'noc25_cs15', 'title': 'Computer Networks And Internet Protocol', 'instructors': 'Prof. Soumya Kanti Ghosh\nProf. Sandip Chakraborty', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs15/preview', 'similarity': 0.6513561010360718}, {'id': 'noc25_cs02', 'title': 'Advanced Computer Networks', 'instructors': 'Prof. Neminath Hubballi\nProf. Sameer Kulkarni', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs02/preview', 'similarity': 0.6051688194274902}, {'id': 'noc25_cs54', 'title': 'Parallel Computer Architecture', 'instructors': 'Prof. Hemangee K. Kapoor', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs54/preview', 'similarity': 0.5230077505111694}, {'id': 'noc25_ee12', 'title': 'Communication Networks', 'instructors': 'Prof. Goutam Das', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_ee12/preview', 'similarity': 0.5168571472167969}, {'id': 'noc25_cs24', 'title': 'Design and Engineering of Computer Systems', 'instructors': 'Prof. Mythili Vutukuru', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs24/preview', 'similarity': 0.5079673528671265}, {'id': 'noc25_ee54', 'title': 'Network Security', 'instructors': 'Prof. Gaurav S. Kasbekar', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_ee54/preview', 'similarity': 0.5011917352676392}, {'id': 'noc25_cs44', 'title': 'Introduction To Internet Of Things', 'instructors': 'Prof. Sudip Misra', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs44/preview', 'similarity': 0.4553336799144745}, {'id': 'noc25_ee80', 'title': 'Spread Spectrum Communications And Jamming', 'instructors': 'Prof. Debarati Sen', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_ee80/preview', 'similarity': 0.451955109834671}]
+2025-01-04 22:46:15,075 - INFO - Extracted Content: Module 
+ 
+Content 
+Hrs
+1 
+ 
+Introduction to Networking 
+4 
+ 
+1.1 Introduction  to   computer   network,   network  application,   network 
+software and hardware components (Interconnection networking devices), 
+Network topology, protocol hierarchies, design issues for the layers, 
+connection oriented and connectionless  services 
+ 
+ 
+1.2 Reference models:  Layer details of OSI, TCP/IP models. Communication 
+between layers. 
+ 
+2 
+ 
+Physical Layer 
+3 
+ 
+2.1 Introduction to Communication Electromagnetic Spectrum 
+ 
+ 
+2.2 Guided Transmission Media: Twisted pair, Coaxial, Fiber optics.  
+ 
+3 
+ 
+Data Link Layer 
+8 
+ 
+3.1 DLL Design Issues (Services, Framing, Error Control, Flow Control),
+Error Detection and Correction(Hamming Code, CRC, Checksum) , 
+Elementary Data Link protocols , Stop and Wait, Sliding Window(Go
+Back N, Selective Repeat) 
+ 
+ 
+ 
+3.2
+Medium Access Control sublayer 
+Channel Allocation problem, Multiple access Protocol( Aloha, Carrier
+Sense Multiple Access (CSMA/CD) 
+ 
+4 
+ 
+Network layer 
+12 
+ 
+4.1 Network Layer design issues, Communication Primitives: Unicast,
+Multicast, 
+Broadcast. 
+IPv4 
+Addressing 
+(classfull 
+and 
+classless),
+Subnetting, Supernetting design problems ,IPv4 Protocol, Network
+Address Translation (NAT), IPv6 
+ 
+ 
+ 
+4.2
+Routing algorithms : Shortest Path 
+ Link state routing, 
+Distance Vector Routing 
+ 
+ 
+4.3 Protocols - ARP,RARP, ICMP, IGMP 
+ 
+ 
+4.4 Congestion control algorithms: Open loop congestion control, Closed
+loop congestion control, QoS parameters, Token & Leaky bucket algorithms
+5 
+ 
+Transport Layer 
+6 
+ 
+5.1 The Transport Service: Transport service primitives, Berkeley Sockets,
+Connection management (Handshake), UDP, TCP, TCP state transition,
+TCP timers 
+ 
+ 
+5.2 TCP Flow control (sliding Window), TCP Congestion Control: Slow Start
+ 
+6 
+ 
+Application Layer 
+6 
+ 
+6.1 DNS: Name Space, Resource Record and Types of Name Server.  HTTP,
+SMTP, Telnet, FTP, DHCP
+2025-01-04 22:46:15,161 - INFO - After preprocessing: module content hrs introduction network computer application software hardware component interconnection device topology protocol hierarchy design issue layer connection orient connectionless service reference model detail osi tcp ip communication physical electromagnetic spectrum guide transmission medium twisted pair coaxial fiber optic datum link dll framing error control flow detection code crc checksum elementary data stop wait slide n selective repeat access sublayer channel allocation problem multiple aloha carrier sense csma cd primitive unicast multicast broadcast addressing classfull classless subnetting supernette address translation nat routing algorithm short path state distance vector route arp rarp icmp igmp congestion open loop closed qos parameter token leaky bucket transport berkeley socket management handshake udp transition timer window slow start dns space resource record type server http smtp telnet ftp dhcp
+2025-01-04 22:46:15,163 - INFO - Query being searched: window wait vector unicast udp type twisted transport transmission translation
+2025-01-04 22:46:16,198 - INFO - Results are ready!
+2025-01-04 22:46:16,198 - INFO - Results: [{'title': 'COMPUTER NETWORKS (R20A0510)', 'link': 'https://mrcet.com/downloads/digital_notes/ECE/III%20Year/05082022/Computer%20Networks.pdf', 'snippet': 'UNIT IV: Network Layer: Logical addressing, internetworking, tunneling, address mapping, ICMP, IGMP,. Forwarding, Unicast routing protocols, multicast routing\xa0...', 'relevance_score': np.float64(0.1451256269087396)}, {'title': 'COMPUTER NETWORKS', 'link': 'https://d5ofvi41ggben.cloudfront.net/e41af2d5-9532-48a9-a6d2-0c8c2d62a34a-1571836072414-cn.pdf', 'snippet': 'Twisted pair may be used to transmit both analog and digital transmission. ... UDP: Transport layer protocol which is unreliable but fast. TCP: Transport\xa0...', 'relevance_score': np.float64(0.08988234747785094)}, {'title': 'Andrew S. Tanenbaum - Computer Networks', 'link': 'https://csc-knu.github.io/sys-prog/books/Andrew%20S.%20Tanenbaum%20-%20Computer%20Networks.pdf', 'snippet': '... TRANSMISSION MEDIA, 95. 2.2.1 Magnetic Media, 95. 2.2.2 Twisted Pairs, 96. 2.2 ... Wait Protocol for an Error-Free Channel, 221. 3.3.3 A Simplex Stop-and\xa0...', 'relevance_score': np.float64(0.08111034906068793)}, {'title': 'Document Information Sources included in the report Entire Document', 'link': 'http://gucdoe.in/sites/default/files/INF2016_0.pdf', 'snippet': 'Apr 25, 2023 ... ... type electromagnetic waves are used for unicast communication? ... transport entity uses a modified form of sliding window protocol for\xa0...', 'relevance_score': np.float64(0.07924414334802965)}, {'title': 'The Second Internet - IPv6 Forum', 'link': 'https://www.ipv6forum.com/dl/books/the_second_internet.pdf', 'snippet': 'Jul 1, 2010 ... The most common type of packet transmission is unicast. This is when ... � RFC 4787, �Network Address Translation (NAT) Behavioral Requirements\xa0...', 'relevance_score': np.float64(0.07479636192400857)}, {'title': 'Computer Networking: A Top-Down Approach, 7th Edition', 'link': 'https://www.ucg.ac.me/skladiste/blog_44233/objava_64433/fajlovi/Computer%20Networking%20_%20A%20Top%20Down%20Approach,%207th,%20converted.pdf', 'snippet': '... transport layer, has been modestly updated. The material on asynchronous ... UDP, IP, ICMP, Ethernet, ARP, WiFi, SSL, and on tracing all protocols\xa0...', 'relevance_score': np.float64(0.07036030706261741)}, {'title': "RFC 1983 - Internet Users' Glossary", 'link': 'https://datatracker.ietf.org/doc/rfc1983/', 'snippet': 'Mar 2, 2013 ... twisted pair A type of cable in which pairs of conductors are ... [Source: NWNET] User Datagram Protocol (UDP) An Internet Standard transport\xa0...', 'relevance_score': np.float64(0.053493250553031765)}, {'title': 'Glossary of Security Terms | SANS Institute', 'link': 'https://www.sans.org/security-resources/glossary-of-terms/', 'snippet': '... transmission rates, and/or signal types. Note 2: The common types of network ... UDP scans perform scans to determine which UDP ports are open. Unicast', 'relevance_score': np.float64(0.049844592028329276)}, {'title': 'COMPUTER NETWORKS [R15A0513] LECTURE NOTES MALLA ...', 'link': 'https://mrcet.com/downloads/digital_notes/CSE/III%20Year/COMPUTER%20NETWORKS%20NOTES.pdf', 'snippet': 'The performance of a network depends on a number of factors, including the number of users, the type of transmission medium, the ... not wait for the window to be\xa0...', 'relevance_score': np.float64(0.046800309136131556)}, {'title': 'Intel Ethernet Adapters and Devices User Guide', 'link': 'https://dl.dell.com/manuals/all-products/esuprt_data_center_infra_int/esuprt_data_center_infra_network_adapters/intel-pro-adapters_users-guide_en-us.pdf', 'snippet': 'gnostics window displays tabs for each type of test. Click the appropriate ... Transmission Mode/Connector Twisted copper/RJ-45. Cabling. 1000Base-T\xa0...', 'relevance_score': np.float64(0.03207461274709009)}]
+2025-01-04 22:55:20,242 - INFO - Extracted Content: Module  
+Content 
+Hrs 
+1 
+Data Warehousing Fundamentals 
+8 
+ 
+Introduction   to Data Warehouse, Data warehouse architecture, Data warehouse 
+versus Data Marts, E-R Modeling versus Dimensional Modeling, Information 
+Package Diagram, Data Warehouse Schemas; Star Schema, Snowflake Schema, 
+Factless Fact Table, Fact Constellation Schema. Update to the dimension tables. 
+Major steps in ETL process, OLTP versus OLAP, OLAP operations: Slice, Dice, 
+Rollup, Drilldown and Pivot.  
+ 
+2 
+Introduction to Data Mining, Data Exploration and Data Pre-processing 
+8 
+ 
+Data Mining Task Primitives, Architecture, KDD process, Issues in Data Mining, 
+Applications of Data Mining, Data Exploration: Types of Attributes, Statistical 
+Description of Data, Data Visualization, Data Preprocessing: Descriptive data 
+summarization, Cleaning, Integration & transformation, Data reduction, Data 
+Discretization and Concept hierarchy generation. 
+ 
+3 
+Classification  
+6 
+ 
+Basic Concepts, Decision Tree Induction, Na�ve Bayesian Classification, 
+Accuracy and Error measures, Evaluating the Accuracy of a Classifier: Holdout 
+& Random Subsampling, Cross Validation, Bootstrap. 
+ 
+4 
+Clustering 
+6 
+ 
+Types of data in Cluster analysis, Partitioning Methods (k-Means, k-Medoids), 
+Hierarchical Methods (Agglomerative, Divisive). 
+ 
+5 
+Mining frequent patterns and associations 
+6 
+ 
+Market Basket Analysis, Frequent Item sets, Closed Item sets, and Association 
+Rule, Frequent Pattern Mining, Apriori Algorithm, Association Rule Generation, 
+Improving the Efficiency of Apriori, Mining Frequent Itemsets without candidate 
+generation, Introduction to Mining Multilevel Association Rules and Mining 
+Multidimensional Association Rules. 
+ 
+ 
+6 
+Web Mining 
+5 
+ 
+Introduction, Web Content Mining: Crawlers, Harvest System, Virtual Web View, 
+Personalization, Web Structure Mining: Page Rank, Clever, Web Usage Mining.
+2025-01-04 22:55:20,350 - INFO - After preprocessing: module content hrs datum warehousing fundamental introduction warehouse architecture versus mart e r modeling dimensional information package diagram schemas star schema snowflake factless fact table constellation update dimension major step etl process oltp olap operation slice dice rollup drilldown pivot mining exploration pre processing task primitive kdd issue application type attribute statistical description visualization preprocessing descriptive summarization cleaning integration transformation data reduction discretization concept hierarchy generation classification basic decision tree induction na�ve bayesian accuracy error measure evaluate classifier holdout random subsampling cross validation bootstrap cluster analysis partition method k mean medoid hierarchical agglomerative divisive frequent pattern association market basket item set closed rule apriori algorithm improve efficiency mine itemset candidate multilevel multidimensional web crawler harvest system virtual view personalization structure page rank clever usage
+2025-01-04 22:55:20,351 - INFO - Query being searched: web warehousing warehouse visualization virtual view versus validation usage update
+2025-01-04 22:55:20,978 - INFO - Results are ready!
+2025-01-04 22:55:20,978 - INFO - Results: [{'title': 'What is ETL (Extract, Transform, Load)? | IBM', 'link': 'https://www.ibm.com/think/topics/etl', 'snippet': '... storage in a data warehouse, data lake or other target system. ETL data ... Data virtualization functions enable an organization to create virtual data warehouses\xa0...', 'relevance_score': np.float64(0.07493843072346937)}, {'title': 'Snowflake - Tableau', 'link': 'https://help.tableau.com/current/pro/desktop/en-us/examples_snowflake.htm', 'snippet': 'For more information, see Default virtual warehouses in Snowflake. From the Database drop-down a database or use the text box to search for a database by name.', 'relevance_score': np.float64(0.035585283265467324)}, {'title': 'Failed to update data source credentials - Microsoft Fabric Community', 'link': 'https://community.powerbi.com/t5/Desktop/Failed-to-update-data-source-credentials/td-p/3123193', 'snippet': 'Hi Community, facing the following issue on the Power BI service when using Web connector. The credentials are validated and able to fetch data on.', 'relevance_score': np.float64(0.030246154695415712)}, {'title': 'Azure Network Watcher overview | Microsoft Learn', 'link': 'https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-overview', 'snippet': "Sep 26, 2024 ... Network Watcher isn't designed or intended for PaaS monitoring or Web analytics. ... When you create or update a virtual network in your\xa0...", 'relevance_score': np.float64(0.029985218328236522)}, {'title': 'Why can I not understand what DataBricks is? Can someone explain ...', 'link': 'https://www.reddit.com/r/dataengineering/comments/13qg3t1/why_can_i_not_understand_what_databricks_is_can/', 'snippet': 'May 24, 2023 ... On this, they also built a virtual data warehouse interface, so now ... You can use Scala, R, Python, or SQL, but it gets a little complicated\xa0...', 'relevance_score': np.float64(0.023254878665001696)}, {'title': 'Data Lake vs Data Warehouse: 6 Key Differences | Qlik', 'link': 'https://www.qlik.com/us/data-lake/data-lake-vs-data-warehouse', 'snippet': 'The large majority of organizations primarily use data warehouses and the clear trend is toward cloud data warehouses. Data lakes are typically used by data\xa0...', 'relevance_score': np.float64(0.01682539527505657)}, {'title': 'Manage hosted feature layers�ArcGIS Online Help | Documentation', 'link': 'https://doc.arcgis.com/en/arcgis-online/manage-data/manage-hosted-feature-layers.htm', 'snippet': 'When you enable the options Enable Sync (required for offline use and collaboration) or Keep track of changes to the data (add, update, delete features) on your\xa0...', 'relevance_score': np.float64(0.015681102372720905)}, {'title': 'Please Stop Using Local Storage - DEV Community', 'link': 'https://dev.to/rdegges/please-stop-using-local-storage-1i04', 'snippet': "Jan 29, 2018 ... Local storage shouldn't be used to store sensitive data. It's unsafe!. Tagged with programming, security, javascript.", 'relevance_score': np.float64(0.0048599125290646715)}, {'title': 'For those of you who use SQL. How do you use it with PowerBI? : r ...', 'link': 'https://www.reddit.com/r/PowerBI/comments/17gxljv/for_those_of_you_who_use_sql_how_do_you_use_it/', 'snippet': 'Oct 26, 2023 ... I use sql to clean the data and build out the tables I need for a specific project externally to power bi and store them in my teams database.', 'relevance_score': np.float64(0.004177205043438946)}, {'title': 'sql - When to use a View instead of a Table? - Stack Overflow', 'link': 'https://stackoverflow.com/questions/4378068/when-to-use-a-view-instead-of-a-table', 'snippet': 'Dec 7, 2010 ... Views can hide database-specific stuff from you. E.g. if you need to do some checks using Oracles SYS_CONTEXT function or many other things; You\xa0...', 'relevance_score': np.float64(0.0)}]
+2025-01-04 22:55:32,447 - INFO - Extracted Content: The course is divided into the following modules:
+Module 1: Introduction to AI
+- History and Evolution
+- Key Concepts and Terminology
+- Applications of AI
+Module 2: Machine Learning Basics
+- Supervised Learning
+- Unsupervised Learning
+- Evaluation Metrics
+Module 3: Advanced AI Topics
+- Natural Language Processing
+- Computer Vision
+- Ethical Considerations in AI
+Course Schedule
+| Week | Topics Covered                | Assignments/Activities       |
+|------|-------------------------------|------------------------------|
+| 1    | History and Applications of AI| Research on AI milestones    |
+| 2    | Key Concepts and Terminology  | Quiz on basic AI concepts    |
+| 3    | Supervised Learning           | Implement a regression model |
+| ...  | ...                           | ...                          |
+Required Texts and Materials
+- Textbook: Artificial Intelligence: A Modern Approach by Stuart Russell and Peter Norvig
+- Python programming environment
+- Access to online datasets
+Assessment and Grading
+| Component            | Weight (%) |
+|----------------------|------------|
+| Class Participation  | 10%        |
+| Assignments          | 30%        |
+| Midterm Exam         | 30%        |
+| Final Project        | 30%        |
+| Total                | 100%       |
+Course Policies
+- Attendance: Students are required to attend at least 75% of classes.
+- Late Submissions: Assignments submitted late will incur a penalty of 10% per day.
+- Academic Integrity: Plagiarism or cheating will result in a grade of zero for the assignment/exam.
+Additional Resources
+- Online AI Learning Platforms (e.g., Coursera, edX)
+- Access to departmental computing resources
+Important Dates
+- First Day of Class: September 2, 2024
+- Midterm Exam: October 15, 2024
+- Final Project Submission: December 10, 2024
+- Last Day of Class: December 12, 2024
+Note: This syllabus is subject to change. Any modifications will be communicated in class and via email.
+2025-01-04 22:55:32,513 - INFO - After preprocessing: course divide following module introduction ai history evolution key concept terminology application machine learn basic supervise learning unsupervised evaluation metric advanced topic natural language processing computer vision ethical consideration schedule week cover assignment activity research milestone quiz implement regression model require text material textbook artificial intelligence modern approach stuart russell peter norvig python programming environment access online dataset assessment grade component weight class participation midterm exam final project total policy attendance student attend late submission submit incur penalty day academic integrity plagiarism cheating result zero additional resource platform coursera edx departmental computing important date september october december note syllabus subject change modification communicate email
+2025-01-04 22:55:32,530 - INFO - Query being searched: zero weight week vision unsupervised total topic textbook text terminology
+2025-01-04 22:55:33,222 - INFO - Results are ready!
+2025-01-04 22:55:33,223 - INFO - Results: [{'title': 'Machine learning, explained | MIT Sloan', 'link': 'https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained', 'snippet': 'Apr 21, 2021 ... When companies today deploy artificial intelligence programs, they are most likely using machine learning � so much so that the terms are often\xa0...', 'relevance_score': np.float64(0.05057393037557502)}, {'title': 'National Reading Panel - Teaching Children to Read: An Evidence ...', 'link': 'https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/report.pdf', 'snippet': '... topic areas designated by the NRC Committee as central to learning to read ... Text Comprehension Instruction. - Teacher Preparation and Comprehension.', 'relevance_score': np.float64(0.03961518631511014)}, {'title': "What are some of your favorite ChatGPT prompts that are useful? I'll ...", 'link': 'https://www.reddit.com/r/ChatGPT/comments/13cklzh/what_are_some_of_your_favorite_chatgpt_prompts/', 'snippet': "May 9, 2023 ... There's a free Chatgpt bot, Open Assistant bot (Open-source model), AI image generator bot, Perplexity AI bot, GPT-4 bot (Now with Visual\xa0...", 'relevance_score': np.float64(0.03232652015761764)}, {'title': 'State Operations Manual Appendix PP � Guidance to Surveyors for ...', 'link': 'https://www.cms.gov/medicare/provider-enrollment-and-certification/guidanceforlawsandregulations/downloads/appendix-pp-state-operations-manual.pdf', 'snippet': 'In addition to meeting the participation requirements for long-term care facilities set forth elsewhere in this subpart, a distinct part SNF or NF must meet all\xa0...', 'relevance_score': np.float64(0.015567117908904757)}, {'title': 'Lewy Body Dementia Stages or Phases', 'link': 'https://www.lewybodydementia.ca/lewy-body-dementia-phases-and-stages/', 'snippet': 'Caregiver health issues often arise and require health care. Patient is at risk for long-term care due to: psychological symptoms, personal safety risk, and\xa0...', 'relevance_score': np.float64(0.014640335304309537)}, {'title': 'How Does a Narcissistic Sibling Affect the Personality of a Brother or ...', 'link': 'https://www.harperwest.co/how-does-a-narcissistic-sibling-affect-the-personality-of-a-brother-or-sister/', 'snippet': 'May 5, 2021 ... I would like to address in this blog the long-term psychological impact of a narcissistic sibling on their brothers or sisters. This topic is\xa0...', 'relevance_score': np.float64(0.012622524548136387)}, {'title': 'What Is Deep Learning? | IBM', 'link': 'https://www.ibm.com/think/topics/deep-learning', 'snippet': 'Neural networks, or artificial neural networks, attempt to mimic the human brain through a combination of data inputs, weights and bias�all acting as silicon\xa0...', 'relevance_score': np.float64(0.011458295125441425)}, {'title': 'My experience on starting with fine tuning LLMs with custom data : r ...', 'link': 'https://www.reddit.com/r/LocalLLaMA/comments/14vnfh2/my_experience_on_starting_with_fine_tuning_llms/', 'snippet': "Jul 10, 2023 ... If customer engage in such topics, politely explain that have no knowledge on that. ... text isn't great. I do plan on switching to a local\xa0...", 'relevance_score': np.float64(0.011199012843899207)}, {'title': 'Opinion Paper: �So what if ChatGPT wrote it?� Multidisciplinary ...', 'link': 'https://www.sciencedirect.com/science/article/pii/S0268401223000233', 'snippet': '... whole texts based on a given context and problem definition. Whereas it may still deliver less original and valuable ideas than humans, ChatGPT can help\xa0...', 'relevance_score': np.float64(0.0)}, {'title': 'National Guidelines for Behavioral Health Crisis Care � A Best ...', 'link': 'https://www.samhsa.gov/sites/default/files/national-guidelines-for-behavioral-health-crisis-care-02242020.pdf', 'snippet': 'Feb 24, 2020 ... Crucial to reducing the fragmentation of mental health care. Short-term, inadequate crisis care is shortsighted. Imagine establishing emergency\xa0...', 'relevance_score': np.float64(0.0)}]
+2025-01-04 22:55:43,297 - INFO - Extracted Content: The course is divided into the following modules:
+Module 1: Introduction to AI
+- History and Evolution
+- Key Concepts and Terminology
+- Applications of AI
+Module 2: Machine Learning Basics
+- Supervised Learning
+- Unsupervised Learning
+- Evaluation Metrics
+Module 3: Advanced AI Topics
+- Natural Language Processing
+- Computer Vision
+- Ethical Considerations in AI
+Course Schedule
+| Week | Topics Covered                | Assignments/Activities       |
+|------|-------------------------------|------------------------------|
+| 1    | History and Applications of AI| Research on AI milestones    |
+| 2    | Key Concepts and Terminology  | Quiz on basic AI concepts    |
+| 3    | Supervised Learning           | Implement a regression model |
+| ...  | ...                           | ...                          |
+Required Texts and Materials
+- Textbook: Artificial Intelligence: A Modern Approach by Stuart Russell and Peter Norvig
+- Python programming environment
+- Access to online datasets
+Assessment and Grading
+| Component            | Weight (%) |
+|----------------------|------------|
+| Class Participation  | 10%        |
+| Assignments          | 30%        |
+| Midterm Exam         | 30%        |
+| Final Project        | 30%        |
+| Total                | 100%       |
+Course Policies
+- Attendance: Students are required to attend at least 75% of classes.
+- Late Submissions: Assignments submitted late will incur a penalty of 10% per day.
+- Academic Integrity: Plagiarism or cheating will result in a grade of zero for the assignment/exam.
+Additional Resources
+- Online AI Learning Platforms (e.g., Coursera, edX)
+- Access to departmental computing resources
+Important Dates
+- First Day of Class: September 2, 2024
+- Midterm Exam: October 15, 2024
+- Final Project Submission: December 10, 2024
+- Last Day of Class: December 12, 2024
+Note: This syllabus is subject to change. Any modifications will be communicated in class and via email.
+2025-01-04 22:55:43,396 - INFO - After preprocessing: course divide following module introduction ai history evolution key concept terminology application machine learn basic supervise learning unsupervised evaluation metric advanced topic natural language processing computer vision ethical consideration schedule week cover assignment activity research milestone quiz implement regression model require text material textbook artificial intelligence modern approach stuart russell peter norvig python programming environment access online dataset assessment grade component weight class participation midterm exam final project total policy attendance student attend late submission submit incur penalty day academic integrity plagiarism cheating result zero additional resource platform coursera edx departmental computing important date september october december note syllabus subject change modification communicate email
+2025-01-04 22:56:37,021 - INFO - Emebeddings Created!
+2025-01-04 22:56:37,100 - INFO - Similarity Computed!
+2025-01-04 22:56:37,131 - INFO - Courses are ready to display!
+2025-01-04 22:56:37,131 - INFO - Courses: [{'id': 'noc25_mg13', 'title': 'Business Fundamentals for Entrepreneurs', 'instructors': 'Prof. Devdip Purkayastha', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg13/preview', 'similarity': 0.5374399423599243}, {'id': 'noc25_hs13', 'title': 'Educational Technology and ICT', 'instructors': 'Prof. Sarita Anand', 'duration': '12 weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_hs13/preview', 'similarity': 0.531916081905365}, {'id': 'noc25_de09', 'title': 'Augmenting Design Thinking with Human-Computer Interaction', 'instructors': 'Prof. Sonal Atreya', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_de09/preview', 'similarity': 0.5313950777053833}, {'id': 'noc25_cs50', 'title': 'Machine Learning, ML', 'instructors': 'Prof. Carl Gustaf Jansson', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs50/preview', 'similarity': 0.5252969861030579}, {'id': 'noc25_mg74', 'title': 'Total Quality Management - I', 'instructors': 'Prof. Raghu Nandan Sengupta', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg74/preview', 'similarity': 0.5242961645126343}, {'id': 'noc25_mg34', 'title': 'Introduction to Operations Research', 'instructors': 'Prof. G. Srinivasan', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg34/preview', 'similarity': 0.5073553323745728}, {'id': 'noc25_ge23', 'title': 'NBA Accreditation and Teaching and learning in Engineering (NATE)', 'instructors': 'Prof. N J Rao\nProf. K Rajanikanth', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_ge23/preview', 'similarity': 0.5003593564033508}, {'id': 'noc25_hs87', 'title': 'Enhancing Soft Skills and Personality', 'instructors': 'Prof. T. Ravichandran', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_hs87/preview', 'similarity': 0.4973565638065338}]
