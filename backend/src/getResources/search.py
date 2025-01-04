@@ -2,17 +2,14 @@ import requests
 from dotenv import load_dotenv
 import os
 
-
-
 def search_courses_on_google(query):
     if not query:
         print("Query is empty!")
         return []
-        # load_dotenv()
-        # google_api_key = os.getenv("GOOGLE_API_KEY")
-    api_key = 'AIzaSyDWs2o4kRDKkdDCJRtGh3vUT6gYKIvkrhw'
+    load_dotenv()
+    google_api_key = os.getenv("SEARCH_API")
     cse_id = '741621b17f42141fa'
-    url = f'https://www.googleapis.com/customsearch/v1?q={query}&key={api_key}&cx={cse_id}'
+    url = f'https://www.googleapis.com/customsearch/v1?q={query}&key={google_api_key}&cx={cse_id}'
 
     try:
         response = requests.get(url)
