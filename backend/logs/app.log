@@ -472,4 +472,2545 @@ Note: This syllabus is subject to change. Any modifications will be communicated
 2025-01-04 22:56:37,021 - INFO - Emebeddings Created!
 2025-01-04 22:56:37,100 - INFO - Similarity Computed!
 2025-01-04 22:56:37,131 - INFO - Courses are ready to display!
-2025-01-04 22:56:37,131 - INFO - Courses: [{'id': 'noc25_mg13', 'title': 'Business Fundamentals for Entrepreneurs', 'instructors': 'Prof. Devdip Purkayastha', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg13/preview', 'similarity': 0.5374399423599243}, {'id': 'noc25_hs13', 'title': 'Educational Technology and ICT', 'instructors': 'Prof. Sarita Anand', 'duration': '12 weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_hs13/preview', 'similarity': 0.531916081905365}, {'id': 'noc25_de09', 'title': 'Augmenting Design Thinking with Human-Computer Interaction', 'instructors': 'Prof. Sonal Atreya', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_de09/preview', 'similarity': 0.5313950777053833}, {'id': 'noc25_cs50', 'title': 'Machine Learning, ML', 'instructors': 'Prof. Carl Gustaf Jansson', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs50/preview', 'similarity': 0.5252969861030579}, {'id': 'noc25_mg74', 'title': 'Total Quality Management - I', 'instructors': 'Prof. Raghu Nandan Sengupta', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg74/preview', 'similarity': 0.5242961645126343}, {'id': 'noc25_mg34', 'title': 'Introduction to Operations Research', 'instructors': 'Prof. G. Srinivasan', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg34/preview', 'similarity': 0.5073553323745728}, {'id': 'noc25_ge23', 'title': 'NBA Accreditation and Teaching and learning in Engineering (NATE)', 'instructors': 'Prof. N J Rao\nProf. K Rajanikanth', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_ge23/preview', 'similarity': 0.5003593564033508}, {'id': 'noc25_hs87', 'title': 'Enhancing Soft Skills and Personality', 'instructors': 'Prof. T. Ravichandran', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_hs87/preview', 'similarity': 0.4973565638065338}]
+2025-01-04 22:56:37,131 - INFO - Courses: [{'id': 'noc25_mg13', 'title': 'Business Fundamentals for Entrepreneurs', 'instructors': 'Prof. Devdip Purkayastha', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg13/preview', 'similarity': 0.5374399423599243}, {'id': 'noc25_hs13', 'title': 'Educational Technology and ICT', 'instructors': 'Prof. Sarita Anand', 'duration': '12 weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_hs13/preview', 'similarity': 0.531916081905365}, {'id': 'noc25_de09', 'title': 'Augmenting Design Thinking with Human-Computer Interaction', 'instructors': 'Prof. Sonal Atreya', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_de09/preview', 'similarity': 0.5313950777053833}, {'id': 'noc25_cs50', 'title': 'Machine Learning, ML', 'instructors': 'Prof. Carl Gustaf Jansson', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs50/preview', 'similarity': 0.5252969861030579}, {'id': 'noc25_mg74', 'title': 'Total Quality Management - I', 'instructors': 'Prof. Raghu Nandan Sengupta', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg74/preview', 'similarity': 0.5242961645126343}, {'id': 'noc25_mg34', 'title': 'Introduction to Operations Research', 'instructors': 'Prof. G. Srinivasan', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg34/preview', 'similarity': 0.5073553323745728}, {'id': 'noc25_ge23', 'title': 'NBA Accreditation and Teaching and learning in Engineering (NATE)', 'instructors': 'Prof. N J Rao\nProf. K Rajanikanth', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_ge23/preview', 'similarity': 0.5003593564033508}, {'id': 'noc25_hs87', 'title': 'Enhancing Soft Skills and Personality', 'instructors': 'Prof. T. Ravichandran', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_hs87/preview', 'similarity': 0.4973565638065338}]2025-01-04 23:59:28,865 - INFO - Extracted Content: Module  
+ 
+Content 
+Hrs 
+1 
+ 
+Introduction to System Software 
+2 
+ 
+1.1 
+Concept of System Software, Goals of system software, system program 
+and system programming, Introduction to various system programs such 
+as Assembler, Macro processor, Loader, Linker, Compiler, Interpreter, 
+Device Drivers, Operating system, Editors, Debuggers. 
+ 
+2 
+ 
+Assemblers 
+7 
+ 
+2.1 
+Elements of Assembly Language programming, Assembly scheme, pass 
+structure of assembler, Assembler Design: Two pass assembler Design 
+and single pass Assembler Design for X86 processor, data structures used. 
+ 
+3 
+ 
+Macros and Macro Processor 
+6 
+ 
+3.1 
+Introduction, Macro definition and call, Features of Macro facility: 
+Simple, parameterized, conditional and nested. Design of Two pass macro 
+processor, data structures used. 
+ 
+4 
+ 
+Loaders and Linkers 
+6 
+ 
+4.1 
+Introduction, functions of loaders, Relocation and Linking concept, 
+Different loading schemes: Relocating loader, Direct Linking Loader, 
+Dynamic linking and loading. 
+ 
+5 
+ 
+Compilers: Analysis Phase 
+10 
+ 
+5.1 
+Introduction to compilers, Phases of compilers: 
+Lexical Analysis- Role of Finite State Automata in Lexical Analysis, 
+Design of Lexical analyzer, data structures used. 
+ 
+ 
+Syntax Analysis- Role of Context Free Grammar in Syntax analysis, 
+Types of Parsers: Top down parser- LL(1), Bottom up parser- SR Parser, 
+Operator precedence parser, SLR. 
+Semantic Analysis, Syntax directed definitions. 
+6 
+ 
+Compilers: Synthesis phase 
+8 
+ 
+6.1 
+Intermediate Code Generation: Types of Intermediate codes: Syntax 
+tree, Postfix notation, three address codes: Triples and Quadruples, 
+indirect triple. Code Optimization: Need and sources of optimization, 
+Code optimization techniques: Machine Dependent and Machine 
+Independent. Code Generation: Issues in the design of code generator, 
+code generation algorithm. Basic block and flow graph. 
+ 
+ 
+Module   
+Content 
+Hrs 
+1 
+ 
+Introduction - Number Theory and Basic Cryptography  
+8 
+ 
+1.1 Security Goals, Attacks, Services and Mechanisms, Techniques. Modular 
+Arithmetic: Euclidean Algorithm, Fermat‘s and Euler‘s theorem 
+ 
+ 
+1.2 Classical Encryption techniques, Symmetric cipher model, mono-
+alphabetic and polyalphabetic substitution techniques: Vigenere cipher, 
+playfair cipher, Hill cipher, transposition techniques: keyed and keyless 
+transposition ciphers 
+ 
+2 
+ 
+Symmetric and Asymmetric key Cryptography and key Management 
+11 
+ 
+2.1 Block cipher principles, block cipher modes of operation, DES, 
+Double DES, Triple DES, Advanced Encryption Standard (AES), Stream 
+Ciphers: RC4 algorithm. 
+ 
+ 
+2.2 Public key cryptography: Principles of public key cryptosystems- The 
+RSA Cryptosystem, The knapsack cryptosystem 
+ 
+ 
+2.3 Symmetric Key Distribution: KDC, Needham-schroeder protocol. 
+Kerberos: Kerberos Authentication protocol, Symmetric key agreement: 
+Diffie Hellman, Public key Distribution: Digital Certificate: X.509, PKI 
+ 
+3 
+ 
+Cryptographic Hash Functions 
+3 
+ 
+3.1 Cryptographic hash functions, Properties of secure hash function, MD5, 
+SHA-1, MAC, HMAC, CMAC. 
+ 
+4 
+ 
+Authentication Protocols & Digital Signature Schemes 
+5 
+ 
+4.1 User Authentication, Entity Authentication: Password Base, Challenge 
+Response Based 
+ 
+ 
+ 
+4.2 Digital Signature, Attacks on Digital Signature, Digital Signature Scheme: 
+RSA 
+ 
+5 
+ 
+Network Security and Applications 
+9 
+ 
+5.1 Network security basics: TCP/IP vulnerabilities (Layer wise), Network 
+Attacks: Packet Sniffing, ARP spoofing, port scanning, IP spoofing 
+ 
+ 
+5.2 Denial of Service: DOS attacks, ICMP flood, SYN flood, UDP flood, 
+Distributed Denial of Service 
+ 
+ 
+5.3 Internet Security Protocols: PGP, SSL, IPSEC. Network security: IDS, 
+Firewalls 
+ 
+6 
+ 
+System Security 
+3 
+ 
+6.1 Buffer Overflow, malicious Programs: Worms and Viruses, SQL injection  
+ 
+Module   
+Content 
+Hrs 
+1 
+ 
+Introduction to Mobile Computing 
+4 
+ 
+1.1 Introduction to Mobile Computing, Telecommunication Generations, 
+Cellular systems, 
+ 
+ 
+1.2 Electromagnetic 
+Spectrum, 
+Antenna, 
+Signal 
+Propagation, 
+Signal 
+Characteristics, Multiplexing, Spread Spectrum: DSSS & FHSS, Co-
+channel interference 
+ 
+2 
+ 
+GSM Mobile services 
+ 8 
+ 
+2.1 GSM Mobile services, System Architecture, Radio interface, Protocols, 
+Localization and Calling, Handover, security (A3, A5 & A8)  
+ 
+ 
+2.2 GPRS system and protocol architecture  
+ 
+ 
+2.3 UTRAN, UMTS core network; Improvements on Core Network,  
+ 
+3 
+ 
+Mobile Networking  
+8 
+ 
+3.1 Medium Access Protocol, Internet Protocol and Transport layer  
+ 
+ 
+3.2 Mobile IP: IP Packet Delivery, Agent Advertisement and Discovery, 
+Registration, Tunneling and Encapsulation, Reverse Tunneling. 
+ 
+ 
+3.3 Mobile TCP: Traditional TCP, Classical TCP Improvements like Indirect 
+TCP, Snooping TCP & Mobile TCP, Fast Retransmit/ Fast Recovery, 
+Transmission/Timeout Freezing, Selective Retransmission  
+ 
+4 
+ 
+Wireless Local Area Networks  
+6 
+ 
+4.1 Wireless Local Area Networks: Introduction, Infrastructure and ad-hoc 
+network 
+ 
+ 
+4.2 IEEE 802.11:System architecture , Protocol architecture , Physical layer, 
+Medium access control layer, MAC management, 802.11a, 802.11b 
+standard 
+ 
+ 
+4.3 Wi-Fi security : WEP ,WPA, Wireless LAN Threats , Securing Wireless 
+Networks 
+ 
+ 
+ 
+4.4 Bluetooth: Introduction, User Scenario, Architecture, protocol stack  
+ 
+5 
+ 
+Mobility Management  
+6 
+ 
+5.1 Mobility Management : Introduction, IP Mobility, Optimization, IPv6  
+ 
+ 
+5.2 Macro Mobility : MIPv6, FMIPv6 
+ 
+ 
+5.3 Micro Mobility: CellularIP, HAWAII, HMIPv6 
+ 
+6 
+ 
+Long-Term Evolution (LTE) of 3GPP  
+7 
+ 
+6.1 Long-Term Evolution (LTE) of 3GPP : LTE System Overview, 
+Evolution from UMTS to LTE  
+ 
+ 
+6.2 LTE/SAE Requirements, SAE Architecture  
+ 
+ 
+6.3 EPS: Evolved Packet System, E-UTRAN, Voice over LTE (VoLTE), 
+Introduction to LTE-Advanced 
+ 
+ 
+6.4 Self Organizing Network (SON-LTE), SON for Heterogeneous Networks 
+(HetNet), Comparison between Different Generations (2G, 3G, 4G and 5G), 
+Introduction to 5G  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Module  
+ 
+Content 
+Hrs 
+1 
+ 
+Introduction to Artificial Intelligence 
+4 
+ 
+1.1 
+Introduction, History of Artificial Intelligence, Intelligent Systems: 
+Categorization of Intelligent System, Components of AI Program, 
+Foundations of AI, Sub-areas of AI, Applications of AI, Current trends 
+in AI.  
+ 
+2 
+ 
+Intelligent Agents 
+4 
+ 
+2.1 
+Agents and Environments, The concept of rationality, The nature of 
+environment, The structure of Agents, Types of Agents, Learning 
+Agent. 
+ 
+ 
+2.2 
+Solving problem by Searching: Problem Solving Agent, Formulating 
+Problems, Example Problems.  
+ 
+3 
+ 
+Problem solving 
+10 
+ 
+3.1 
+Uninformed Search Methods: Breadth First Search (BFS), Depth First 
+Search (DFS), Depth Limited Search, Depth First Iterative Deepening 
+(DFID), Informed Search Methods: Greedy best first Search, A* 
+Search, Memory bounded heuristic Search. 
+ 
+3.2 
+Local Search Algorithms and Optimization Problems: Hill climbing 
+search Simulated annealing, Genetic algorithms. 
+ 
+ 
+3.3 
+Adversarial Search: Game Playing, Min-Max Search, Alpha Beta 
+Pruning  
+ 
+4 
+ 
+Knowledge and Reasoning 
+12 
+ 
+4.1 
+Knowledge based Agents, Brief Overview of propositional logic, First 
+Order Logic: Syntax and Semantic, Inference in FOL, Forward 
+chaining, backward Chaining.  
+ 
+4.2 
+Knowledge Engineering in First-Order Logic, Unification, Resolution 
+ 
+ 
+4.3 
+Uncertain Knowledge and Reasoning: Uncertainty, Representing 
+knowledge in an uncertain domain, The semantics of belief network, 
+Simple Inference in belief network 
+ 
+5 
+ 
+Planning and Learning  
+5 
+ 
+5.1 
+The planning problem, Planning with state space search, Partial order 
+planning, Hierarchical planning, Conditional Planning.  
+ 
+ 
+5.2 
+Learning: Forms of Learning, Theory of Learning, PAC learning. 
+Introduction to statistical learning (Introduction only)  
+Introduction to reinforcement learning: Learning from Rewards,   
+Passive Reinforcement Learning, Active reinforcement Learning 
+ 
+6 
+ 
+AI Applications  
+4 
+ 
+ 
+A. Introduction to NLP- Language models, Grammars, Parsing  
+B. Robotics - Robots, Robot hardware, Problems Robotics can 
+solve 
+C. AI applications in Healthcare, Retail, Banking  
+ 
+ 
+Module   
+Content 
+Hrs 
+1 
+ 
+Introduction to Internet of Things (IoT) 
+7 
+ 
+1.1 What is IoT?  - IoT and Digitization 
+ 
+1.2 IoT Impact – Connected Roadways, Connected Factory, Smart Connected 
+Buildings, Smart Creatures  
+1.3 Convergence of IT and OT, IoT Challenges 
+1.4 The oneM2M IoT Standardized Architecture 
+1.5 The IoT World Forum (IoTWF) Standardized Architecture 
+1.6 
+ 
+ 
+IoT Data Management and Compute Stack – Design considerations and Data 
+related problems, Fog Computing, Edge Computing, The Hierarchy of Edge, Fog 
+and Cloud 
+2 
+ 
+Things in IoT 
+7 
+ 
+2.1 Sensors/Transducers 
+– 
+Definition, 
+Principles, 
+Classifications, 
+Types, 
+Characteristics and Specifications  
+ 
+2.2 Actuators -– Definition, Principles, Classifications, Types, Characteristics and 
+Specifications 
+2.3 Smart Object – Definition, Characteristics and Trends 
+2.4 Sensor Networks – Architecture of Wireless Sensor Network, Network Topologies 
+2.5 Enabling IoT Technologies - Radio Frequency Identification Technology, Micro-
+Electro-Mechanical Systems (MEMS), NFC (Near Field Communication), 
+Bluetooth Low Energy (BLE), LTE-A (LTE Advanced), IEEE 802.15.4– 
+Standardization and Alliances, ZigBee. 
+3 
+ 
+The Core IoT Functional Stack 
+6 
+ 
+3.1 Layer 1 – Things: Sensors and Actuators Layer 
+ 
+3.2 Layer 2 – Communications Network Layer, Access Network Sublayer, Gateways 
+and Backhaul Sublayer, Network Transport Sublayer, IoT Network Management 
+Sublayer 
+ 
+3.3 Layer 3 – Applications and Analytics Layer, Analytics Vs. Control Applications, 
+Data Vs. Network Analytics, Data Analytics Vs. Business Benefits, Smart Services 
+4 
+ 
+Application Protocols for IoT 
+7 
+ 
+4.1 The Transport Layer 
+ 
+4.2 IoT Application Transport Methods 
+4.3 Application Layer Protocol Not Present  
+ 
+4.4 SCADA - Background on SCADA, Adapting SCADA for IP, Tunneling Legacy 
+SCADA over IP Networks, SCADA Protocol Translation, SCADA Transport over 
+LLNs with MAP-T,  
+ 
+ 
+4.5 Generic Web-Based Protocols 
+ 
+ 
+4.6 IoT Application Layer Protocols – CoAP and MQTT 
+ 
+5 
+ 
+Domain Specific IoTs 
+6 
+ 
+5.1 Home Automation – Smart Lighting, Smart Appliances, Intrusion Detection, 
+Smoke/Gas Detectors 
+ 
+5.2 Cities – Smart Parking, Smart Lighting, Smart Roads, Structural Health 
+Monitoring, Surveillance 
+5.3 Environment – Weather Monitoring, Air Pollution Monitoring, Noise Pollution 
+Monitoring, Forest Fire Detection, River Floods Detection  
+5.4 Energy – Smart Grids, Renewable Energy Systems, Prognostics 
+5.5 Retail – Inventory Management, Smart Payments, Smart Vending Machines 
+5.6 Logistics – Route Generation & Scheduling, Fleet Tracking, Shipment Monitoring 
+5.7 Agriculture – Smart Irrigation, Green House Control 
+5.8 Industry – Machine Diagnostics & Prognosis, Indoor Air Quality Monitoring 
+5.9 Health & Lifestyle – Health & Fitness Monitoring, Wearable Electronics 
+6 
+ 
+Create your own IoT 
+6 
+ 
+6.1 IoT Hardware -  Arduino, Raspberry Pi, ESP32, Cloudbit/Littlebits, Particle 
+Photon, Beaglebone Black.  
+ 
+6.2 IoT Software - languages for programming IoT hardware, for middleware 
+applications and API development, for making front ends, REST and JSON-LD 
+6.3 A comparison of IoT boards and platforms in terms of computing 
+ 
+6.4 A comparison of IoT boards and platforms in terms of development environments 
+and communication standards 
+ 
+ 
+6.5 A comparison of boards and platforms in terms of connectivity 
+ 
+ 
+6.6 A comparison of IoT software platforms 
+ 
+ 
+Questions will be mixed in nature (for example supposed Q.2 has part (a) from module 3 
+then part (b) will be from any module other than module 3) 
+4 
+Only Four question need to be solved. 
+5 
+In question paper weightage of each module will be proportional to number of respective 
+lecture hours as mention in the syllabus. 
+ 
+Useful Links  
+1 
+https://nptel.ac.in/courses/106/105/106105166/ 
+2 
+https://nptel.ac.in/courses/108/108/108108098/ 
+3 
+https://nptel.ac.in/courses/106/105/106105195/ 
+4 
+https://www.coursera.org/specializations/IoT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Course Code: 
+Course Title 
+Credit 
+CSDLO6012 
+Digital Signal & Image Processing 
+3 
+ 
+Prerequisite: Applied Engineering Mathematics 
+Course Objectives: 
+1 To understand the fundamental concepts of digital signal processing and Image processing 
+2 To explore DFT for 1-D and 2-D signal and FFT for 1-D signal 
+3 To apply processing techniques on 1-D and Image signals 
+4 To apply digital image processing techniques for edge detection 
+Course Outcomes: On successful completion of course, learners will be able to: 
+1 Understand the concept of DT Signal and DT Systems 
+2 Classify and analyze discrete time signals and systems 
+3 Implement Digital Signal Transform techniques DFT and FFT 
+4 Use the enhancement techniques for digital Image Processing 
+5 Apply image segmentation  techniques 
+ 
+Module 
+No. 
+Unit 
+No. 
+Topic details 
+Hrs. 
+1.0 
+Discrete-Time Signal and Discrete-Time System 
+10 
+1.1 
+Introduction to Digital Signal Processing, Sampling and 
+Reconstruction, Standard DT Signals, Concept of Digital 
+Frequency, Representation of DT signal using Standard DT Signals, 
+Signal Manipulations (shifting, reversal, scaling, addition, 
+multiplication). 
+1.2 
+Classification of Discrete-Time Signals, Classification of Discrete-
+Systems 
+1.3 
+Linear Convolution formulation for 1-D signal (without 
+mathematical 
+proof), 
+Circular 
+Convolution 
+(without 
+mathematical proof), Linear convolution using Circular 
+Convolution. Auto and Cross Correlation formula evaluation, 
+Concept of LTI system, Output of DT system using Time Domain 
+Linear Convolution. 
+2.0 
+Discrete Fourier Transform 
+05 
+2.1 
+Introduction to DTFT, DFT, Relation between DFT and DTFT, 
+IDFT 
+2.2 
+Properties of DFT without mathematical proof (Scaling and 
+Linearity, Periodicity, Time Shift and Frequency Shift, Time 
+Reversal, Convolution Property and Parseval’s Energy 
+Theorem). DFT computation using DFT properties. 
+2.3 
+Convolution of long sequences, Introduction to 2-D DFT 
+3.0 
+Fast Fourier Transform 
+04 
+     3.1 
+Need of FFT, Radix-2 DIT-FFT algorithm, 
+3.2 
+DIT-FFT Flow graph for N=4 and 8, Inverse FFT algorithm. 
+3.3 
+Spectral Analysis using FFT 
+4.0 
+Digital Image Fundamentals 
+05 
+4.1 
+Introduction to Digital Image, Digital Image Processing System, 
+Sampling and Quantization 
+4.2 
+Representation of Digital Image, Connectivity 
+4.3 
+Image File Formats: BMP, TIFF and JPEG. 
+5.0 
+Image Enhancement in Spatial domain 
+09 
+5.1 
+ Gray Level Transformations, Zero Memory Point Operations, 
+5.2 
+ Histogram Processing, Histogram equalization. 
+ 
+5.3 
+Neighborhood processing, Image averaging, Image Subtraction,
+Smoothing Filters -  Low pass averaging, Sharpening Filters-High
+Pass Filter, High Boost Filter, Median Filter for reduction   of  noise 
+6.0 
+Image Segmentation 
+06 
+6.1 
+Fundamentals, Segmentation based on Discontinuities  
+and Similarities 
+6.2 
+Point, line and Edge Detection, Image edge detection using Robert, 
+Prewitt and Sobel masks, Image edge Detection using Laplacian mask
+6.3 
+Region based segmentation: Region Growing, Region Splitting 
+and Merging 
+Total 
+39 
+ 
+Module  
+Content 
+Hrs 
+1 
+Introduction to Statistics 
+6 
+ 
+Functions – Importance – Uses and Limitations of Statistics. Statistical data–
+Classification, Tabulation, Diagrammatic & Graphic representation of data 
+ 
+2 
+Data Collection & Sampling Methods 
+6 
+ 
+Primary & Secondary data, Sources of data, Methods of collecting data. 
+Sampling – Census & Sample methods –Methods of sampling, Probability 
+Sampling and Non-Probability Sampling. 
+ 
+3 
+Introduction to Regression 
+8 
+ 
+Mathematical and Statistical Equation – Meaning of Intercept and Slope – 
+Error term – Measure for Model Fit –R2 – MAE – MAPE. 
+ 
+4 
+Introduction to Multiple Linear Regression 
+8 
+ 
+Multiple Linear Regression Model, Partial Regression Coefficients, Testing 
+Significance overall significance of Overall fit of the model, Testing  for 
+Individual Regression Coefficients 
+ 
+5 
+Statistical inference 
+6 
+ 
+Random sample -Parametric point estimation unbiasedness and consistence 
+- method of moments and method of maximum likelihood.  
+ 
+6 
+Tests of hypotheses 
+5 
+ 
+ Null and Alternative hypotheses. Types of errors.  Neyman-Pearson lemma-
+MP and UMP tests.   
+ 
+ 
+Questions will be mixed in nature (for example supposed Q.2 has part (a) from module 3 
+then part (b) will be from any module other than module 3) 
+4 
+Only Four question need to be solved. 
+5 
+In question paper weightage of each module will be proportional to number of respective 
+lecture hours as mention in the syllabus. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lab Code 
+Lab Name 
+Credit 
+CSL601 
+System Programming and Compiler Construction Lab 
+1 
+ 
+Prerequisite: Theoretical computer science, Operating system. Computer Organization and 
+Architecture 
+Lab Outcomes: At the end of the course, the students will be able to 
+1 Generate machine code by implementing two pass assemblers. 
+2 Implement Two pass macro processor. 
+3 Parse the given input string by constructing Top down/Bottom-up parser. 
+4 Identify and Validate tokens for given high level language and Implement synthesis phase of 
+compiler. 
+5 Explore LEX & YACC tools. 
+ 
+Suggested List of Experiments 
+Sr. No.   Title of Experiment  
+1 
+Implementations of two pass Assembler. 
+2 
+Implementation of Two pass Macro Processor. 
+3 
+Implementation of Lexical Analyzer. 
+4 
+Implementation of Parser (Any one). 
+5 
+Implementation of Intermediate code generation phase of compiler. 
+6 
+Implementation of code generation phase of compiler. 
+7 
+Study and implement experiments on LEX, YACC. 
+ 
+Reference Books: 
+1 
+Andrew W. Appel Princeton University. Jens Palsberg   Modern Compiler. 
+Implementation in Java, Second Edition. Purdue University. CAMBRIDGE 
+University press @2002. 
+2 
+Charles N. Fischer, Richard J. LeBlanc Crafting a compiler with C , pearson 
+Education 2007  
+ 
+Term Work: 
+1 Term work should consist of experiments based on suggested experiment list. 
+2 Journal must include at least 2 assignments on content of theory and practical of “System 
+Programming and Compiler Construction” 
+3 The final certification and acceptance of term work ensures that satisfactory performance of 
+laboratory work and minimum passing marks in term work. 
+4 The distribution of marks for term work shall be as follows: 
+Laboratory work (experiments/case studies): ....................................(15) Marks. 
+Assignment: ...................................................................................... (05) Marks. 
+Attendance ......................................................................................... (05) Marks 
+TOTAL: .............................................................................................. (25) Marks. 
+Oral & Practical exam will be based on the above and CSC601 syllabus. 
+ 
+ 
+ 
+ 
+ 
+ 
+Lab Code 
+Lab Name 
+Credit 
+CSL602 
+Cryptography & System Security Lab 
+1 
+ 
+Prerequisite: Computer Network 
+Lab Objectives:  
+1 To apply various encryption techniques  
+2 To study and implement various security mechanism 
+3 To explore the network security concept and tools 
+Lab Outcomes: At the end of the course, the students will be able to 
+1 apply the knowledge of symmetric and asymmetric cryptography to implement simple 
+ciphers. 
+2 explore the different network reconnaissance tools to gather information about networks. 
+3 explore and use tools like sniffers, port scanners and other related tools for analysing 
+packets in a Network. 
+4 set up firewalls and intrusion detection systems using open-source technologies and to 
+explore email security. 
+5 explore various attacks like buffer-overflow and web application attack. 
+ 
+ 
+Suggested List of Experiments 
+Sr. No 
+Title of Experiment  
+1 
+Design and Implementation of a product cipher using Substitution and Transposition 
+ciphers. 
+2 
+Implementation and analysis of RSA crypto system. 
+3 
+Implementation of Diffie Hellman Key exchange algorithm  
+4 
+For varying message sizes, test integrity of message using MD-5, SHA-1, and 
+analyse the performance of the two protocols. Use crypt APIs. 
+5 
+Study the use of network reconnaissance tools like WHOIS, dig, traceroute, ns 
+lookup to gather information about networks and domain registrars.  
+6 
+Study of packet sniffer tools: wireshark,:  
+1. Download and install wireshark and capture icmp, tcp, and http packets in 
+promiscuous mode. 
+ 2. Explore how the packets can be traced based on different filters.  
+7 
+Download and install nmap. Use it with different options to scan open ports, perform 
+OS fingerprinting, do a ping scan, tcp port scan, udp port scan, xmas scan etc. 
+8 
+Detect ARP spoofing using nmap and/or open-source tool ARPWATCH and 
+wireshark. Use arping tool to generate gratuitous arps and monitor using wireshark 
+9 
+Simulate DOS attack using Hping, hping3 and other tools  
+10 
+Simulate buffer overflow attack using Ollydbg, Splint, Cpp check etc 
+11 
+a. Set up IPSEC under LINUX.  
+b. Set up Snort and study the logs.  
+12 
+Setting up personal Firewall using iptables 
+13 
+Explore the GPG tool of linux to implement email security  
+14 
+SQL injection attack, Cross-Cite Scripting attack simulation  
+15 
+Case Study /Seminar: Topic beyond syllabus related to topics covered. 
+ 
+Term Work: 
+1 Term work should consist of 10 experiments. 
+2 Journal must include at least 2 assignments on content of theory and practical of 
+ 
+“Cryptography and System Security “ 
+3 The final certification and acceptance of term work ensures that satisfactory performance of 
+laboratory work and minimum passing marks in term work. 
+4 The distribution of marks for term work shall be as follows: 
+Lab Performance 15 Marks 
+Assignments 05 Marks 
+Attendance (Theory & practical) 05 Marks 
+ 
+ 
+ 
+ 
+ 
+ 
+Lab Code 
+Lab Name 
+Credit 
+CSL603 
+ Mobile Computing Lab   
+1 
+ 
+Prerequisite: Computer Networks 
+Lab Objectives:  
+1 To learn the mobile computing tools and software for implementation. 
+2 To understand the security algorithms in mobile networks 
+3 To learn security concepts 
+Lab Outcomes: At the end of the course, the students will be able to 
+1 develop and demonstrate mobile applications using various tools  
+2 articulate the knowledge of GSM, CDMA & Bluetooth technologies and demonstrate it.  
+3 Students will able to carry out simulation of frequency reuse, hidden/exposed terminal 
+problem 
+4 implement security algorithms for mobile communication network 
+5 demonstrate simulation and compare the performance of Wireless LAN 
+ 
+Suggested List of Experiments 
+The softwares like Android Studio, J2ME, NS2, NS3 and any other software which is suitable 
+are recommended for performing the practical. 
+Sr. No.     Title of Experiment  
+1 
+Implementation a Bluetooth network with application as transfer of a file from one 
+device to another. 
+2 
+To implement a basic function of Code Division Multiple Access (CDMA).  
+3 
+Implementation of GSM security algorithms (A3/A5/A8)  
+4 
+Illustration of Hidden Terminal/Exposed terminal Problem.  Consider two Wi-fi 
+base stations (STA) and an access point (AP) located along the x-axis. All the 
+nodes are fixed. The AP is situated at the middle of the two STA, the distance of 
+separation being 150 m. [variable]. Node #0 and node #1 are the hidden 
+terminals. Both are transmitting some data to the AP (almost at same rate) at the 
+same time. The loss across the wireless link between each STA and the AP is 
+fixed at 50 dB irrespective of the distance of separation. To study how 
+RTS/CTS helps in wireless networks,  
+1. No RTS/CTS is being sent.  
+2. Nodes do exchange RTS/CTS packets.  
+Compare the no. of packet retransmissions required in both the cases (as 
+obtained in the output) and compare the results.  
+5 
+To setup & configuration of Wireless Access Point (AP). Analyze the Wi-Fi 
+communication range in the presence of the access point (AP) and the base 
+station (BS). Consider BS and AP are static. Find out the maximum distance to 
+which two way communications is possible. Try multiple iterations by adjusting 
+its distance in the code and test it.  
+ 
+6 
+Study of security tools (like Kismet,Netstumbler) 
+7 
+Develop an application that uses GUI components.  
+8 
+Write an application that draws basic graphical primitives on the screen. 
+9 
+Develop an application that makes use of database. 
+10 
+Develop a native application that uses GPS location information.  
+11 
+Implement an application that creates an alert upon receiving a message. 
+ 
+12 
+Implementation of income tax/loan EMI calculator and deploy the same on real 
+devices  (Implementation of any real time application) 
+ 
+Term Work: 
+1 Term work should consist of 10 experiments. 
+2 Journal must include at least 2 assignments on content of theory and practical of “ Mobile 
+Computing”  
+3 The final certification and acceptance of term work ensures that satisfactory performance of 
+laboratory work and minimum passing marks in term work. 
+4 Total 25 Marks (Experiments: 15-marks, Attendance Theory& Practical: 05-marks, 
+Assignments: 05-marks) 
+ 
+Useful Links  
+1 
+https://nptel.ac.in/courses/106/106/106106147/ 
+2 
+https://www.coursera.org/learn/smart-device-mobile-emerging-technologies 
+ 
+ 
+ 
+ 
+ 
+ 
+Lab Code 
+Lab Name 
+Credit 
+CSL604 
+ Artificial Intelligence Lab 
+1 
+ 
+Prerequisite:  Discrete Mathematics, Data Structure 
+Lab Objectives:  
+1 To realize the basic techniques to build intelligent systems  
+2 To apply appropriate search techniques used in problem solving 
+3 To create knowledge base for uncertain data 
+Lab Outcomes: At the end of the course, the students will be able to 
+1 Identify languages and technologies for Artificial Intelligence 
+2 Understand and implement uninformed and informed searching techniques for real world 
+problems. 
+3 Create a knowledge base using any AI language. 
+4 Design and implement expert systems for real world problems. 
+ 
+Suggested List of Experiments  (programming in python) 
+Sr. No.   Title of Experiment  
+1 
+One case study on AI applications published in IEEE/ACM/Springer or any prominent 
+journal.  
+2 
+Assignments on State space formulation and PEAS representation for various AI 
+applications 
+3 
+Program on uninformed search methods. 
+4 
+Program on informed search methods. 
+5 
+Program on Game playing algorithms. 
+6 
+Program for first order Logic 
+7 
+Planning Programming 
+8 
+Implementation for Bayes Belief Network 
+Note: Any other practical covering the syllabus topics and subtopics can be conducted.  
+The programming assignment for First order logics could be in the form of a mini project  
+ 
+Term Work: 
+1 Term work should consist of a minimum of 8 experiments. 
+2 Journal must include at least 2 assignments on content of theory and practical of “Artificial 
+Intelligence” 
+3 The final certification and acceptance of term work ensures that satisfactory performance of 
+laboratory work and minimum passing marks in term work. 
+4 Total 25 Marks (Experiments: 15-marks, Attendance Theory & Practical: 05-marks, 
+Assignments: 05-marks) 
+ Oral & Practical exam: Based on the entire syllabus of CSC604: Artificial Intelligence 
+ 
+ 
+ 
+ 
+ 
+Lab Code 
+Lab Name 
+Credit 
+CSL605 
+ 
+Cloud Computing  
+ 
+2 
+Prerequisite: Computer Networks 
+Lab Objectives: The course has following objectives 
+1 To make students familiar with key concepts of virtualization. 
+2 To make students familiar with various deployment models of cloud such as private, public, 
+hybrid and community so that they star using and adopting appropriate type of cloud for their 
+application. 
+3 To make students familiar with various service models such as IaaS, SaaS, PaaS, Security as 
+a Service (SECaaS) and Database as a Service.  
+4 To make students familiar with security and privacy issues in cloud computing and how to 
+address them. 
+Lab Outcomes: At the end of the course, the students will be able to 
+1 Implement different types of virtualization techniques. 
+2 Analyze various cloud computing service models and implement them to solve the given 
+problems. 
+3 Design and develop real world web applications and deploy them on commercial cloud(s). 
+4 Explain major security issues in the cloud and mechanisms to address them. 
+5 Explore various commercially available cloud services and recommend the appropriate one for 
+the given application. 
+6 Implement the concept of containerization 
+Module 
+Detailed Contents 
+Hours 
+LO 
+01 
+Title:  Introduction and overview of cloud computing. 
+Objective: To understand the origin of cloud computing, cloud 
+cube model, NIST model, characteristics of cloud, different 
+deployment 
+models, 
+service 
+models, 
+advantages 
+and 
+disadvantages. 
+2 
+2 
+02 
+Title: To study and implement Hosted Virtualization using 
+VirtualBox& KVM. 
+Objective: To know the concept of Virtualization along with 
+their types, structures and mechanisms. This experiment should 
+have demonstration of creating and running Virtual machines 
+inside hosted hypervisors like VirtualBox and KVM with their 
+comparison based on various virtualization parameters. 
+2 
+1 
+ 
+03 
+Title: To study andImplement Bare-metal Virtualization using 
+Xen, HyperV or VMware Esxi. 
+Objective: To understand the functionality of Bare-metal 
+hypervisors and their relevance in cloud computing platforms. 
+This experiment should have demonstration of install, configure 
+and manage Bare Metal hypervisor along with instructions to 
+create and run virtual machines inside it. It should also 
+emphasize on accessing VMs in different environments along 
+with additional services provided by them like Load balancing, 
+Auto-Scaling, Security etc. 
+4 
+1 
+ 
+04 
+Title:  To study andImplement Infrastructure as a Service using 
+AWS/Microsoft Azure. 
+Objective: To demonstrate the steps to create and run virtual 
+machines inside Public cloud platform. This experiment should 
+emphasize on creating and running Linux/Windows Virtual 
+machine inside Amazon EC2 or Microsoft Azure Compute and 
+accessing them using RDP or VNC tools. 
+4 
+2 
+05 
+Title:  To study andImplement Platform as a Service using 
+AWS Elastic Beanstalk/ Microsoft Azure App Service. 
+Objective: To demonstrate the steps to deploy Web applications 
+or Web services written in different languages on AWS Elastic 
+Beanstalk/ Microsoft Azure App Service. 
+4 
+2 
+06 
+Title: To study andImplementStorage as a Service using Own 
+Cloud/ AWS S3, Glaciers/ Azure Storage. 
+Objective: To understand the concept of Cloud storage and to 
+demonstrate the different types of storages like object storage, 
+block level storages etc. supported by Cloud Platforms like Own 
+Cloud/ AWS S3, Glaciers/ Azure Storage. 
+4 
+2 
+07 
+Title: To study andImplementDatabase as a Service on 
+SQL/NOSQL databases like AWS RDS, AZURE SQL/ 
+MongoDB Lab/ Firebase. 
+Objective: To know the concept of Database as a Service 
+running on cloud and to demonstrate the CRUD operations on 
+different SQL and NOSQL databases running on cloud like 
+AWS RDS, AZURE SQL/ Mongo Lab/ Firebase. 
+2 
+2 
+08 
+Title: To study andImplementSecurity as a Service on 
+AWS/Azure  
+Objective: To understand the Security practices available in 
+public cloud platforms and to demonstrate various Threat 
+detection, Data protection and Infrastructure protection services 
+in AWS and Azure. 
+3 
+4 
+09 
+Title: To study and implement Identity and Access 
+Management (IAM) practices on AWS/Azure cloud. 
+Objective: To understand the working of Identity and Access 
+Management IAM in cloud computing and to demonstrate the 
+case study based on Identity and Access Management (IAM) on 
+AWS/Azure cloud platform.  
+2 
+2 
+10 
+Title: To study and Implement Containerization using Docker 
+Objective: To know the basic differences between Virtual 
+machine and Container. It involves demonstration of creating, 
+finding, building, installing, and running Linux/Windows 
+application containers inside local machine or cloud platform. 
+4 
+6 
+ 
+11 
+Title:  To study and implement container orchestration using 
+Kubernetes 
+Objective: To understand the steps to deploy Kubernetes 
+Cluster on local systems, deploy applications on Kubernetes, 
+creating a Service in Kubernetes, develop Kubernetes 
+configuration files in YAML and creating a deployment in 
+Kubernetes using YAML, 
+4 
+6 
+12 
+Mini-project: Design a Web Application hosted on public 
+cloud platform 
+[It should cover the concept of IaaS, PaaS, DBaaS, Storage as a 
+Service, Security as a Service etc.] 
+4 
+3, 5 
+ 
+Sr. No. 
+Suggested Assignment List (Any two) 
+LO 
+1 
+Assignment based on selection of suitable cloud platform solution 
+based on requirement analysis considering given problem 
+statement 
+5 
+2 
+Assignment on recent trends in cloud computing and related 
+technologies 
+5 
+3 
+Assignment on comparative study of different computing 
+technologies [Parallel, Distributed, Cluster, Grid, Quantum) 
+5 
+4 
+Comparative study of different hosted and bare metal Hypervisors 
+with suitable parameters along with their use in public/private 
+cloud platform 
+1 
+5 
+Assignment on explore and compare the similar type of services 
+provided by AWS and Azure [Any ten services] 
+5 
+ 
+Digital Material: 
+Sr. 
+No. 
+Topic 
+Link 
+1 
+Introduction and overview of cloud 
+computing 
+https://www.nist.gov/system/files/documents
+/itl/cloud/NIST_SP-500-291_Version-
+2_2013_June18_FINAL.pdf 
+2 
+Hosted Virtualization using KVM 
+https://phoenixnap.com/kb/ubuntu-install-
+kvm\ 
+3 
+Baremetal Virtualization using Xen 
+https://docs.citrix.com/en-us/xenserver/7-
+1/install.html 
+4 
+IaaS, PaaS, STaaS, DbaaS, IAM and 
+Security as a Service on AWS and 
+Azure 
+1) AWS 
+https://docs.aws.amazon.com/ 
+2) MS Azure 
+https://docs.microsoft.com/en-us/azure 
+5 
+Docker 
+https://docs.docker.com/get-started/ 
+ 
+6 
+Kubernetes 
+https://kubernetes.io/docs/home/
+2025-01-04 23:59:32,617 - INFO - After preprocessing: module content hrs introduction system software concept goal program programming assembler macro processor loader linker compiler interpreter device driver operating editor debugger element assembly language scheme pass structure design single datum definition feature facility simple parameterized conditional nested function relocation link different loading relocate direct dynamic linking analysis phase lexical role finite state automata analyzer syntax context free grammar type parser sr operator precedence slr semantic synthesis intermediate code generation tree postfix notation address triple quadruple indirect optimization need source technique machine dependent independent issue generator algorithm basic block flow graph number theory cryptography security attack service mechanism modular arithmetic euclidean theorem classical encryption symmetric cipher model alphabetic polyalphabetic substitution vigenere playfair hill transposition keyed keyless asymmetric key management principle modes operation des double advanced standard aes stream public rsa cryptosystem knapsack distribution kdc needham schroeder protocol kerbero kerberos authentication agreement diffie hellman digital certificate pki cryptographic hash property secure mac hmac cmac signature user entity password base challenge response network application tcp ip vulnerability layer wise packet sniffing arp spoofing port scanning spoof denial do icmp flood syn udp distribute internet pgp ssl ipsec id firewall buffer overflow malicious worm virus sql injection mobile computing telecommunication cellular electromagnetic spectrum antenna signal propagation characteristic multiplexing spread dsss fhss channel interference gsm architecture radio interface localization calling handover gprs utran umt core improvement medium access transport delivery agent advertisement discovery registration tunneling encapsulation reverse traditional like snoop fast recovery transmission timeout freezing selective retransmission wireless local area infrastructure ad hoc ieee physical control wi fi wep wpa lan threat bluetooth scenario stack mobility micro cellularip hawaii long term evolution lte overview sae requirement ep evolve e voice volte self organize son heterogeneous hetnet comparison g artificial intelligence history intelligent categorization component ai foundation sub current trend environment rationality nature learn solve problem search formulate example uninformed method breadth bfs depth dfs limited iterative deepening dfid inform greedy good memory bound heuristic climbing simulate annealing genetic adversarial game playing min max alpha beta prune knowledge reasoning brief propositional logic order inference fol forward chain backward engineering unification resolution uncertain uncertainty represent domain belief planning plan space partial hierarchical learning form pac statistical reinforcement reward passive active parse robotics robot hardware robotic healthcare retail banking thing iot digitization impact connect roadway factory smart connected building creature convergence ot m standardized world forum iotwf standardize data compute consideration relate fog edge hierarchy cloud sensor transducer classification specification actuator object topology enable technology frequency identification electro mechanical mem nfc near field communication low energy ble standardization alliance zigbee functional sublayer gateway backhaul analytic business benefit present scada background adapt tunnel legacy translation llns map t generic web coap mqtt specific home automation lighting appliance intrusion detection smoke gas detector city parking road structural health monitoring surveillance weather air pollution noise forest fire river grid renewable prognostic inventory payment vending logistic route scheduling fleet tracking shipment monitor agriculture irrigation green house industry diagnostic prognosis indoor quality lifestyle fitness wearable electronic create arduino raspberry pi cloudbit littlebit particle photon beaglebone black middleware api development make end rest json ld board platform connectivity question mix suppose b paper weightage proportional respective lecture hour mention syllabus useful course title credit image processing prerequisite apply mathematic objective understand fundamental explore dft d fft outcome successful completion learner able dt classify analyze discrete time implement transform use enhancement segmentation unit topic detail sampling reconstruction representation manipulation shifting reversal scaling addition multiplication linear convolution formulation mathematical proof circular auto cross correlation formula evaluation lti output fouri dtft relation idft linearity periodicity shift parseval computation sequence dit inverse spectral quantization file format bmp tiff jpeg spatial gray level transformation zero point histogram equalization neighborhood averaging subtraction smooth filter sharpen high boost median reduction discontinuity similaritie line robert prewitt sobel mask laplacian region grow splitting merge total statistic importance limitation tabulation diagrammatic graphic collection primary secondary collect census sample probability non regression equation meaning intercept slope error measure fit mae mape multiple coefficient test significance overall testing individual random estimation unbiasedness consistence moment maximum likelihood hypothesis null alternative neyman pearson mp ump lab construction theoretical computer science organization student generate give input string construct identify validate token lex yacc tools suggest list experiment implementation study reference book andrew appel princeton university jens palsberg modern java second edition purdue cambridge press charles fischer richard leblanc craft c education work consist journal include assignment practical final certification acceptance ensure satisfactory performance laboratory minimum passing mark shall follow case attendance oral exam tool reconnaissance gather information sniffer scanner related analyse set open email product crypto exchange vary message size integrity crypt apis whois dig traceroute n lookup registrar wireshark download install capture http promiscuous mode trace nmap option scan perform os fingerprinting ping xmas etc detect arpwatch arpe gratuitous dos hping ollydbg splint cpp check linux snort log personal iptable gpg cite scripting simulation cover develop demonstrate articulate cdma carry reuse hide expose terminal compare android studio suitable recommend transfer division illustration consider station sta ap locate x axis node fix situate middle distance separation variable hidden transmit rate loss db irrespective rt ct help send require obtain result setup configuration range presence bs static find way possible try iteration adjust kismet netstumbler gui write draw graphical primitive screen database native gps location alert receive income tax loan emi calculator deploy real realize build appropriate informed expert python publish acm springer prominent pea bayes note covering subtopic conduct mini project entire familiar virtualization deployment private hybrid community star adopt iaas saas paas secaas privacy commercial explain major commercially available containerization detailed lo origin cube nist advantage disadvantage host virtualbox kvm know demonstration run virtual inside hypervisor parameter andimplement bare metal xen hyperv vmware esxi functionality relevance configure manage instruction emphasize vms additional provide load balancing aws microsoft azure step windows amazon rdp vnc aw elastic app andimplementstorage storage support andimplementdatabase nosql rd mongodb firebase crud mongo andimplementsecurity practice protection identity iam working docker difference container involve finding installing orchestration kubernete cluster yaml dbaas selection solution statement recent comparative parallel quantum hosted similar material baremetal staas ms
+2025-01-04 23:59:32,635 - INFO - Query being searched: zigbee zero yaml yacc xmas xen write wpa worm world
+2025-01-04 23:59:33,263 - INFO - Results are ready!
+2025-01-04 23:59:33,263 - INFO - Results: [{'title': 'Untitled', 'link': 'https://web.mit.edu/~ecprice/Public/wordlist.ranked', 'snippet': '... world next t used go work last most products music buy data make them should product system post her city jan add policy number such inc please available r\xa0...', 'relevance_score': np.float64(0.04040819995389594)}, {'title': 'Untitled', 'link': 'https://mu.ac.in/wp-content/uploads/2021/10/6.15-T.E.-Comp-engg-Sem.-V-VI1.pdf', 'snippet': 'Jun 29, 2021 ... It is intended to provide a modern, industry-oriented education in Computer Engineering. It aims at producing trained professionals who can\xa0...', 'relevance_score': np.float64(0.03058108425592664)}, {'title': 'Untitled', 'link': 'http://ward.asia.wiki.org/assets/pages/wikis-most-replicated/words.txt', 'snippet': '... world 707 than 706 used 706 look 705 project 702 between 696 two 695 over 695 m 692 should 691 links 686 com 684 write ... zero 218 minimum 218 minimal 218\xa0...', 'relevance_score': np.float64(0.01572887195305917)}, {'title': 'Untitled', 'link': 'https://huggingface.co/jeniya/BERTOverflow/commit/106f611878b70bce8d9724d8cf38eafaf5e010a3.diff', 'snippet': '... write +simple +##01 +eas +We +document +##ert +state +prov +php +put +really +##arg +##ables +det +##lf +##work +Pro +av +##ular +blo +command +##we +both +\xa0...', 'relevance_score': np.float64(0.015389692221394519)}, {'title': 'Toy car mat 3d all over print tracksuits', 'link': 'https://lempreintedubois.fr/userfiles/lempreintedubois.fr/file/92212994259.pdf', 'snippet': '... world in this exciting game of military strategy, now with a refreshed look that includes updated figures, compelling board art, and improved Mission cards\xa0...', 'relevance_score': np.float64(0.012062472656916262)}, {'title': 'computer-engineering-syllabus-sem-vi-mumbai-university.pdf', 'link': 'https://www.vidyalankar.org/engineering/assets/docs/te/computer-engineering-syllabus-sem-vi-mumbai-university.pdf', 'snippet': 'Jun 29, 2021 ... It aims at producing trained professionals who can successfully acquainted with the demands of the industry worldwide. They obtain skills and\xa0...', 'relevance_score': np.float64(0.008922712353156486)}, {'title': 'Untitled', 'link': 'https://www.mit.edu/~ecprice/wordlist.100000', 'snippet': '... worlds worldscope worldsex worldstock worldview worldviews worldwatch worldwebcom worldwide worldwideshow worldworks worley worm wormbase wormer wormhole worms\xa0...', 'relevance_score': np.float64(0.005717211098629965)}, {'title': '333333 23135851162 the 13151942776 of 12997637966', 'link': 'ftp://ftp.cs.princeton.edu/pub/cs226/autocomplete/words-333333.txt', 'snippet': '... world 430847564 re 425903347 next 421438139 used 421086358 go 419765694 b 419483948 work 417601616 last 416210411 most 414377632 products 414028837 music\xa0...', 'relevance_score': np.float64(0.005578877897890356)}, {'title': 'Untitled', 'link': 'https://www.cs.princeton.edu/courses/archive/fall24/cos226/assignments/autocomplete/files/words-333333.txt', 'snippet': '... world 430847564 re 425903347 next 421438139 used 421086358 go 419765694 b 419483948 work 417601616 last 416210411 most 414377632 products 414028837 music\xa0...', 'relevance_score': np.float64(0.005578877897890356)}, {'title': 'Untitled', 'link': 'https://paper.vulsee.com/Dictionary-Of-Pentesting/Subdomain/2m-subdomains.txt', 'snippet': '... world FindMe skia ch03 helper oscar CSipSimple pdf bps site-packages hunbag owl lodash mean Hiooy licenses apache thesis Desktop stubdom ulinux Global gnu\xa0...', 'relevance_score': np.float64(0.0016686450935830739)}]
+2025-01-04 23:59:38,679 - INFO - Extracted Content: Module  
+ 
+Content 
+Hrs 
+1 
+ 
+Introduction to System Software 
+2 
+ 
+1.1 
+Concept of System Software, Goals of system software, system program 
+and system programming, Introduction to various system programs such 
+as Assembler, Macro processor, Loader, Linker, Compiler, Interpreter, 
+Device Drivers, Operating system, Editors, Debuggers. 
+ 
+2 
+ 
+Assemblers 
+7 
+ 
+2.1 
+Elements of Assembly Language programming, Assembly scheme, pass 
+structure of assembler, Assembler Design: Two pass assembler Design 
+and single pass Assembler Design for X86 processor, data structures used. 
+ 
+3 
+ 
+Macros and Macro Processor 
+6 
+ 
+3.1 
+Introduction, Macro definition and call, Features of Macro facility: 
+Simple, parameterized, conditional and nested. Design of Two pass macro 
+processor, data structures used. 
+ 
+4 
+ 
+Loaders and Linkers 
+6 
+ 
+4.1 
+Introduction, functions of loaders, Relocation and Linking concept, 
+Different loading schemes: Relocating loader, Direct Linking Loader, 
+Dynamic linking and loading. 
+ 
+5 
+ 
+Compilers: Analysis Phase 
+10 
+ 
+5.1 
+Introduction to compilers, Phases of compilers: 
+Lexical Analysis- Role of Finite State Automata in Lexical Analysis, 
+Design of Lexical analyzer, data structures used. 
+ 
+ 
+Syntax Analysis- Role of Context Free Grammar in Syntax analysis, 
+Types of Parsers: Top down parser- LL(1), Bottom up parser- SR Parser, 
+Operator precedence parser, SLR. 
+Semantic Analysis, Syntax directed definitions. 
+6 
+ 
+Compilers: Synthesis phase 
+8 
+ 
+6.1 
+Intermediate Code Generation: Types of Intermediate codes: Syntax 
+tree, Postfix notation, three address codes: Triples and Quadruples, 
+indirect triple. Code Optimization: Need and sources of optimization, 
+Code optimization techniques: Machine Dependent and Machine 
+Independent. Code Generation: Issues in the design of code generator, 
+code generation algorithm. Basic block and flow graph. 
+ 
+ 
+Module   
+Content 
+Hrs 
+1 
+ 
+Introduction - Number Theory and Basic Cryptography  
+8 
+ 
+1.1 Security Goals, Attacks, Services and Mechanisms, Techniques. Modular 
+Arithmetic: Euclidean Algorithm, Fermat‘s and Euler‘s theorem 
+ 
+ 
+1.2 Classical Encryption techniques, Symmetric cipher model, mono-
+alphabetic and polyalphabetic substitution techniques: Vigenere cipher, 
+playfair cipher, Hill cipher, transposition techniques: keyed and keyless 
+transposition ciphers 
+ 
+2 
+ 
+Symmetric and Asymmetric key Cryptography and key Management 
+11 
+ 
+2.1 Block cipher principles, block cipher modes of operation, DES, 
+Double DES, Triple DES, Advanced Encryption Standard (AES), Stream 
+Ciphers: RC4 algorithm. 
+ 
+ 
+2.2 Public key cryptography: Principles of public key cryptosystems- The 
+RSA Cryptosystem, The knapsack cryptosystem 
+ 
+ 
+2.3 Symmetric Key Distribution: KDC, Needham-schroeder protocol. 
+Kerberos: Kerberos Authentication protocol, Symmetric key agreement: 
+Diffie Hellman, Public key Distribution: Digital Certificate: X.509, PKI 
+ 
+3 
+ 
+Cryptographic Hash Functions 
+3 
+ 
+3.1 Cryptographic hash functions, Properties of secure hash function, MD5, 
+SHA-1, MAC, HMAC, CMAC. 
+ 
+4 
+ 
+Authentication Protocols & Digital Signature Schemes 
+5 
+ 
+4.1 User Authentication, Entity Authentication: Password Base, Challenge 
+Response Based 
+ 
+ 
+ 
+4.2 Digital Signature, Attacks on Digital Signature, Digital Signature Scheme: 
+RSA 
+ 
+5 
+ 
+Network Security and Applications 
+9 
+ 
+5.1 Network security basics: TCP/IP vulnerabilities (Layer wise), Network 
+Attacks: Packet Sniffing, ARP spoofing, port scanning, IP spoofing 
+ 
+ 
+5.2 Denial of Service: DOS attacks, ICMP flood, SYN flood, UDP flood, 
+Distributed Denial of Service 
+ 
+ 
+5.3 Internet Security Protocols: PGP, SSL, IPSEC. Network security: IDS, 
+Firewalls 
+ 
+6 
+ 
+System Security 
+3 
+ 
+6.1 Buffer Overflow, malicious Programs: Worms and Viruses, SQL injection  
+ 
+Module   
+Content 
+Hrs 
+1 
+ 
+Introduction to Mobile Computing 
+4 
+ 
+1.1 Introduction to Mobile Computing, Telecommunication Generations, 
+Cellular systems, 
+ 
+ 
+1.2 Electromagnetic 
+Spectrum, 
+Antenna, 
+Signal 
+Propagation, 
+Signal 
+Characteristics, Multiplexing, Spread Spectrum: DSSS & FHSS, Co-
+channel interference 
+ 
+2 
+ 
+GSM Mobile services 
+ 8 
+ 
+2.1 GSM Mobile services, System Architecture, Radio interface, Protocols, 
+Localization and Calling, Handover, security (A3, A5 & A8)  
+ 
+ 
+2.2 GPRS system and protocol architecture  
+ 
+ 
+2.3 UTRAN, UMTS core network; Improvements on Core Network,  
+ 
+3 
+ 
+Mobile Networking  
+8 
+ 
+3.1 Medium Access Protocol, Internet Protocol and Transport layer  
+ 
+ 
+3.2 Mobile IP: IP Packet Delivery, Agent Advertisement and Discovery, 
+Registration, Tunneling and Encapsulation, Reverse Tunneling. 
+ 
+ 
+3.3 Mobile TCP: Traditional TCP, Classical TCP Improvements like Indirect 
+TCP, Snooping TCP & Mobile TCP, Fast Retransmit/ Fast Recovery, 
+Transmission/Timeout Freezing, Selective Retransmission  
+ 
+4 
+ 
+Wireless Local Area Networks  
+6 
+ 
+4.1 Wireless Local Area Networks: Introduction, Infrastructure and ad-hoc 
+network 
+ 
+ 
+4.2 IEEE 802.11:System architecture , Protocol architecture , Physical layer, 
+Medium access control layer, MAC management, 802.11a, 802.11b 
+standard 
+ 
+ 
+4.3 Wi-Fi security : WEP ,WPA, Wireless LAN Threats , Securing Wireless 
+Networks 
+ 
+ 
+ 
+4.4 Bluetooth: Introduction, User Scenario, Architecture, protocol stack  
+ 
+5 
+ 
+Mobility Management  
+6 
+ 
+5.1 Mobility Management : Introduction, IP Mobility, Optimization, IPv6  
+ 
+ 
+5.2 Macro Mobility : MIPv6, FMIPv6 
+ 
+ 
+5.3 Micro Mobility: CellularIP, HAWAII, HMIPv6 
+ 
+6 
+ 
+Long-Term Evolution (LTE) of 3GPP  
+7 
+ 
+6.1 Long-Term Evolution (LTE) of 3GPP : LTE System Overview, 
+Evolution from UMTS to LTE  
+ 
+ 
+6.2 LTE/SAE Requirements, SAE Architecture  
+ 
+ 
+6.3 EPS: Evolved Packet System, E-UTRAN, Voice over LTE (VoLTE), 
+Introduction to LTE-Advanced 
+ 
+ 
+6.4 Self Organizing Network (SON-LTE), SON for Heterogeneous Networks 
+(HetNet), Comparison between Different Generations (2G, 3G, 4G and 5G), 
+Introduction to 5G  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Module  
+ 
+Content 
+Hrs 
+1 
+ 
+Introduction to Artificial Intelligence 
+4 
+ 
+1.1 
+Introduction, History of Artificial Intelligence, Intelligent Systems: 
+Categorization of Intelligent System, Components of AI Program, 
+Foundations of AI, Sub-areas of AI, Applications of AI, Current trends 
+in AI.  
+ 
+2 
+ 
+Intelligent Agents 
+4 
+ 
+2.1 
+Agents and Environments, The concept of rationality, The nature of 
+environment, The structure of Agents, Types of Agents, Learning 
+Agent. 
+ 
+ 
+2.2 
+Solving problem by Searching: Problem Solving Agent, Formulating 
+Problems, Example Problems.  
+ 
+3 
+ 
+Problem solving 
+10 
+ 
+3.1 
+Uninformed Search Methods: Breadth First Search (BFS), Depth First 
+Search (DFS), Depth Limited Search, Depth First Iterative Deepening 
+(DFID), Informed Search Methods: Greedy best first Search, A* 
+Search, Memory bounded heuristic Search. 
+ 
+3.2 
+Local Search Algorithms and Optimization Problems: Hill climbing 
+search Simulated annealing, Genetic algorithms. 
+ 
+ 
+3.3 
+Adversarial Search: Game Playing, Min-Max Search, Alpha Beta 
+Pruning  
+ 
+4 
+ 
+Knowledge and Reasoning 
+12 
+ 
+4.1 
+Knowledge based Agents, Brief Overview of propositional logic, First 
+Order Logic: Syntax and Semantic, Inference in FOL, Forward 
+chaining, backward Chaining.  
+ 
+4.2 
+Knowledge Engineering in First-Order Logic, Unification, Resolution 
+ 
+ 
+4.3 
+Uncertain Knowledge and Reasoning: Uncertainty, Representing 
+knowledge in an uncertain domain, The semantics of belief network, 
+Simple Inference in belief network 
+ 
+5 
+ 
+Planning and Learning  
+5 
+ 
+5.1 
+The planning problem, Planning with state space search, Partial order 
+planning, Hierarchical planning, Conditional Planning.  
+ 
+ 
+5.2 
+Learning: Forms of Learning, Theory of Learning, PAC learning. 
+Introduction to statistical learning (Introduction only)  
+Introduction to reinforcement learning: Learning from Rewards,   
+Passive Reinforcement Learning, Active reinforcement Learning 
+ 
+6 
+ 
+AI Applications  
+4 
+ 
+ 
+A. Introduction to NLP- Language models, Grammars, Parsing  
+B. Robotics - Robots, Robot hardware, Problems Robotics can 
+solve 
+C. AI applications in Healthcare, Retail, Banking  
+ 
+ 
+Module   
+Content 
+Hrs 
+1 
+ 
+Introduction to Internet of Things (IoT) 
+7 
+ 
+1.1 What is IoT?  - IoT and Digitization 
+ 
+1.2 IoT Impact – Connected Roadways, Connected Factory, Smart Connected 
+Buildings, Smart Creatures  
+1.3 Convergence of IT and OT, IoT Challenges 
+1.4 The oneM2M IoT Standardized Architecture 
+1.5 The IoT World Forum (IoTWF) Standardized Architecture 
+1.6 
+ 
+ 
+IoT Data Management and Compute Stack – Design considerations and Data 
+related problems, Fog Computing, Edge Computing, The Hierarchy of Edge, Fog 
+and Cloud 
+2 
+ 
+Things in IoT 
+7 
+ 
+2.1 Sensors/Transducers 
+– 
+Definition, 
+Principles, 
+Classifications, 
+Types, 
+Characteristics and Specifications  
+ 
+2.2 Actuators -– Definition, Principles, Classifications, Types, Characteristics and 
+Specifications 
+2.3 Smart Object – Definition, Characteristics and Trends 
+2.4 Sensor Networks – Architecture of Wireless Sensor Network, Network Topologies 
+2.5 Enabling IoT Technologies - Radio Frequency Identification Technology, Micro-
+Electro-Mechanical Systems (MEMS), NFC (Near Field Communication), 
+Bluetooth Low Energy (BLE), LTE-A (LTE Advanced), IEEE 802.15.4– 
+Standardization and Alliances, ZigBee. 
+3 
+ 
+The Core IoT Functional Stack 
+6 
+ 
+3.1 Layer 1 – Things: Sensors and Actuators Layer 
+ 
+3.2 Layer 2 – Communications Network Layer, Access Network Sublayer, Gateways 
+and Backhaul Sublayer, Network Transport Sublayer, IoT Network Management 
+Sublayer 
+ 
+3.3 Layer 3 – Applications and Analytics Layer, Analytics Vs. Control Applications, 
+Data Vs. Network Analytics, Data Analytics Vs. Business Benefits, Smart Services 
+4 
+ 
+Application Protocols for IoT 
+7 
+ 
+4.1 The Transport Layer 
+ 
+4.2 IoT Application Transport Methods 
+4.3 Application Layer Protocol Not Present  
+ 
+4.4 SCADA - Background on SCADA, Adapting SCADA for IP, Tunneling Legacy 
+SCADA over IP Networks, SCADA Protocol Translation, SCADA Transport over 
+LLNs with MAP-T,  
+ 
+ 
+4.5 Generic Web-Based Protocols 
+ 
+ 
+4.6 IoT Application Layer Protocols – CoAP and MQTT 
+ 
+5 
+ 
+Domain Specific IoTs 
+6 
+ 
+5.1 Home Automation – Smart Lighting, Smart Appliances, Intrusion Detection, 
+Smoke/Gas Detectors 
+ 
+5.2 Cities – Smart Parking, Smart Lighting, Smart Roads, Structural Health 
+Monitoring, Surveillance 
+5.3 Environment – Weather Monitoring, Air Pollution Monitoring, Noise Pollution 
+Monitoring, Forest Fire Detection, River Floods Detection  
+5.4 Energy – Smart Grids, Renewable Energy Systems, Prognostics 
+5.5 Retail – Inventory Management, Smart Payments, Smart Vending Machines 
+5.6 Logistics – Route Generation & Scheduling, Fleet Tracking, Shipment Monitoring 
+5.7 Agriculture – Smart Irrigation, Green House Control 
+5.8 Industry – Machine Diagnostics & Prognosis, Indoor Air Quality Monitoring 
+5.9 Health & Lifestyle – Health & Fitness Monitoring, Wearable Electronics 
+6 
+ 
+Create your own IoT 
+6 
+ 
+6.1 IoT Hardware -  Arduino, Raspberry Pi, ESP32, Cloudbit/Littlebits, Particle 
+Photon, Beaglebone Black.  
+ 
+6.2 IoT Software - languages for programming IoT hardware, for middleware 
+applications and API development, for making front ends, REST and JSON-LD 
+6.3 A comparison of IoT boards and platforms in terms of computing 
+ 
+6.4 A comparison of IoT boards and platforms in terms of development environments 
+and communication standards 
+ 
+ 
+6.5 A comparison of boards and platforms in terms of connectivity 
+ 
+ 
+6.6 A comparison of IoT software platforms 
+ 
+ 
+Questions will be mixed in nature (for example supposed Q.2 has part (a) from module 3 
+then part (b) will be from any module other than module 3) 
+4 
+Only Four question need to be solved. 
+5 
+In question paper weightage of each module will be proportional to number of respective 
+lecture hours as mention in the syllabus. 
+ 
+Useful Links  
+1 
+https://nptel.ac.in/courses/106/105/106105166/ 
+2 
+https://nptel.ac.in/courses/108/108/108108098/ 
+3 
+https://nptel.ac.in/courses/106/105/106105195/ 
+4 
+https://www.coursera.org/specializations/IoT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Course Code: 
+Course Title 
+Credit 
+CSDLO6012 
+Digital Signal & Image Processing 
+3 
+ 
+Prerequisite: Applied Engineering Mathematics 
+Course Objectives: 
+1 To understand the fundamental concepts of digital signal processing and Image processing 
+2 To explore DFT for 1-D and 2-D signal and FFT for 1-D signal 
+3 To apply processing techniques on 1-D and Image signals 
+4 To apply digital image processing techniques for edge detection 
+Course Outcomes: On successful completion of course, learners will be able to: 
+1 Understand the concept of DT Signal and DT Systems 
+2 Classify and analyze discrete time signals and systems 
+3 Implement Digital Signal Transform techniques DFT and FFT 
+4 Use the enhancement techniques for digital Image Processing 
+5 Apply image segmentation  techniques 
+ 
+Module 
+No. 
+Unit 
+No. 
+Topic details 
+Hrs. 
+1.0 
+Discrete-Time Signal and Discrete-Time System 
+10 
+1.1 
+Introduction to Digital Signal Processing, Sampling and 
+Reconstruction, Standard DT Signals, Concept of Digital 
+Frequency, Representation of DT signal using Standard DT Signals, 
+Signal Manipulations (shifting, reversal, scaling, addition, 
+multiplication). 
+1.2 
+Classification of Discrete-Time Signals, Classification of Discrete-
+Systems 
+1.3 
+Linear Convolution formulation for 1-D signal (without 
+mathematical 
+proof), 
+Circular 
+Convolution 
+(without 
+mathematical proof), Linear convolution using Circular 
+Convolution. Auto and Cross Correlation formula evaluation, 
+Concept of LTI system, Output of DT system using Time Domain 
+Linear Convolution. 
+2.0 
+Discrete Fourier Transform 
+05 
+2.1 
+Introduction to DTFT, DFT, Relation between DFT and DTFT, 
+IDFT 
+2.2 
+Properties of DFT without mathematical proof (Scaling and 
+Linearity, Periodicity, Time Shift and Frequency Shift, Time 
+Reversal, Convolution Property and Parseval’s Energy 
+Theorem). DFT computation using DFT properties. 
+2.3 
+Convolution of long sequences, Introduction to 2-D DFT 
+3.0 
+Fast Fourier Transform 
+04 
+     3.1 
+Need of FFT, Radix-2 DIT-FFT algorithm, 
+3.2 
+DIT-FFT Flow graph for N=4 and 8, Inverse FFT algorithm. 
+3.3 
+Spectral Analysis using FFT 
+4.0 
+Digital Image Fundamentals 
+05 
+4.1 
+Introduction to Digital Image, Digital Image Processing System, 
+Sampling and Quantization 
+4.2 
+Representation of Digital Image, Connectivity 
+4.3 
+Image File Formats: BMP, TIFF and JPEG. 
+5.0 
+Image Enhancement in Spatial domain 
+09 
+5.1 
+ Gray Level Transformations, Zero Memory Point Operations, 
+5.2 
+ Histogram Processing, Histogram equalization. 
+ 
+5.3 
+Neighborhood processing, Image averaging, Image Subtraction,
+Smoothing Filters -  Low pass averaging, Sharpening Filters-High
+Pass Filter, High Boost Filter, Median Filter for reduction   of  noise 
+6.0 
+Image Segmentation 
+06 
+6.1 
+Fundamentals, Segmentation based on Discontinuities  
+and Similarities 
+6.2 
+Point, line and Edge Detection, Image edge detection using Robert, 
+Prewitt and Sobel masks, Image edge Detection using Laplacian mask
+6.3 
+Region based segmentation: Region Growing, Region Splitting 
+and Merging 
+Total 
+39 
+ 
+Module  
+Content 
+Hrs 
+1 
+Introduction to Statistics 
+6 
+ 
+Functions – Importance – Uses and Limitations of Statistics. Statistical data–
+Classification, Tabulation, Diagrammatic & Graphic representation of data 
+ 
+2 
+Data Collection & Sampling Methods 
+6 
+ 
+Primary & Secondary data, Sources of data, Methods of collecting data. 
+Sampling – Census & Sample methods –Methods of sampling, Probability 
+Sampling and Non-Probability Sampling. 
+ 
+3 
+Introduction to Regression 
+8 
+ 
+Mathematical and Statistical Equation – Meaning of Intercept and Slope – 
+Error term – Measure for Model Fit –R2 – MAE – MAPE. 
+ 
+4 
+Introduction to Multiple Linear Regression 
+8 
+ 
+Multiple Linear Regression Model, Partial Regression Coefficients, Testing 
+Significance overall significance of Overall fit of the model, Testing  for 
+Individual Regression Coefficients 
+ 
+5 
+Statistical inference 
+6 
+ 
+Random sample -Parametric point estimation unbiasedness and consistence 
+- method of moments and method of maximum likelihood.  
+ 
+6 
+Tests of hypotheses 
+5 
+ 
+ Null and Alternative hypotheses. Types of errors.  Neyman-Pearson lemma-
+MP and UMP tests.   
+ 
+ 
+Questions will be mixed in nature (for example supposed Q.2 has part (a) from module 3 
+then part (b) will be from any module other than module 3) 
+4 
+Only Four question need to be solved. 
+5 
+In question paper weightage of each module will be proportional to number of respective 
+lecture hours as mention in the syllabus. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lab Code 
+Lab Name 
+Credit 
+CSL601 
+System Programming and Compiler Construction Lab 
+1 
+ 
+Prerequisite: Theoretical computer science, Operating system. Computer Organization and 
+Architecture 
+Lab Outcomes: At the end of the course, the students will be able to 
+1 Generate machine code by implementing two pass assemblers. 
+2 Implement Two pass macro processor. 
+3 Parse the given input string by constructing Top down/Bottom-up parser. 
+4 Identify and Validate tokens for given high level language and Implement synthesis phase of 
+compiler. 
+5 Explore LEX & YACC tools. 
+ 
+Suggested List of Experiments 
+Sr. No.   Title of Experiment  
+1 
+Implementations of two pass Assembler. 
+2 
+Implementation of Two pass Macro Processor. 
+3 
+Implementation of Lexical Analyzer. 
+4 
+Implementation of Parser (Any one). 
+5 
+Implementation of Intermediate code generation phase of compiler. 
+6 
+Implementation of code generation phase of compiler. 
+7 
+Study and implement experiments on LEX, YACC. 
+ 
+Reference Books: 
+1 
+Andrew W. Appel Princeton University. Jens Palsberg   Modern Compiler. 
+Implementation in Java, Second Edition. Purdue University. CAMBRIDGE 
+University press @2002. 
+2 
+Charles N. Fischer, Richard J. LeBlanc Crafting a compiler with C , pearson 
+Education 2007  
+ 
+Term Work: 
+1 Term work should consist of experiments based on suggested experiment list. 
+2 Journal must include at least 2 assignments on content of theory and practical of “System 
+Programming and Compiler Construction” 
+3 The final certification and acceptance of term work ensures that satisfactory performance of 
+laboratory work and minimum passing marks in term work. 
+4 The distribution of marks for term work shall be as follows: 
+Laboratory work (experiments/case studies): ....................................(15) Marks. 
+Assignment: ...................................................................................... (05) Marks. 
+Attendance ......................................................................................... (05) Marks 
+TOTAL: .............................................................................................. (25) Marks. 
+Oral & Practical exam will be based on the above and CSC601 syllabus. 
+ 
+ 
+ 
+ 
+ 
+ 
+Lab Code 
+Lab Name 
+Credit 
+CSL602 
+Cryptography & System Security Lab 
+1 
+ 
+Prerequisite: Computer Network 
+Lab Objectives:  
+1 To apply various encryption techniques  
+2 To study and implement various security mechanism 
+3 To explore the network security concept and tools 
+Lab Outcomes: At the end of the course, the students will be able to 
+1 apply the knowledge of symmetric and asymmetric cryptography to implement simple 
+ciphers. 
+2 explore the different network reconnaissance tools to gather information about networks. 
+3 explore and use tools like sniffers, port scanners and other related tools for analysing 
+packets in a Network. 
+4 set up firewalls and intrusion detection systems using open-source technologies and to 
+explore email security. 
+5 explore various attacks like buffer-overflow and web application attack. 
+ 
+ 
+Suggested List of Experiments 
+Sr. No 
+Title of Experiment  
+1 
+Design and Implementation of a product cipher using Substitution and Transposition 
+ciphers. 
+2 
+Implementation and analysis of RSA crypto system. 
+3 
+Implementation of Diffie Hellman Key exchange algorithm  
+4 
+For varying message sizes, test integrity of message using MD-5, SHA-1, and 
+analyse the performance of the two protocols. Use crypt APIs. 
+5 
+Study the use of network reconnaissance tools like WHOIS, dig, traceroute, ns 
+lookup to gather information about networks and domain registrars.  
+6 
+Study of packet sniffer tools: wireshark,:  
+1. Download and install wireshark and capture icmp, tcp, and http packets in 
+promiscuous mode. 
+ 2. Explore how the packets can be traced based on different filters.  
+7 
+Download and install nmap. Use it with different options to scan open ports, perform 
+OS fingerprinting, do a ping scan, tcp port scan, udp port scan, xmas scan etc. 
+8 
+Detect ARP spoofing using nmap and/or open-source tool ARPWATCH and 
+wireshark. Use arping tool to generate gratuitous arps and monitor using wireshark 
+9 
+Simulate DOS attack using Hping, hping3 and other tools  
+10 
+Simulate buffer overflow attack using Ollydbg, Splint, Cpp check etc 
+11 
+a. Set up IPSEC under LINUX.  
+b. Set up Snort and study the logs.  
+12 
+Setting up personal Firewall using iptables 
+13 
+Explore the GPG tool of linux to implement email security  
+14 
+SQL injection attack, Cross-Cite Scripting attack simulation  
+15 
+Case Study /Seminar: Topic beyond syllabus related to topics covered. 
+ 
+Term Work: 
+1 Term work should consist of 10 experiments. 
+2 Journal must include at least 2 assignments on content of theory and practical of 
+ 
+“Cryptography and System Security “ 
+3 The final certification and acceptance of term work ensures that satisfactory performance of 
+laboratory work and minimum passing marks in term work. 
+4 The distribution of marks for term work shall be as follows: 
+Lab Performance 15 Marks 
+Assignments 05 Marks 
+Attendance (Theory & practical) 05 Marks 
+ 
+ 
+ 
+ 
+ 
+ 
+Lab Code 
+Lab Name 
+Credit 
+CSL603 
+ Mobile Computing Lab   
+1 
+ 
+Prerequisite: Computer Networks 
+Lab Objectives:  
+1 To learn the mobile computing tools and software for implementation. 
+2 To understand the security algorithms in mobile networks 
+3 To learn security concepts 
+Lab Outcomes: At the end of the course, the students will be able to 
+1 develop and demonstrate mobile applications using various tools  
+2 articulate the knowledge of GSM, CDMA & Bluetooth technologies and demonstrate it.  
+3 Students will able to carry out simulation of frequency reuse, hidden/exposed terminal 
+problem 
+4 implement security algorithms for mobile communication network 
+5 demonstrate simulation and compare the performance of Wireless LAN 
+ 
+Suggested List of Experiments 
+The softwares like Android Studio, J2ME, NS2, NS3 and any other software which is suitable 
+are recommended for performing the practical. 
+Sr. No.     Title of Experiment  
+1 
+Implementation a Bluetooth network with application as transfer of a file from one 
+device to another. 
+2 
+To implement a basic function of Code Division Multiple Access (CDMA).  
+3 
+Implementation of GSM security algorithms (A3/A5/A8)  
+4 
+Illustration of Hidden Terminal/Exposed terminal Problem.  Consider two Wi-fi 
+base stations (STA) and an access point (AP) located along the x-axis. All the 
+nodes are fixed. The AP is situated at the middle of the two STA, the distance of 
+separation being 150 m. [variable]. Node #0 and node #1 are the hidden 
+terminals. Both are transmitting some data to the AP (almost at same rate) at the 
+same time. The loss across the wireless link between each STA and the AP is 
+fixed at 50 dB irrespective of the distance of separation. To study how 
+RTS/CTS helps in wireless networks,  
+1. No RTS/CTS is being sent.  
+2. Nodes do exchange RTS/CTS packets.  
+Compare the no. of packet retransmissions required in both the cases (as 
+obtained in the output) and compare the results.  
+5 
+To setup & configuration of Wireless Access Point (AP). Analyze the Wi-Fi 
+communication range in the presence of the access point (AP) and the base 
+station (BS). Consider BS and AP are static. Find out the maximum distance to 
+which two way communications is possible. Try multiple iterations by adjusting 
+its distance in the code and test it.  
+ 
+6 
+Study of security tools (like Kismet,Netstumbler) 
+7 
+Develop an application that uses GUI components.  
+8 
+Write an application that draws basic graphical primitives on the screen. 
+9 
+Develop an application that makes use of database. 
+10 
+Develop a native application that uses GPS location information.  
+11 
+Implement an application that creates an alert upon receiving a message. 
+ 
+12 
+Implementation of income tax/loan EMI calculator and deploy the same on real 
+devices  (Implementation of any real time application) 
+ 
+Term Work: 
+1 Term work should consist of 10 experiments. 
+2 Journal must include at least 2 assignments on content of theory and practical of “ Mobile 
+Computing”  
+3 The final certification and acceptance of term work ensures that satisfactory performance of 
+laboratory work and minimum passing marks in term work. 
+4 Total 25 Marks (Experiments: 15-marks, Attendance Theory& Practical: 05-marks, 
+Assignments: 05-marks) 
+ 
+Useful Links  
+1 
+https://nptel.ac.in/courses/106/106/106106147/ 
+2 
+https://www.coursera.org/learn/smart-device-mobile-emerging-technologies 
+ 
+ 
+ 
+ 
+ 
+ 
+Lab Code 
+Lab Name 
+Credit 
+CSL604 
+ Artificial Intelligence Lab 
+1 
+ 
+Prerequisite:  Discrete Mathematics, Data Structure 
+Lab Objectives:  
+1 To realize the basic techniques to build intelligent systems  
+2 To apply appropriate search techniques used in problem solving 
+3 To create knowledge base for uncertain data 
+Lab Outcomes: At the end of the course, the students will be able to 
+1 Identify languages and technologies for Artificial Intelligence 
+2 Understand and implement uninformed and informed searching techniques for real world 
+problems. 
+3 Create a knowledge base using any AI language. 
+4 Design and implement expert systems for real world problems. 
+ 
+Suggested List of Experiments  (programming in python) 
+Sr. No.   Title of Experiment  
+1 
+One case study on AI applications published in IEEE/ACM/Springer or any prominent 
+journal.  
+2 
+Assignments on State space formulation and PEAS representation for various AI 
+applications 
+3 
+Program on uninformed search methods. 
+4 
+Program on informed search methods. 
+5 
+Program on Game playing algorithms. 
+6 
+Program for first order Logic 
+7 
+Planning Programming 
+8 
+Implementation for Bayes Belief Network 
+Note: Any other practical covering the syllabus topics and subtopics can be conducted.  
+The programming assignment for First order logics could be in the form of a mini project  
+ 
+Term Work: 
+1 Term work should consist of a minimum of 8 experiments. 
+2 Journal must include at least 2 assignments on content of theory and practical of “Artificial 
+Intelligence” 
+3 The final certification and acceptance of term work ensures that satisfactory performance of 
+laboratory work and minimum passing marks in term work. 
+4 Total 25 Marks (Experiments: 15-marks, Attendance Theory & Practical: 05-marks, 
+Assignments: 05-marks) 
+ Oral & Practical exam: Based on the entire syllabus of CSC604: Artificial Intelligence 
+ 
+ 
+ 
+ 
+ 
+Lab Code 
+Lab Name 
+Credit 
+CSL605 
+ 
+Cloud Computing  
+ 
+2 
+Prerequisite: Computer Networks 
+Lab Objectives: The course has following objectives 
+1 To make students familiar with key concepts of virtualization. 
+2 To make students familiar with various deployment models of cloud such as private, public, 
+hybrid and community so that they star using and adopting appropriate type of cloud for their 
+application. 
+3 To make students familiar with various service models such as IaaS, SaaS, PaaS, Security as 
+a Service (SECaaS) and Database as a Service.  
+4 To make students familiar with security and privacy issues in cloud computing and how to 
+address them. 
+Lab Outcomes: At the end of the course, the students will be able to 
+1 Implement different types of virtualization techniques. 
+2 Analyze various cloud computing service models and implement them to solve the given 
+problems. 
+3 Design and develop real world web applications and deploy them on commercial cloud(s). 
+4 Explain major security issues in the cloud and mechanisms to address them. 
+5 Explore various commercially available cloud services and recommend the appropriate one for 
+the given application. 
+6 Implement the concept of containerization 
+Module 
+Detailed Contents 
+Hours 
+LO 
+01 
+Title:  Introduction and overview of cloud computing. 
+Objective: To understand the origin of cloud computing, cloud 
+cube model, NIST model, characteristics of cloud, different 
+deployment 
+models, 
+service 
+models, 
+advantages 
+and 
+disadvantages. 
+2 
+2 
+02 
+Title: To study and implement Hosted Virtualization using 
+VirtualBox& KVM. 
+Objective: To know the concept of Virtualization along with 
+their types, structures and mechanisms. This experiment should 
+have demonstration of creating and running Virtual machines 
+inside hosted hypervisors like VirtualBox and KVM with their 
+comparison based on various virtualization parameters. 
+2 
+1 
+ 
+03 
+Title: To study andImplement Bare-metal Virtualization using 
+Xen, HyperV or VMware Esxi. 
+Objective: To understand the functionality of Bare-metal 
+hypervisors and their relevance in cloud computing platforms. 
+This experiment should have demonstration of install, configure 
+and manage Bare Metal hypervisor along with instructions to 
+create and run virtual machines inside it. It should also 
+emphasize on accessing VMs in different environments along 
+with additional services provided by them like Load balancing, 
+Auto-Scaling, Security etc. 
+4 
+1 
+ 
+04 
+Title:  To study andImplement Infrastructure as a Service using 
+AWS/Microsoft Azure. 
+Objective: To demonstrate the steps to create and run virtual 
+machines inside Public cloud platform. This experiment should 
+emphasize on creating and running Linux/Windows Virtual 
+machine inside Amazon EC2 or Microsoft Azure Compute and 
+accessing them using RDP or VNC tools. 
+4 
+2 
+05 
+Title:  To study andImplement Platform as a Service using 
+AWS Elastic Beanstalk/ Microsoft Azure App Service. 
+Objective: To demonstrate the steps to deploy Web applications 
+or Web services written in different languages on AWS Elastic 
+Beanstalk/ Microsoft Azure App Service. 
+4 
+2 
+06 
+Title: To study andImplementStorage as a Service using Own 
+Cloud/ AWS S3, Glaciers/ Azure Storage. 
+Objective: To understand the concept of Cloud storage and to 
+demonstrate the different types of storages like object storage, 
+block level storages etc. supported by Cloud Platforms like Own 
+Cloud/ AWS S3, Glaciers/ Azure Storage. 
+4 
+2 
+07 
+Title: To study andImplementDatabase as a Service on 
+SQL/NOSQL databases like AWS RDS, AZURE SQL/ 
+MongoDB Lab/ Firebase. 
+Objective: To know the concept of Database as a Service 
+running on cloud and to demonstrate the CRUD operations on 
+different SQL and NOSQL databases running on cloud like 
+AWS RDS, AZURE SQL/ Mongo Lab/ Firebase. 
+2 
+2 
+08 
+Title: To study andImplementSecurity as a Service on 
+AWS/Azure  
+Objective: To understand the Security practices available in 
+public cloud platforms and to demonstrate various Threat 
+detection, Data protection and Infrastructure protection services 
+in AWS and Azure. 
+3 
+4 
+09 
+Title: To study and implement Identity and Access 
+Management (IAM) practices on AWS/Azure cloud. 
+Objective: To understand the working of Identity and Access 
+Management IAM in cloud computing and to demonstrate the 
+case study based on Identity and Access Management (IAM) on 
+AWS/Azure cloud platform.  
+2 
+2 
+10 
+Title: To study and Implement Containerization using Docker 
+Objective: To know the basic differences between Virtual 
+machine and Container. It involves demonstration of creating, 
+finding, building, installing, and running Linux/Windows 
+application containers inside local machine or cloud platform. 
+4 
+6 
+ 
+11 
+Title:  To study and implement container orchestration using 
+Kubernetes 
+Objective: To understand the steps to deploy Kubernetes 
+Cluster on local systems, deploy applications on Kubernetes, 
+creating a Service in Kubernetes, develop Kubernetes 
+configuration files in YAML and creating a deployment in 
+Kubernetes using YAML, 
+4 
+6 
+12 
+Mini-project: Design a Web Application hosted on public 
+cloud platform 
+[It should cover the concept of IaaS, PaaS, DBaaS, Storage as a 
+Service, Security as a Service etc.] 
+4 
+3, 5 
+ 
+Sr. No. 
+Suggested Assignment List (Any two) 
+LO 
+1 
+Assignment based on selection of suitable cloud platform solution 
+based on requirement analysis considering given problem 
+statement 
+5 
+2 
+Assignment on recent trends in cloud computing and related 
+technologies 
+5 
+3 
+Assignment on comparative study of different computing 
+technologies [Parallel, Distributed, Cluster, Grid, Quantum) 
+5 
+4 
+Comparative study of different hosted and bare metal Hypervisors 
+with suitable parameters along with their use in public/private 
+cloud platform 
+1 
+5 
+Assignment on explore and compare the similar type of services 
+provided by AWS and Azure [Any ten services] 
+5 
+ 
+Digital Material: 
+Sr. 
+No. 
+Topic 
+Link 
+1 
+Introduction and overview of cloud 
+computing 
+https://www.nist.gov/system/files/documents
+/itl/cloud/NIST_SP-500-291_Version-
+2_2013_June18_FINAL.pdf 
+2 
+Hosted Virtualization using KVM 
+https://phoenixnap.com/kb/ubuntu-install-
+kvm\ 
+3 
+Baremetal Virtualization using Xen 
+https://docs.citrix.com/en-us/xenserver/7-
+1/install.html 
+4 
+IaaS, PaaS, STaaS, DbaaS, IAM and 
+Security as a Service on AWS and 
+Azure 
+1) AWS 
+https://docs.aws.amazon.com/ 
+2) MS Azure 
+https://docs.microsoft.com/en-us/azure 
+5 
+Docker 
+https://docs.docker.com/get-started/ 
+ 
+6 
+Kubernetes 
+https://kubernetes.io/docs/home/
+2025-01-04 23:59:42,199 - INFO - After preprocessing: module content hrs introduction system software concept goal program programming assembler macro processor loader linker compiler interpreter device driver operating editor debugger element assembly language scheme pass structure design single datum definition feature facility simple parameterized conditional nested function relocation link different loading relocate direct dynamic linking analysis phase lexical role finite state automata analyzer syntax context free grammar type parser sr operator precedence slr semantic synthesis intermediate code generation tree postfix notation address triple quadruple indirect optimization need source technique machine dependent independent issue generator algorithm basic block flow graph number theory cryptography security attack service mechanism modular arithmetic euclidean theorem classical encryption symmetric cipher model alphabetic polyalphabetic substitution vigenere playfair hill transposition keyed keyless asymmetric key management principle modes operation des double advanced standard aes stream public rsa cryptosystem knapsack distribution kdc needham schroeder protocol kerbero kerberos authentication agreement diffie hellman digital certificate pki cryptographic hash property secure mac hmac cmac signature user entity password base challenge response network application tcp ip vulnerability layer wise packet sniffing arp spoofing port scanning spoof denial do icmp flood syn udp distribute internet pgp ssl ipsec id firewall buffer overflow malicious worm virus sql injection mobile computing telecommunication cellular electromagnetic spectrum antenna signal propagation characteristic multiplexing spread dsss fhss channel interference gsm architecture radio interface localization calling handover gprs utran umt core improvement medium access transport delivery agent advertisement discovery registration tunneling encapsulation reverse traditional like snoop fast recovery transmission timeout freezing selective retransmission wireless local area infrastructure ad hoc ieee physical control wi fi wep wpa lan threat bluetooth scenario stack mobility micro cellularip hawaii long term evolution lte overview sae requirement ep evolve e voice volte self organize son heterogeneous hetnet comparison g artificial intelligence history intelligent categorization component ai foundation sub current trend environment rationality nature learn solve problem search formulate example uninformed method breadth bfs depth dfs limited iterative deepening dfid inform greedy good memory bound heuristic climbing simulate annealing genetic adversarial game playing min max alpha beta prune knowledge reasoning brief propositional logic order inference fol forward chain backward engineering unification resolution uncertain uncertainty represent domain belief planning plan space partial hierarchical learning form pac statistical reinforcement reward passive active parse robotics robot hardware robotic healthcare retail banking thing iot digitization impact connect roadway factory smart connected building creature convergence ot m standardized world forum iotwf standardize data compute consideration relate fog edge hierarchy cloud sensor transducer classification specification actuator object topology enable technology frequency identification electro mechanical mem nfc near field communication low energy ble standardization alliance zigbee functional sublayer gateway backhaul analytic business benefit present scada background adapt tunnel legacy translation llns map t generic web coap mqtt specific home automation lighting appliance intrusion detection smoke gas detector city parking road structural health monitoring surveillance weather air pollution noise forest fire river grid renewable prognostic inventory payment vending logistic route scheduling fleet tracking shipment monitor agriculture irrigation green house industry diagnostic prognosis indoor quality lifestyle fitness wearable electronic create arduino raspberry pi cloudbit littlebit particle photon beaglebone black middleware api development make end rest json ld board platform connectivity question mix suppose b paper weightage proportional respective lecture hour mention syllabus useful course title credit image processing prerequisite apply mathematic objective understand fundamental explore dft d fft outcome successful completion learner able dt classify analyze discrete time implement transform use enhancement segmentation unit topic detail sampling reconstruction representation manipulation shifting reversal scaling addition multiplication linear convolution formulation mathematical proof circular auto cross correlation formula evaluation lti output fouri dtft relation idft linearity periodicity shift parseval computation sequence dit inverse spectral quantization file format bmp tiff jpeg spatial gray level transformation zero point histogram equalization neighborhood averaging subtraction smooth filter sharpen high boost median reduction discontinuity similaritie line robert prewitt sobel mask laplacian region grow splitting merge total statistic importance limitation tabulation diagrammatic graphic collection primary secondary collect census sample probability non regression equation meaning intercept slope error measure fit mae mape multiple coefficient test significance overall testing individual random estimation unbiasedness consistence moment maximum likelihood hypothesis null alternative neyman pearson mp ump lab construction theoretical computer science organization student generate give input string construct identify validate token lex yacc tools suggest list experiment implementation study reference book andrew appel princeton university jens palsberg modern java second edition purdue cambridge press charles fischer richard leblanc craft c education work consist journal include assignment practical final certification acceptance ensure satisfactory performance laboratory minimum passing mark shall follow case attendance oral exam tool reconnaissance gather information sniffer scanner related analyse set open email product crypto exchange vary message size integrity crypt apis whois dig traceroute n lookup registrar wireshark download install capture http promiscuous mode trace nmap option scan perform os fingerprinting ping xmas etc detect arpwatch arpe gratuitous dos hping ollydbg splint cpp check linux snort log personal iptable gpg cite scripting simulation cover develop demonstrate articulate cdma carry reuse hide expose terminal compare android studio suitable recommend transfer division illustration consider station sta ap locate x axis node fix situate middle distance separation variable hidden transmit rate loss db irrespective rt ct help send require obtain result setup configuration range presence bs static find way possible try iteration adjust kismet netstumbler gui write draw graphical primitive screen database native gps location alert receive income tax loan emi calculator deploy real realize build appropriate informed expert python publish acm springer prominent pea bayes note covering subtopic conduct mini project entire familiar virtualization deployment private hybrid community star adopt iaas saas paas secaas privacy commercial explain major commercially available containerization detailed lo origin cube nist advantage disadvantage host virtualbox kvm know demonstration run virtual inside hypervisor parameter andimplement bare metal xen hyperv vmware esxi functionality relevance configure manage instruction emphasize vms additional provide load balancing aws microsoft azure step windows amazon rdp vnc aw elastic app andimplementstorage storage support andimplementdatabase nosql rd mongodb firebase crud mongo andimplementsecurity practice protection identity iam working docker difference container involve finding installing orchestration kubernete cluster yaml dbaas selection solution statement recent comparative parallel quantum hosted similar material baremetal staas ms
+2025-01-05 00:01:17,549 - INFO - Emebeddings Created!
+2025-01-05 00:01:17,648 - INFO - Similarity Computed!
+2025-01-05 00:01:17,686 - INFO - Courses are ready to display!
+2025-01-05 00:01:17,686 - INFO - Courses: [{'id': 'noc25_cs31', 'title': 'Foundations of Cryptography', 'instructors': 'Prof. Ashish Choudhury', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs31/preview', 'similarity': 0.6270877122879028}, {'id': 'noc25_de09', 'title': 'Augmenting Design Thinking with Human-Computer Interaction', 'instructors': 'Prof. Sonal Atreya', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_de09/preview', 'similarity': 0.5598805546760559}, {'id': 'noc25_cs34', 'title': 'Fundamentals of Object Oriented Programming', 'instructors': 'Prof. Balasubramanian Raman', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs34/preview', 'similarity': 0.522875189781189}, {'id': 'noc25_cs68', 'title': 'Systems and Usable Security', 'instructors': 'Prof. Neminath Hubballi', 'duration': '4 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs68/preview', 'similarity': 0.5153423547744751}, {'id': 'noc25_mg63', 'title': 'Systems Engineering: Theory & Practice', 'instructors': 'Prof. Deepu Philip', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg63/preview', 'similarity': 0.49947574734687805}, {'id': 'noc25_cs59', 'title': 'Programming, Data Structures And Algorithms Using Python', 'instructors': 'Prof. Madhavan Mukund', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs59/preview', 'similarity': 0.4941810965538025}, {'id': 'noc25_cs16', 'title': 'Cryptography and Network Security', 'instructors': 'Prof. Sourav Mukhopadhyay', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs16/preview', 'similarity': 0.47822779417037964}, {'id': 'noc25_cs24', 'title': 'Design and Engineering of Computer Systems', 'instructors': 'Prof. Mythili Vutukuru', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs24/preview', 'similarity': 0.46917644143104553}]
+2025-01-05 00:01:35,323 - INFO - Extracted Content: Module  
+Content 
+Hrs 
+1 
+Data Warehousing Fundamentals 
+8 
+ 
+Introduction   to Data Warehouse, Data warehouse architecture, Data warehouse 
+versus Data Marts, E-R Modeling versus Dimensional Modeling, Information 
+Package Diagram, Data Warehouse Schemas; Star Schema, Snowflake Schema, 
+Factless Fact Table, Fact Constellation Schema. Update to the dimension tables. 
+Major steps in ETL process, OLTP versus OLAP, OLAP operations: Slice, Dice, 
+Rollup, Drilldown and Pivot.  
+ 
+2 
+Introduction to Data Mining, Data Exploration and Data Pre-processing 
+8 
+ 
+Data Mining Task Primitives, Architecture, KDD process, Issues in Data Mining, 
+Applications of Data Mining, Data Exploration: Types of Attributes, Statistical 
+Description of Data, Data Visualization, Data Preprocessing: Descriptive data 
+summarization, Cleaning, Integration & transformation, Data reduction, Data 
+Discretization and Concept hierarchy generation. 
+ 
+3 
+Classification  
+6 
+ 
+Basic Concepts, Decision Tree Induction, Naïve Bayesian Classification, 
+Accuracy and Error measures, Evaluating the Accuracy of a Classifier: Holdout 
+& Random Subsampling, Cross Validation, Bootstrap. 
+ 
+4 
+Clustering 
+6 
+ 
+Types of data in Cluster analysis, Partitioning Methods (k-Means, k-Medoids), 
+Hierarchical Methods (Agglomerative, Divisive). 
+ 
+5 
+Mining frequent patterns and associations 
+6 
+ 
+Market Basket Analysis, Frequent Item sets, Closed Item sets, and Association 
+Rule, Frequent Pattern Mining, Apriori Algorithm, Association Rule Generation, 
+Improving the Efficiency of Apriori, Mining Frequent Itemsets without candidate 
+generation, Introduction to Mining Multilevel Association Rules and Mining 
+Multidimensional Association Rules. 
+ 
+ 
+6 
+Web Mining 
+5 
+ 
+Introduction, Web Content Mining: Crawlers, Harvest System, Virtual Web View, 
+Personalization, Web Structure Mining: Page Rank, Clever, Web Usage Mining.
+2025-01-05 00:01:35,530 - INFO - After preprocessing: module content hrs datum warehousing fundamental introduction warehouse architecture versus mart e r modeling dimensional information package diagram schemas star schema snowflake factless fact table constellation update dimension major step etl process oltp olap operation slice dice rollup drilldown pivot mining exploration pre processing task primitive kdd issue application type attribute statistical description visualization preprocessing descriptive summarization cleaning integration transformation data reduction discretization concept hierarchy generation classification basic decision tree induction naïve bayesian accuracy error measure evaluate classifier holdout random subsampling cross validation bootstrap cluster analysis partition method k mean medoid hierarchical agglomerative divisive frequent pattern association market basket item set closed rule apriori algorithm improve efficiency mine itemset candidate multilevel multidimensional web crawler harvest system virtual view personalization structure page rank clever usage
+2025-01-05 00:02:42,673 - INFO - Emebeddings Created!
+2025-01-05 00:02:42,736 - INFO - Similarity Computed!
+2025-01-05 00:02:42,753 - INFO - Courses are ready to display!
+2025-01-05 00:02:42,753 - INFO - Courses: [{'id': 'noc25_de09', 'title': 'Augmenting Design Thinking with Human-Computer Interaction', 'instructors': 'Prof. Sonal Atreya', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_de09/preview', 'similarity': 0.613208532333374}, {'id': 'noc25_ar05', 'title': 'Research Methodology for Planning and Architectural Studies', 'instructors': 'Prof. Shubhajit Sadhukhan', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_ar05/preview', 'similarity': 0.5985488295555115}, {'id': 'noc25_hs06', 'title': 'Computer Aided Decision Systems - Industrial practices using Big Analytics', 'instructors': 'Prof. Deepu Philip\nProf. Amandeep Singh Oberoi', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_hs06/preview', 'similarity': 0.5812875032424927}, {'id': 'noc25_mg63', 'title': 'Systems Engineering: Theory & Practice', 'instructors': 'Prof. Deepu Philip', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg63/preview', 'similarity': 0.5269402861595154}, {'id': 'noc25_mg72', 'title': 'Quality Control and Improvement with MINITAB', 'instructors': 'Prof. Indrajit Mukherjee', 'duration': '8 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg72/preview', 'similarity': 0.5257935523986816}, {'id': 'noc25_mg52', 'title': 'Principles of Management', 'instructors': 'Prof. Usha Lenka', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg52/preview', 'similarity': 0.5234407782554626}, {'id': 'noc25_mg09', 'title': 'Business analytics and data mining Modeling using R', 'instructors': 'Prof. Gaurav Dixit', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg09/preview', 'similarity': 0.5194566249847412}, {'id': 'noc25_mg62', 'title': 'Supply Chain Digitization', 'instructors': 'Prof. Priyanka Verma\nProf. Sushmita Narayana\nProf. Debabrata Das', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_mg62/preview', 'similarity': 0.5192033648490906}]
+2025-01-05 00:03:08,318 - INFO - Extracted Content: Module  
+Content 
+Hrs 
+1 
+Data Warehousing Fundamentals 
+8 
+ 
+Introduction   to Data Warehouse, Data warehouse architecture, Data warehouse 
+versus Data Marts, E-R Modeling versus Dimensional Modeling, Information 
+Package Diagram, Data Warehouse Schemas; Star Schema, Snowflake Schema, 
+Factless Fact Table, Fact Constellation Schema. Update to the dimension tables. 
+Major steps in ETL process, OLTP versus OLAP, OLAP operations: Slice, Dice, 
+Rollup, Drilldown and Pivot.  
+ 
+2 
+Introduction to Data Mining, Data Exploration and Data Pre-processing 
+8 
+ 
+Data Mining Task Primitives, Architecture, KDD process, Issues in Data Mining, 
+Applications of Data Mining, Data Exploration: Types of Attributes, Statistical 
+Description of Data, Data Visualization, Data Preprocessing: Descriptive data 
+summarization, Cleaning, Integration & transformation, Data reduction, Data 
+Discretization and Concept hierarchy generation. 
+ 
+3 
+Classification  
+6 
+ 
+Basic Concepts, Decision Tree Induction, Naïve Bayesian Classification, 
+Accuracy and Error measures, Evaluating the Accuracy of a Classifier: Holdout 
+& Random Subsampling, Cross Validation, Bootstrap. 
+ 
+4 
+Clustering 
+6 
+ 
+Types of data in Cluster analysis, Partitioning Methods (k-Means, k-Medoids), 
+Hierarchical Methods (Agglomerative, Divisive). 
+ 
+5 
+Mining frequent patterns and associations 
+6 
+ 
+Market Basket Analysis, Frequent Item sets, Closed Item sets, and Association 
+Rule, Frequent Pattern Mining, Apriori Algorithm, Association Rule Generation, 
+Improving the Efficiency of Apriori, Mining Frequent Itemsets without candidate 
+generation, Introduction to Mining Multilevel Association Rules and Mining 
+Multidimensional Association Rules. 
+ 
+ 
+6 
+Web Mining 
+5 
+ 
+Introduction, Web Content Mining: Crawlers, Harvest System, Virtual Web View, 
+Personalization, Web Structure Mining: Page Rank, Clever, Web Usage Mining.
+2025-01-05 00:03:08,410 - INFO - After preprocessing: module content hrs datum warehousing fundamental introduction warehouse architecture versus mart e r modeling dimensional information package diagram schemas star schema snowflake factless fact table constellation update dimension major step etl process oltp olap operation slice dice rollup drilldown pivot mining exploration pre processing task primitive kdd issue application type attribute statistical description visualization preprocessing descriptive summarization cleaning integration transformation data reduction discretization concept hierarchy generation classification basic decision tree induction naïve bayesian accuracy error measure evaluate classifier holdout random subsampling cross validation bootstrap cluster analysis partition method k mean medoid hierarchical agglomerative divisive frequent pattern association market basket item set closed rule apriori algorithm improve efficiency mine itemset candidate multilevel multidimensional web crawler harvest system virtual view personalization structure page rank clever usage
+2025-01-05 00:03:08,410 - INFO - Query being searched: web warehousing warehouse visualization virtual view versus validation usage update
+2025-01-05 00:03:09,075 - INFO - Results are ready!
+2025-01-05 00:03:09,075 - INFO - Results: [{'title': 'What is ETL (Extract, Transform, Load)? | IBM', 'link': 'https://www.ibm.com/think/topics/etl', 'snippet': '... storage in a data warehouse, data lake or other target system. ETL data ... Data virtualization functions enable an organization to create virtual data warehouses\xa0...', 'relevance_score': np.float64(0.07161826778623565)}, {'title': 'Snowflake - Tableau', 'link': 'https://help.tableau.com/current/pro/desktop/en-us/examples_snowflake.htm', 'snippet': 'For more information, see Default virtual warehouses in Snowflake. From the Database drop-down a database or use the text box to search for a database by name.', 'relevance_score': np.float64(0.03668390566439303)}, {'title': 'Failed to update data source credentials - Microsoft Fabric Community', 'link': 'https://community.powerbi.com/t5/Desktop/Failed-to-update-data-source-credentials/td-p/3123193', 'snippet': 'Hi Community, facing the following issue on the Power BI service when using Web connector. The credentials are validated and able to fetch data on.', 'relevance_score': np.float64(0.03311682743238713)}, {'title': 'Default Power BI semantic models - Microsoft Fabric | Microsoft Learn', 'link': 'https://learn.microsoft.com/en-us/fabric/data-warehouse/semantic-models', 'snippet': 'Aug 6, 2024 ... ... visualization, discovery, and consumption. Power BI semantic models ... or DirectQuery mode using SQL analytics endpoint or Warehouse data.', 'relevance_score': np.float64(0.03228462273325124)}, {'title': 'Why can I not understand what DataBricks is? Can someone explain ...', 'link': 'https://www.reddit.com/r/dataengineering/comments/13qg3t1/why_can_i_not_understand_what_databricks_is_can/', 'snippet': 'May 24, 2023 ... On this, they also built a virtual data warehouse interface, so now ... You can use Scala, R, Python, or SQL, but it gets a little complicated\xa0...', 'relevance_score': np.float64(0.022023584542004523)}, {'title': 'Manage hosted feature layers—ArcGIS Online Help | Documentation', 'link': 'https://doc.arcgis.com/en/arcgis-online/manage-data/manage-hosted-feature-layers.htm', 'snippet': 'When you enable the options Enable Sync (required for offline use and collaboration) or Keep track of changes to the data (add, update, delete features) on your\xa0...', 'relevance_score': np.float64(0.01804311540894436)}, {'title': 'Data Lake vs Data Warehouse: 6 Key Differences | Qlik', 'link': 'https://www.qlik.com/us/data-lake/data-lake-vs-data-warehouse', 'snippet': 'The large majority of organizations primarily use data warehouses and the clear trend is toward cloud data warehouses. Data lakes are typically used by data\xa0...', 'relevance_score': np.float64(0.01438939342955446)}, {'title': 'Please Stop Using Local Storage - DEV Community', 'link': 'https://dev.to/rdegges/please-stop-using-local-storage-1i04', 'snippet': "Jan 29, 2018 ... Local storage shouldn't be used to store sensitive data. It's unsafe!. Tagged with programming, security, javascript.", 'relevance_score': np.float64(0.004101369717676798)}, {'title': 'For those of you who use SQL. How do you use it with PowerBI? : r ...', 'link': 'https://www.reddit.com/r/PowerBI/comments/17gxljv/for_those_of_you_who_use_sql_how_do_you_use_it/', 'snippet': 'Oct 26, 2023 ... I use sql to clean the data and build out the tables I need for a specific project externally to power bi and store them in my teams database.', 'relevance_score': np.float64(0.0035511244370037063)}, {'title': 'sql - When to use a View instead of a Table? - Stack Overflow', 'link': 'https://stackoverflow.com/questions/4378068/when-to-use-a-view-instead-of-a-table', 'snippet': 'Dec 7, 2010 ... Views can hide database-specific stuff from you. E.g. if you need to do some checks using Oracles SYS_CONTEXT function or many other things; You\xa0...', 'relevance_score': np.float64(0.0)}]
