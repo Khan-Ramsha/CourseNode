@@ -3014,3 +3014,168 @@ Personalization, Web Structure Mining: Page Rank, Clever, Web Usage Mining.
 2025-01-05 00:03:08,410 - INFO - Query being searched: web warehousing warehouse visualization virtual view versus validation usage update
 2025-01-05 00:03:09,075 - INFO - Results are ready!
 2025-01-05 00:03:09,075 - INFO - Results: [{'title': 'What is ETL (Extract, Transform, Load)? | IBM', 'link': 'https://www.ibm.com/think/topics/etl', 'snippet': '... storage in a data warehouse, data lake or other target system. ETL data ... Data virtualization functions enable an organization to create virtual data warehouses\xa0...', 'relevance_score': np.float64(0.07161826778623565)}, {'title': 'Snowflake - Tableau', 'link': 'https://help.tableau.com/current/pro/desktop/en-us/examples_snowflake.htm', 'snippet': 'For more information, see Default virtual warehouses in Snowflake. From the Database drop-down a database or use the text box to search for a database by name.', 'relevance_score': np.float64(0.03668390566439303)}, {'title': 'Failed to update data source credentials - Microsoft Fabric Community', 'link': 'https://community.powerbi.com/t5/Desktop/Failed-to-update-data-source-credentials/td-p/3123193', 'snippet': 'Hi Community, facing the following issue on the Power BI service when using Web connector. The credentials are validated and able to fetch data on.', 'relevance_score': np.float64(0.03311682743238713)}, {'title': 'Default Power BI semantic models - Microsoft Fabric | Microsoft Learn', 'link': 'https://learn.microsoft.com/en-us/fabric/data-warehouse/semantic-models', 'snippet': 'Aug 6, 2024 ... ... visualization, discovery, and consumption. Power BI semantic models ... or DirectQuery mode using SQL analytics endpoint or Warehouse data.', 'relevance_score': np.float64(0.03228462273325124)}, {'title': 'Why can I not understand what DataBricks is? Can someone explain ...', 'link': 'https://www.reddit.com/r/dataengineering/comments/13qg3t1/why_can_i_not_understand_what_databricks_is_can/', 'snippet': 'May 24, 2023 ... On this, they also built a virtual data warehouse interface, so now ... You can use Scala, R, Python, or SQL, but it gets a little complicated\xa0...', 'relevance_score': np.float64(0.022023584542004523)}, {'title': 'Manage hosted feature layers—ArcGIS Online Help | Documentation', 'link': 'https://doc.arcgis.com/en/arcgis-online/manage-data/manage-hosted-feature-layers.htm', 'snippet': 'When you enable the options Enable Sync (required for offline use and collaboration) or Keep track of changes to the data (add, update, delete features) on your\xa0...', 'relevance_score': np.float64(0.01804311540894436)}, {'title': 'Data Lake vs Data Warehouse: 6 Key Differences | Qlik', 'link': 'https://www.qlik.com/us/data-lake/data-lake-vs-data-warehouse', 'snippet': 'The large majority of organizations primarily use data warehouses and the clear trend is toward cloud data warehouses. Data lakes are typically used by data\xa0...', 'relevance_score': np.float64(0.01438939342955446)}, {'title': 'Please Stop Using Local Storage - DEV Community', 'link': 'https://dev.to/rdegges/please-stop-using-local-storage-1i04', 'snippet': "Jan 29, 2018 ... Local storage shouldn't be used to store sensitive data. It's unsafe!. Tagged with programming, security, javascript.", 'relevance_score': np.float64(0.004101369717676798)}, {'title': 'For those of you who use SQL. How do you use it with PowerBI? : r ...', 'link': 'https://www.reddit.com/r/PowerBI/comments/17gxljv/for_those_of_you_who_use_sql_how_do_you_use_it/', 'snippet': 'Oct 26, 2023 ... I use sql to clean the data and build out the tables I need for a specific project externally to power bi and store them in my teams database.', 'relevance_score': np.float64(0.0035511244370037063)}, {'title': 'sql - When to use a View instead of a Table? - Stack Overflow', 'link': 'https://stackoverflow.com/questions/4378068/when-to-use-a-view-instead-of-a-table', 'snippet': 'Dec 7, 2010 ... Views can hide database-specific stuff from you. E.g. if you need to do some checks using Oracles SYS_CONTEXT function or many other things; You\xa0...', 'relevance_score': np.float64(0.0)}]
+2025-01-06 18:50:42,409 - INFO - Extracted Content: Module   
+Content 
+Hrs 
+1 
+ 
+Introduction - Number Theory and Basic Cryptography  
+8 
+ 
+1.1 Security Goals, Attacks, Services and Mechanisms, Techniques. Modular 
+Arithmetic: Euclidean Algorithm, Fermat‘s and Euler‘s theorem 
+ 
+ 
+1.2 Classical Encryption techniques, Symmetric cipher model, mono-
+alphabetic and polyalphabetic substitution techniques: Vigenere cipher, 
+playfair cipher, Hill cipher, transposition techniques: keyed and keyless 
+transposition ciphers 
+ 
+2 
+ 
+Symmetric and Asymmetric key Cryptography and key Management 
+11 
+ 
+2.1 Block cipher principles, block cipher modes of operation, DES, 
+Double DES, Triple DES, Advanced Encryption Standard (AES), Stream 
+Ciphers: RC4 algorithm. 
+ 
+ 
+2.2 Public key cryptography: Principles of public key cryptosystems- The 
+RSA Cryptosystem, The knapsack cryptosystem 
+ 
+ 
+2.3 Symmetric Key Distribution: KDC, Needham-schroeder protocol. 
+Kerberos: Kerberos Authentication protocol, Symmetric key agreement: 
+Diffie Hellman, Public key Distribution: Digital Certificate: X.509, PKI 
+ 
+3 
+ 
+Cryptographic Hash Functions 
+3 
+ 
+3.1 Cryptographic hash functions, Properties of secure hash function, MD5, 
+SHA-1, MAC, HMAC, CMAC. 
+ 
+4 
+ 
+Authentication Protocols & Digital Signature Schemes 
+5 
+ 
+4.1 User Authentication, Entity Authentication: Password Base, Challenge 
+Response Based 
+ 
+ 
+ 
+4.2 Digital Signature, Attacks on Digital Signature, Digital Signature Scheme: 
+RSA 
+ 
+5 
+ 
+Network Security and Applications 
+9 
+ 
+5.1 Network security basics: TCP/IP vulnerabilities (Layer wise), Network 
+Attacks: Packet Sniffing, ARP spoofing, port scanning, IP spoofing 
+ 
+ 
+5.2 Denial of Service: DOS attacks, ICMP flood, SYN flood, UDP flood, 
+Distributed Denial of Service 
+ 
+ 
+5.3 Internet Security Protocols: PGP, SSL, IPSEC. Network security: IDS, 
+Firewalls 
+ 
+6 
+ 
+System Security 
+3 
+ 
+6.1 Buffer Overflow, malicious Programs: Worms and Viruses, SQL injection
+2025-01-06 18:50:42,663 - INFO - After preprocessing: module content hrs introduction number theory basic cryptography security goal attack service mechanism technique modular arithmetic euclidean algorithm theorem classical encryption symmetric cipher model alphabetic polyalphabetic substitution vigenere playfair hill transposition keyed keyless asymmetric key management block principle modes operation des double triple advanced standard aes stream public rsa cryptosystem knapsack distribution kdc needham schroeder protocol kerbero kerberos authentication agreement diffie hellman digital certificate pki cryptographic hash function property secure mac hmac cmac signature scheme user entity password base challenge response network application tcp ip vulnerability layer wise packet sniffing arp spoofing port scanning spoof denial do icmp flood syn udp distribute internet pgp ssl ipsec id firewall system buffer overflow malicious program worm virus sql injection
+2025-01-06 18:51:48,357 - INFO - Emebeddings Created!
+2025-01-06 18:51:48,459 - INFO - Similarity Computed!
+2025-01-06 18:51:48,492 - INFO - Courses are ready to display!
+2025-01-06 18:51:48,492 - INFO - Courses: [{'id': 'noc25_cs31', 'title': 'Foundations of Cryptography', 'instructors': 'Prof. Ashish Choudhury', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs31/preview', 'similarity': 0.7002407908439636}, {'id': 'noc25_cs68', 'title': 'Systems and Usable Security', 'instructors': 'Prof. Neminath Hubballi', 'duration': '4 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs68/preview', 'similarity': 0.6735787391662598}, {'id': 'noc25_cs16', 'title': 'Cryptography and Network Security', 'instructors': 'Prof. Sourav Mukhopadhyay', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs16/preview', 'similarity': 0.6166042685508728}, {'id': 'noc25_ee54', 'title': 'Network Security', 'instructors': 'Prof. Gaurav S. Kasbekar', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_ee54/preview', 'similarity': 0.5887144804000854}, {'id': 'noc25_cs63', 'title': 'Secure Computation: Part I', 'instructors': 'Prof. Ashish Choudhury', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs63/preview', 'similarity': 0.5798696875572205}, {'id': 'noc25_cs08', 'title': 'Blockchain and its Applications', 'instructors': 'Prof. Sandip Chakraborty\nProf. Shamik Sural', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs08/preview', 'similarity': 0.5332385897636414}, {'id': 'noc25_cs15', 'title': 'Computer Networks And Internet Protocol', 'instructors': 'Prof. Soumya Kanti Ghosh\nProf. Sandip Chakraborty', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs15/preview', 'similarity': 0.482785701751709}, {'id': 'noc25_cs54', 'title': 'Parallel Computer Architecture', 'instructors': 'Prof. Hemangee K. Kapoor', 'duration': '12 Weeks', 'url': 'https://onlinecourses.nptel.ac.in/noc25_cs54/preview', 'similarity': 0.44669458270072937}]
+2025-01-06 18:52:37,401 - INFO - Extracted Content: Module   
+Content 
+Hrs 
+1 
+ 
+Introduction - Number Theory and Basic Cryptography  
+8 
+ 
+1.1 Security Goals, Attacks, Services and Mechanisms, Techniques. Modular 
+Arithmetic: Euclidean Algorithm, Fermat‘s and Euler‘s theorem 
+ 
+ 
+1.2 Classical Encryption techniques, Symmetric cipher model, mono-
+alphabetic and polyalphabetic substitution techniques: Vigenere cipher, 
+playfair cipher, Hill cipher, transposition techniques: keyed and keyless 
+transposition ciphers 
+ 
+2 
+ 
+Symmetric and Asymmetric key Cryptography and key Management 
+11 
+ 
+2.1 Block cipher principles, block cipher modes of operation, DES, 
+Double DES, Triple DES, Advanced Encryption Standard (AES), Stream 
+Ciphers: RC4 algorithm. 
+ 
+ 
+2.2 Public key cryptography: Principles of public key cryptosystems- The 
+RSA Cryptosystem, The knapsack cryptosystem 
+ 
+ 
+2.3 Symmetric Key Distribution: KDC, Needham-schroeder protocol. 
+Kerberos: Kerberos Authentication protocol, Symmetric key agreement: 
+Diffie Hellman, Public key Distribution: Digital Certificate: X.509, PKI 
+ 
+3 
+ 
+Cryptographic Hash Functions 
+3 
+ 
+3.1 Cryptographic hash functions, Properties of secure hash function, MD5, 
+SHA-1, MAC, HMAC, CMAC. 
+ 
+4 
+ 
+Authentication Protocols & Digital Signature Schemes 
+5 
+ 
+4.1 User Authentication, Entity Authentication: Password Base, Challenge 
+Response Based 
+ 
+ 
+ 
+4.2 Digital Signature, Attacks on Digital Signature, Digital Signature Scheme: 
+RSA 
+ 
+5 
+ 
+Network Security and Applications 
+9 
+ 
+5.1 Network security basics: TCP/IP vulnerabilities (Layer wise), Network 
+Attacks: Packet Sniffing, ARP spoofing, port scanning, IP spoofing 
+ 
+ 
+5.2 Denial of Service: DOS attacks, ICMP flood, SYN flood, UDP flood, 
+Distributed Denial of Service 
+ 
+ 
+5.3 Internet Security Protocols: PGP, SSL, IPSEC. Network security: IDS, 
+Firewalls 
+ 
+6 
+ 
+System Security 
+3 
+ 
+6.1 Buffer Overflow, malicious Programs: Worms and Viruses, SQL injection
+2025-01-06 18:52:37,583 - INFO - After preprocessing: module content hrs introduction number theory basic cryptography security goal attack service mechanism technique modular arithmetic euclidean algorithm theorem classical encryption symmetric cipher model alphabetic polyalphabetic substitution vigenere playfair hill transposition keyed keyless asymmetric key management block principle modes operation des double triple advanced standard aes stream public rsa cryptosystem knapsack distribution kdc needham schroeder protocol kerbero kerberos authentication agreement diffie hellman digital certificate pki cryptographic hash function property secure mac hmac cmac signature scheme user entity password base challenge response network application tcp ip vulnerability layer wise packet sniffing arp spoofing port scanning spoof denial do icmp flood syn udp distribute internet pgp ssl ipsec id firewall system buffer overflow malicious program worm virus sql injection
+2025-01-06 18:52:37,634 - INFO - Query being searched: worm wise vulnerability virus vigenere user udp triple transposition theory
+2025-01-06 18:52:38,600 - INFO - Results are ready!
+2025-01-06 18:52:38,600 - INFO - Results: [{'title': 'PRATHYUSHA ENGINEERING COLLEGE', 'link': 'https://prathyusha.edu.in/wp-content/uploads/2023/11/crytography-r2017.pdf', 'snippet': 'transposition techniques, steganography- Foundations of modern cryptography: perfect security – information theory – product cryptosystem – cryptanalysis.', 'relevance_score': np.float64(0.08639038961891524)}, {'title': 'CompTIA Security+ Study Guide with over 500 Practice Test Questions', 'link': 'https://dl1.technet24.ir/Downloads/EBooks/Security/CompTIA-Security-Study-Guide-with-over-500-Practice-Test-Questions-Exam-SY0-701-9th-Edition.pdf', 'snippet': 'FIGURE 5.8 Nessus vulnerability in the NIST National. Vulnerability Database... ... Vigenère cipher table. FIGURE 7.2 A simple transposition cipher in action.', 'relevance_score': np.float64(0.07309399009060913)}, {'title': 'unit - I INTRODUCTION Security Attacks, Services and Mechanisms', 'link': 'https://www.kdkce.edu.in/pdf/CIS%20notes.pdf', 'snippet': 'Beyond that, the security depends on the secrecy of the key, not the secrecy of the algorithm. Two requirements for secure use of symmetric encryption: – A\xa0...', 'relevance_score': np.float64(0.0693058686469333)}, {'title': 'UNIT - 1 SCS1316 - NETWORK SECURITY', 'link': 'https://sist.sathyabama.ac.in/sist_coursematerial/uploads/SCS1316.pdf', 'snippet': 'Network security: Introduction of distributed systems and the use of networks and communications facilities for carrying data between terminal user and computer\xa0...', 'relevance_score': np.float64(0.0510594337332093)}, {'title': 'LECTURE NOTES', 'link': 'https://cvr.ac.in/cse/stud/NOTES/NS/NS.pdf', 'snippet': 'access to that data Service threats exploit service flaws in computers to inhibit use by legitimate users Viruses and worms are two examples of software attacks\xa0...', 'relevance_score': np.float64(0.03152005805425553)}, {'title': 'INFORMATION SECURITY [R15A0519] LECTURE NOTES MALLA ...', 'link': 'https://mrcet.com/downloads/digital_notes/CSE/III%20Year/Information%20Security.pdf', 'snippet': 'users Viruses and worms are two examples of software attacks inserted into the ... UDP domains to conveniently and securely use the services of a network\xa0...', 'relevance_score': np.float64(0.028237964907997456)}, {'title': 'Chapter 1. Is There a Security Problem in Computing? 1.0 ...', 'link': 'http://mu.ac.in/wp-content/uploads/2014/04/Information-Security-subject-M.SC_.IT-Part-2.pdf', 'snippet': 'Apr 10, 2014 ... Is There a Security Problem in Computing? 1.0 Objectives. 1.1 1.1. What Does "Secure" Mean? 1.2 Attacks. 1.2.1 Vulnerabilities, Threats, Attacks\xa0...', 'relevance_score': np.float64(0.02127399421161194)}, {'title': "CAP's Introduction to Cybersecurity - pdf.", 'link': 'https://www.gocivilairpatrol.com/media/cms/CAP_AECyberModule_9D4693A49944D.pdf', 'snippet': 'You can use the glossary to look up concepts and commands and rapidly build your understanding. NOTE: This module is fully intended by Civil Air Patrol to be\xa0...', 'relevance_score': np.float64(0.014093957911491982)}, {'title': 'UNIT-1-OVERVIEW 1.1 Computer security concepts 1.2 The OSI ...', 'link': 'https://www.gacwrmd.in/learning/Computer/7MCE3C1-Cryptography%20and%20Network%20Security.pdf', 'snippet': 'It is necessary to decide where to use the security mechanisms, both in terms of physical placement(at what points in a network) and in a logical sense(at what\xa0...', 'relevance_score': np.float64(0.013769771143961648)}, {'title': 'CRYPTOGRAPHY AND NETWORK SECURITY CS8792 NOTES', 'link': 'https://www.msajce-edu.in/academics/cse/LectureNote/CS8792-LN.pdf', 'snippet': 'Viruses and worms are two examples of software attacks. Such attacks ... use three stages of encryption with three different keys. This is called ad\xa0...', 'relevance_score': np.float64(0.012179988851367476)}]
